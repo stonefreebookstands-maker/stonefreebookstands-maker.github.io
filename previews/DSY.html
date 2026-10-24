@@ -1,0 +1,803 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="../sets/DSY-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
+	<title>DSY visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('../resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+			border-radius: 3.733% / 2.677%;
+		}
+		.close-btn {
+			background: url('../img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('../img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+			border-radius: 3.733% / 2.677%;
+		}
+		.flip-btn {
+			background: url('../img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('../img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: grid;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/DSY-files/logo.png" />
+	<img class="preload-hidden" src="../sets/DSY-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a id="header-articles-link" onclick="window.location.href = rootPath + '/all-articles'" style="display: none;"><img id="header-articles" class="sg-icon">Articles</a>
+			<a id="header-decks-link" onclick="window.location.href = rootPath + '/decks'" style="display: none;"><img id="header-decks" class="sg-icon">Decks</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deckbuilder" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
+		</div>
+	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-articles").src = rootPath + "/img/articles.png";
+			document.getElementById("header-decks").src = rootPath + "/img/deck.png";
+			document.getElementById("header-deckbuilder").src = rootPath + "/img/deckbuilder.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+
+			// Hide Articles if none exist
+			fetch(rootPath + '/all-articles.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-articles-link').style.display = 'flex';
+				}).catch(() => {});
+
+			// Hide Decks if none exist
+			fetch(rootPath + '/decks.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-decks-link').style.display = 'flex';
+				}).catch(() => {});
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="../previews/DSY"><img src="../sets/DSY-files/icon.png"></a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="../sets/DSY-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img loading="lazy" alt="sets\DSY-files\img\245.png" id="DSY_245" data-flag="@X" onclick="openSidebar('DSY_245',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\226.png" id="DSY_226" data-flag="@X" onclick="openSidebar('DSY_226',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\165.png" id="DSY_165" data-flag="@X" onclick="openSidebar('DSY_165',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\97.png" id="DSY_97" data-flag="@X" onclick="openSidebar('DSY_97',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\29.png" id="DSY_29" data-flag="@X" onclick="openSidebar('DSY_29',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\237.png" id="DSY_237" data-flag="@X" onclick="openSidebar('DSY_237',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\177.png" id="DSY_177" data-flag="@X" onclick="openSidebar('DSY_177',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\144.png" id="DSY_144" data-flag="@X" onclick="openSidebar('DSY_144',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\242.png" id="DSY_242" data-flag="@X" onclick="openSidebar('DSY_242',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\194.png" id="DSY_194" data-flag="@X" onclick="openSidebar('DSY_194',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\207.png" id="DSY_207" data-flag="@X" onclick="openSidebar('DSY_207',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\222.png" id="DSY_222" data-flag="@X" onclick="openSidebar('DSY_222',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\184.png" id="DSY_184" data-flag="@X" onclick="openSidebar('DSY_184',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\179.png" id="DSY_179" data-flag="@X" onclick="openSidebar('DSY_179',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\158.png" id="DSY_158" data-flag="@X" onclick="openSidebar('DSY_158',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\56.png" id="DSY_56" data-flag="@X" onclick="openSidebar('DSY_56',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\60.png" id="DSY_60" data-flag="@X" onclick="openSidebar('DSY_60',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\35.png" id="DSY_35" data-flag="@X" onclick="openSidebar('DSY_35',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\300.png" id="DSY_300" data-flag="@X" onclick="openSidebar('DSY_300',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\198.png" id="DSY_198" data-flag="@X" onclick="openSidebar('DSY_198',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\234.png" id="DSY_234" data-flag="@X" onclick="openSidebar('DSY_234',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\162.png" id="DSY_162" data-flag="@X" onclick="openSidebar('DSY_162',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\108.png" id="DSY_108" data-flag="@X" onclick="openSidebar('DSY_108',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\61.png" id="DSY_61" data-flag="@X" onclick="openSidebar('DSY_61',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\5.png" id="DSY_5" data-flag="@X" onclick="openSidebar('DSY_5',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\146.png" id="DSY_146" data-flag="@X" onclick="openSidebar('DSY_146',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\212.png" id="DSY_212" data-flag="@X" onclick="openSidebar('DSY_212',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\140.png" id="DSY_140" data-flag="@X" onclick="openSidebar('DSY_140',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\157.png" id="DSY_157" data-flag="@X" onclick="openSidebar('DSY_157',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\303.png" id="DSY_303" data-flag="@X" onclick="openSidebar('DSY_303',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\169.png" id="DSY_169" data-flag="@X" onclick="openSidebar('DSY_169',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\268.png" id="DSY_268" data-flag="@X" onclick="openSidebar('DSY_268',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\209.png" id="DSY_209" data-flag="@X" onclick="openSidebar('DSY_209',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\4.png" id="DSY_4" data-flag="@X" onclick="openSidebar('DSY_4',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\175.png" id="DSY_175" data-flag="@X" onclick="openSidebar('DSY_175',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\63.png" id="DSY_63" data-flag="@X" onclick="openSidebar('DSY_63',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\410.png" id="DSY_410" data-flag="@X" onclick="openSidebar('DSY_410',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\12.png" id="DSY_12" data-flag="@X" onclick="openSidebar('DSY_12',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\163.png" id="DSY_163" data-flag="@X" onclick="openSidebar('DSY_163',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\241.png" id="DSY_241" data-flag="@X" onclick="openSidebar('DSY_241',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\190.png" id="DSY_190" data-flag="@X" onclick="openSidebar('DSY_190',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\104.png" id="DSY_104" data-flag="@X" onclick="openSidebar('DSY_104',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\135.png" id="DSY_135" data-flag="@X" onclick="openSidebar('DSY_135',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\180.png" id="DSY_180" data-flag="@X" onclick="openSidebar('DSY_180',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\298.png" id="DSY_298" data-flag="@X" onclick="openSidebar('DSY_298',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\45.png" id="DSY_45" data-flag="@X" onclick="openSidebar('DSY_45',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\239.png" id="DSY_239" data-flag="@X" onclick="openSidebar('DSY_239',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\114.png" id="DSY_114" data-flag="@X" onclick="openSidebar('DSY_114',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\100.png" id="DSY_100" data-flag="@X" onclick="openSidebar('DSY_100',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\171.png" id="DSY_171" data-flag="@X" onclick="openSidebar('DSY_171',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\167.png" id="DSY_167" data-flag="@X" onclick="openSidebar('DSY_167',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\267.png" id="DSY_267" data-flag="@X" onclick="openSidebar('DSY_267',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\202.png" id="DSY_202" data-flag="@X" onclick="openSidebar('DSY_202',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\219.png" id="DSY_219" data-flag="@X" onclick="openSidebar('DSY_219',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\176.png" id="DSY_176" data-flag="@X" onclick="openSidebar('DSY_176',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\236.png" id="DSY_236" data-flag="@X" onclick="openSidebar('DSY_236',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\143.png" id="DSY_143" data-flag="@X" onclick="openSidebar('DSY_143',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\235.png" id="DSY_235" data-flag="@X" onclick="openSidebar('DSY_235',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\96.png" id="DSY_96" data-flag="@X" onclick="openSidebar('DSY_96',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\195.png" id="DSY_195" data-flag="@X" onclick="openSidebar('DSY_195',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\218.png" id="DSY_218" data-flag="@X" onclick="openSidebar('DSY_218',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\139.png" id="DSY_139" data-flag="@X" onclick="openSidebar('DSY_139',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\170.png" id="DSY_170" data-flag="@X" onclick="openSidebar('DSY_170',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\131.png" id="DSY_131" data-flag="@X" onclick="openSidebar('DSY_131',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\147.png" id="DSY_147" data-flag="@X" onclick="openSidebar('DSY_147',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\172.png" id="DSY_172" data-flag="@X" onclick="openSidebar('DSY_172',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\31.png" id="DSY_31" data-flag="@X" onclick="openSidebar('DSY_31',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\274.png" id="DSY_274" data-flag="@X" onclick="openSidebar('DSY_274',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\101.png" id="DSY_101" data-flag="@X" onclick="openSidebar('DSY_101',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\335.png" id="DSY_335" data-flag="@X" onclick="openSidebar('DSY_335',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\133.png" id="DSY_133" data-flag="@X" onclick="openSidebar('DSY_133',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\213.png" id="DSY_213" data-flag="@X" onclick="openSidebar('DSY_213',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\275.png" id="DSY_275" data-flag="@X" onclick="openSidebar('DSY_275',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\18.png" id="DSY_18" data-flag="@X" onclick="openSidebar('DSY_18',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\215.png" id="DSY_215" data-flag="@X" onclick="openSidebar('DSY_215',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\246.png" id="DSY_246" data-flag="@X" onclick="openSidebar('DSY_246',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\225.png" id="DSY_225" data-flag="@X" onclick="openSidebar('DSY_225',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\276.png" id="DSY_276" data-flag="@X" onclick="openSidebar('DSY_276',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\132.png" id="DSY_132" data-flag="@X" onclick="openSidebar('DSY_132',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\90.png" id="DSY_90" data-flag="@X" onclick="openSidebar('DSY_90',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\247.png" id="DSY_247" data-flag="@X" onclick="openSidebar('DSY_247',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\141.png" id="DSY_141" data-flag="@X" onclick="openSidebar('DSY_141',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\277.png" id="DSY_277" data-flag="@X" onclick="openSidebar('DSY_277',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\109.png" id="DSY_109" data-flag="@X" onclick="openSidebar('DSY_109',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\306.png" id="DSY_306" data-flag="@X" onclick="openSidebar('DSY_306',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\266.png" id="DSY_266" data-flag="@X" onclick="openSidebar('DSY_266',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\137.png" id="DSY_137" data-flag="@X" onclick="openSidebar('DSY_137',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\278.png" id="DSY_278" data-flag="@X" onclick="openSidebar('DSY_278',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\14.png" id="DSY_14" data-flag="@X" onclick="openSidebar('DSY_14',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\307.png" id="DSY_307" data-flag="@X" onclick="openSidebar('DSY_307',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\249.png" id="DSY_249" data-flag="@X" onclick="openSidebar('DSY_249',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\164.png" id="DSY_164" data-flag="@X" onclick="openSidebar('DSY_164',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\304.png" id="DSY_304" data-flag="@X" onclick="openSidebar('DSY_304',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\182.png" id="DSY_182" data-flag="@X" onclick="openSidebar('DSY_182',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\308.png" id="DSY_308" data-flag="@X" onclick="openSidebar('DSY_308',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\250.png" id="DSY_250" data-flag="@X" onclick="openSidebar('DSY_250',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\91.png" id="DSY_91" data-flag="@X" onclick="openSidebar('DSY_91',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\279.png" id="DSY_279" data-flag="@X" onclick="openSidebar('DSY_279',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\19.png" id="DSY_19" data-flag="@X" onclick="openSidebar('DSY_19',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\309.png" id="DSY_309" data-flag="@X" onclick="openSidebar('DSY_309',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\174.png" id="DSY_174" data-flag="@X" onclick="openSidebar('DSY_174',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\13.png" id="DSY_13" data-flag="@X" onclick="openSidebar('DSY_13',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\280.png" id="DSY_280" data-flag="@X" onclick="openSidebar('DSY_280',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\160.png" id="DSY_160" data-flag="@X" onclick="openSidebar('DSY_160',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\310.png" id="DSY_310" data-flag="@X" onclick="openSidebar('DSY_310',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\252.png" id="DSY_252" data-flag="@X" onclick="openSidebar('DSY_252',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\206.png" id="DSY_206" data-flag="@X" onclick="openSidebar('DSY_206',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\281.png" id="DSY_281" data-flag="@X" onclick="openSidebar('DSY_281',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\33.png" id="DSY_33" data-flag="@X" onclick="openSidebar('DSY_33',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\311.png" id="DSY_311" data-flag="@X" onclick="openSidebar('DSY_311',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\253.png" id="DSY_253" data-flag="@X" onclick="openSidebar('DSY_253',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\221.png" id="DSY_221" data-flag="@X" onclick="openSidebar('DSY_221',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\282.png" id="DSY_282" data-flag="@X" onclick="openSidebar('DSY_282',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\204.png" id="DSY_204" data-flag="@X" onclick="openSidebar('DSY_204',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\312.png" id="DSY_312" data-flag="@X" onclick="openSidebar('DSY_312',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\254.png" id="DSY_254" data-flag="@X" onclick="openSidebar('DSY_254',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\262.png" id="DSY_262" data-flag="@X" onclick="openSidebar('DSY_262',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\283.png" id="DSY_283" data-flag="@X" onclick="openSidebar('DSY_283',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\297.png" id="DSY_297" data-flag="@X" onclick="openSidebar('DSY_297',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\313.png" id="DSY_313" data-flag="@X" onclick="openSidebar('DSY_313',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\248.png" id="DSY_248" data-flag="@X" onclick="openSidebar('DSY_248',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\263.png" id="DSY_263" data-flag="@X" onclick="openSidebar('DSY_263',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\284.png" id="DSY_284" data-flag="@X" onclick="openSidebar('DSY_284',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\205.png" id="DSY_205" data-flag="@X" onclick="openSidebar('DSY_205',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\314.png" id="DSY_314" data-flag="@X" onclick="openSidebar('DSY_314',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DSY_er" data-flag="@E" onclick="openSidebar('DSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DSY_er" data-flag="@E" onclick="openSidebar('DSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DSY_er" data-flag="@E" onclick="openSidebar('DSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DSY_er" data-flag="@E" onclick="openSidebar('DSY_er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\406.png" id="DSY_406" data-flag="@X" onclick="openSidebar('DSY_406',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\405.png" id="DSY_405" data-flag="@X" onclick="openSidebar('DSY_405',true)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\145.png" id="DSY_145" data-flag="@X" onclick="openSidebar('DSY_145',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\124.png" id="DSY_124" data-flag="@X" onclick="openSidebar('DSY_124',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\116.png" id="DSY_116" data-flag="@X" onclick="openSidebar('DSY_116',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\130.png" id="DSY_130" data-flag="@X" onclick="openSidebar('DSY_130',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\117.png" id="DSY_117" data-flag="@X" onclick="openSidebar('DSY_117',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\119.png" id="DSY_119" data-flag="@X" onclick="openSidebar('DSY_119',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\28.png" id="DSY_28" data-flag="@X" onclick="openSidebar('DSY_28',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\185.png" id="DSY_185" data-flag="@X" onclick="openSidebar('DSY_185',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\168.png" id="DSY_168" data-flag="@X" onclick="openSidebar('DSY_168',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\115.png" id="DSY_115" data-flag="@X" onclick="openSidebar('DSY_115',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\178.png" id="DSY_178" data-flag="@X" onclick="openSidebar('DSY_178',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\118.png" id="DSY_118" data-flag="@X" onclick="openSidebar('DSY_118',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\122.png" id="DSY_122" data-flag="@X" onclick="openSidebar('DSY_122',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\121.png" id="DSY_121" data-flag="@X" onclick="openSidebar('DSY_121',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\120.png" id="DSY_120" data-flag="@X" onclick="openSidebar('DSY_120',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\261.png" id="DSY_261" data-flag="@X" onclick="openSidebar('DSY_261',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\123.png" id="DSY_123" data-flag="@X" onclick="openSidebar('DSY_123',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\321.png" id="DSY_321" data-flag="@X" onclick="openSidebar('DSY_321',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\320.png" id="DSY_320" data-flag="@X" onclick="openSidebar('DSY_320',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\322.png" id="DSY_322" data-flag="@X" onclick="openSidebar('DSY_322',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\323.png" id="DSY_323" data-flag="@X" onclick="openSidebar('DSY_323',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="DSY_e" data-flag="@E" onclick="openSidebar('DSY_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="DSY_e" data-flag="@E" onclick="openSidebar('DSY_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DSY_er" data-flag="@E" onclick="openSidebar('DSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DSY_er" data-flag="@E" onclick="openSidebar('DSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DSY_er" data-flag="@E" onclick="openSidebar('DSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DSY_er" data-flag="@E" onclick="openSidebar('DSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DSY_er" data-flag="@E" onclick="openSidebar('DSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\98.png" id="DSY_98" data-flag="@X" onclick="openSidebar('DSY_98',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\216.png" id="DSY_216" data-flag="@X" onclick="openSidebar('DSY_216',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="DSY_e" data-flag="@E" onclick="openSidebar('DSY_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="DSY_e" data-flag="@E" onclick="openSidebar('DSY_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="DSY_e" data-flag="@E" onclick="openSidebar('DSY_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DSY_er" data-flag="@E" onclick="openSidebar('DSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DSY_er" data-flag="@E" onclick="openSidebar('DSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DSY_er" data-flag="@E" onclick="openSidebar('DSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DSY_er" data-flag="@E" onclick="openSidebar('DSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DSY_er" data-flag="@E" onclick="openSidebar('DSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\68.png" id="DSY_68" data-flag="@X" onclick="openSidebar('DSY_68',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\69.png" id="DSY_69" data-flag="@X" onclick="openSidebar('DSY_69',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\70.png" id="DSY_70" data-flag="@X" onclick="openSidebar('DSY_70',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\71.png" id="DSY_71" data-flag="@X" onclick="openSidebar('DSY_71',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\72.png" id="DSY_72" data-flag="@X" onclick="openSidebar('DSY_72',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\73.png" id="DSY_73" data-flag="@X" onclick="openSidebar('DSY_73',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\74.png" id="DSY_74" data-flag="@X" onclick="openSidebar('DSY_74',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\75.png" id="DSY_75" data-flag="@X" onclick="openSidebar('DSY_75',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\76.png" id="DSY_76" data-flag="@X" onclick="openSidebar('DSY_76',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\77.png" id="DSY_77" data-flag="@X" onclick="openSidebar('DSY_77',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\78.png" id="DSY_78" data-flag="@X" onclick="openSidebar('DSY_78',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\79.png" id="DSY_79" data-flag="@X" onclick="openSidebar('DSY_79',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\80.png" id="DSY_80" data-flag="@X" onclick="openSidebar('DSY_80',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\81.png" id="DSY_81" data-flag="@X" onclick="openSidebar('DSY_81',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\82.png" id="DSY_82" data-flag="@X" onclick="openSidebar('DSY_82',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\83.png" id="DSY_83" data-flag="@X" onclick="openSidebar('DSY_83',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\84.png" id="DSY_84" data-flag="@X" onclick="openSidebar('DSY_84',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\85.png" id="DSY_85" data-flag="@X" onclick="openSidebar('DSY_85',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\86.png" id="DSY_86" data-flag="@X" onclick="openSidebar('DSY_86',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\87.png" id="DSY_87" data-flag="@X" onclick="openSidebar('DSY_87',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DSY_er" data-flag="@E" onclick="openSidebar('DSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DSY_er" data-flag="@E" onclick="openSidebar('DSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DSY_er" data-flag="@E" onclick="openSidebar('DSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DSY_er" data-flag="@E" onclick="openSidebar('DSY_er',false)"></div>
+				<div id="token" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\416.png" id="DSY_416" data-flag="@X" onclick="openSidebar('DSY_416',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\343.png" id="DSY_343" data-flag="@X" onclick="openSidebar('DSY_343',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\348.png" id="DSY_348" data-flag="@X" onclick="openSidebar('DSY_348',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\339.png" id="DSY_339" data-flag="@X" onclick="openSidebar('DSY_339',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\354.png" id="DSY_354" data-flag="@X" onclick="openSidebar('DSY_354',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\384.png" id="DSY_384" data-flag="@X" onclick="openSidebar('DSY_384',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\382.png" id="DSY_382" data-flag="@X" onclick="openSidebar('DSY_382',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\412.png" id="DSY_412" data-flag="@X" onclick="openSidebar('DSY_412',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\377.png" id="DSY_377" data-flag="@X" onclick="openSidebar('DSY_377',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\408.png" id="DSY_408" data-flag="@X" onclick="openSidebar('DSY_408',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\409.png" id="DSY_409" data-flag="@X" onclick="openSidebar('DSY_409',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\376.png" id="DSY_376" data-flag="@X" onclick="openSidebar('DSY_376',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\414.png" id="DSY_414" data-flag="@X" onclick="openSidebar('DSY_414',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\380.png" id="DSY_380" data-flag="@X" onclick="openSidebar('DSY_380',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\DSY-files\img\417.png" id="DSY_417" data-flag="@X" onclick="openSidebar('DSY_417',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DSY_er" data-flag="@E" onclick="openSidebar('DSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DSY_er" data-flag="@E" onclick="openSidebar('DSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DSY_er" data-flag="@E" onclick="openSidebar('DSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DSY_er" data-flag="@E" onclick="openSidebar('DSY_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="DSY_er" data-flag="@E" onclick="openSidebar('DSY_er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch(rootPath + '/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch(rootPath + '/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.card_name) {
+						card.card_name = card.card_name.replace(/[\r\n]+/g, '').trim();
+					}
+					if (card.card_name2) {
+						card.card_name2 = card.card_name2.replace(/[\r\n]+/g, '').trim();
+					}
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1].toLowerCase());
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = rootPath + '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
+
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
+		{
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
+		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.opacity = "1";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.opacity = "0";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url.pathname + url.search;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url.pathname + url.search;
+			}
+	</script>
+</body>
+</html>

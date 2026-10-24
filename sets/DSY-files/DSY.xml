@@ -1,0 +1,3140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>DSY</name>
+			<longname></longname>
+			<settype>Custom</settype>
+			<releasedate>2026-10-24</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>RC7—Golden Gun</name>
+			<text>Golden Gun deals 3 damage divided as you choose among up to three targets.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/4.png" num="160"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>GC5—Knight&apos;s Cleaver</name>
+			<text>Equipped creature gets +2/+2.
+Equip {1}. This ability costs {0} instead if a creature you don&apos;t control died this turn. Activate only once each turn.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/5.png" num="208"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>BC8—Malfeasance</name>
+			<text>When BC8—Malfeasance enters, search your library for up to three cards named Malfeasance, reveal them, put them into your hand, then shuffle.
+Equipped creature gets +1/+1. As long as your devotion to black is five or more, it also has deathtouch. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)
+Equip {2}</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/12.png" num="112"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>BB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UC21—Void Suppressor</name>
+			<text>Counter target activated or triggered ability, or target noncreature spell.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/13.png" num="75"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>RC18—House Light Engineers</name>
+			<text>When House Light Engineers enters, choose one—
+• Put a +1/+1 counter on target artifact creature.
+• Create a Shank, a 1/1 red Eliksni Robot artifact creature token with flying.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/14.png" num="171"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Eliksni</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RC15—Splicer Baron</name>
+			<text>Modified creatures you control have haste. (Equipment, Auras you control, and counters are modifications.)
+{T}, Sacrifice an artifact: Create a SIVA Nanite token and attach it to target creature. Activate only as a sorcery. (It&apos;s an equipment artifact with &quot;Equipped creature gets +1/+0&quot; and equip {1})</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/18.png" num="168"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Eliksni Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RC20—~Consume~</name>
+			<text>This spell costs {3} less if it targets an artifact creature.
+~Consume~ deals 5 damage to target creature.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/19.png" num="173"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CC6—Ghost</name>
+			<text>At the beginning of your upkeep, if Ghost isn&apos;t attached to a creature, you may pay {3}. If you do, return target Human, Awoken, or Hive creature card from your graveyard to the battlefield and attach Ghost to it.
+Equipped creature is legendary.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/28.png" num="301"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>GC1—Acolytes of the Hidden Swarm</name>
+			<text>{T}: Add {G}.
+When GC1—Acolytes of the Hidden Swarm dies, create an Engram token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Draw a card, then discard a card.&quot;)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/29.png" num="204"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hive Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UC14—Noble Winter Walker</name>
+			<text>{1}, Sacrifice an artifact: Put a +1/+1 counter on Noble Winter Walker.
+When Noble Winter Walker dies, move all counters from it onto another target creature you control.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/31.png" num="68"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RC22—Silent Fang Assassin</name>
+			<text>Reach
+{T}: Silent Fang Assassin deals 3 damage to target battle. Activate only if an opponent lost life this turn.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/33.png" num="175"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Eliksni Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>BC4—Final Death</name>
+			<text>Exile target creature.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/35.png" num="108"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>WC10—Siege Dancer Phalanx</name>
+			<text>Vigilance
+{1}: Exchange WC10—Siege Dancer Phalanx&apos;s power and toughness until end of turn.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/45.png" num="14"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cabal Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>WC4—Heat Rises</name>
+			<text>Enchant creature
+When WC4—Heat Rises enters, draw a card.
+Enchanted creature has flying.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/56.png" num="8"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UC4—Spider&apos;s Associates</name>
+			<text>{2}{U}, Sacrifice Spider&apos;s Associates: Create two Engram tokens. (They&apos;re artifacts with &quot;{1}, {T}, Sacrifice this token: Draw a card, then discard a card.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/60.png" num="58"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Eliksni Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RC5—Gambler&apos;s Dodge</name>
+			<text>Target creature with power 2 or less can&apos;t be blocked this turn.
+Exile the top two cards of your library. Choose one of them. Until the end of your next turn, you may play that card.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/61.png" num="158"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>WC8—Radiant Resurrection</name>
+			<text>Return target legendary creature card from your graveyard to the battlefield. You gain 5 life.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/63.png" num="12"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/68.png" num="344"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/69.png" num="348"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/70.png" num="352"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/71.png" num="356"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/72.png" num="362"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/73.png" num="345"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/74.png" num="349"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/75.png" num="353"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/76.png" num="357"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/77.png" num="361"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/78.png" num="346"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/79.png" num="350"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/80.png" num="355"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/81.png" num="359"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/82.png" num="360"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/83.png" num="347"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/84.png" num="351"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/85.png" num="354"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/86.png" num="358"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/87.png" num="363"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Forest</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>GC16—Taken Psion</name>
+			<text>When GC16—Taken Psion dies, create a token copy of it, except it doesn&apos;t have this ability.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/90.png" num="219"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Darkness</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UC20—Shuro Chi&apos;s Teachings</name>
+			<text>Look at the top three cards of your library. Put one into your hand, one in your graveyard, and one on the bottom of your library.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/91.png" num="74"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>RC12—Scorch Cannon</name>
+			<text>Equipped creature gets +3/+1 and has &quot;{1}{R}, {T}, Sacrifice Scorch Cannon: Destroy target artifact. Scorch Cannon deals 3 damage to that artifact&apos;s controller.&quot;
+Equip {2}, or Sacrifice an artifact.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/96.png" num="165"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RC1—Cabal Stomp</name>
+			<text>Target creature you control deals damage equal to its power to another target creature.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/97.png" num="154"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Landing Zone</name>
+			<text>{T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+{T}, Sacrifice this land: Target creature with power 2 or less can&apos;t be blocked this turn.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/98.png" num="338"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>RC10—Kell&apos;s Scourge Berserker</name>
+			<text>Whenever one or more artifacts enter under your control, Kell&apos;s Scourge Berserker gets +1/+0 and menace until end of turn.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/100.png" num="163"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Eliksni Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RC14—Scorpius Turret</name>
+			<text>Defender, Reach
+{3}{W}: Scorpius Turret gains double strike until end of turn.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/101.png" num="167"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UC9—Data Preservation</name>
+			<text>This spell costs {2} less if it targets a legendary permanent.
+Put target creature or artifact into its owner&apos;s library second from the top. Its controller creates an Engram token.(It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Draw a card, then discard a card.&quot;)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/104.png" num="63"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>BC5—Grim Flayer</name>
+			<text>Flying
+Deafening Screech — Sacrifice BC5—Grim Flayer: Target creature loses all abilities until end of turn.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/108.png" num="109"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Darkness</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RC17—Tormenting Voice</name>
+			<text>As an additional cost to cast this spell, discard a card.
+Draw two cards.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/109.png" num="170"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>BC10—Scorned Crossbow</name>
+			<text>Equipped creature gets +2/+1 and has reach.
+Devourer Bullet — Equipped creature has &quot;{T}: Exile target card from a graveyard. Its owner loses 1 life.&quot;
+Equip {1}</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/114.png" num="114"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CC9—Pyramid Splinter</name>
+			<text>{T}: Add {U} or {B}.
+{1}{U}{B}, {T}, Sacrifice Pyramid Splinter: Tap target artifact or creature and put two stun counters on it.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/115.png" num="304"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CC2—Bell of Conquests</name>
+			<text>{T}: Add {W} or {R}.
+{1}{R}{W}, {T}, Sacrifice Bell of Conquests: Target creature you control fights target creature you don&apos;t control.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/116.png" num="297"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CC4—Chalice of Opulence</name>
+			<text>{T}: Add {R} or {G}.
+{1}{R}{G}, {T}, Sacrifice Chalice of Opulence: Create a food token, an engram token, and a treasure token.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/117.png" num="299"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CC11—Nightmare Harvester</name>
+			<text>{T}: Add {B} or {R}.
+{1}{B}{R}, {T}, Sacrifice Nightmare Harvester: Target opponent sacrifice a creature unless they discard a card and lose 2 life.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/118.png" num="306"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CC5—Gate Lord&apos;s Eye</name>
+			<text>{T}: Add {U} or {G}.
+{1}{G}{U}, {T}, Sacrifice Gate Lord&apos;s Eye: Draw two cards, then exile a card from your hand.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/119.png" num="300"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CC14—Tree of Silver Wings</name>
+			<text>{T}: Add {W} or {B}.
+{1}{W}{B}, {T}, Sacrifice Tree of Silver Wings: Put a +1/+1 counter on target creature. Untap it. That creature becomes legendary.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/120.png" num="309"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CC13—Tablet of Ruin</name>
+			<text>{T}: Add {B} or {G}.
+{1}{B}{G}, {T}, Sacrifice Tablet of Ruin: Destroy target creature if you control a creature with greater power.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/121.png" num="308"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CC12—Skeleton Key</name>
+			<text>{T}: Add {U} or {R}.
+{1}{U}{R}, {T}, Sacrifice Skeleton Key: Target modified creature can&apos;t be blocked this turn. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/122.png" num="307"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CC16—Warmind Khanjali</name>
+			<text>{T}: Add {W} or {U}.
+{1}{W}{U}, {T}, Sacrifice Warmind Khanjali: Attach an equipment you control to target creature you control. That creature becomes an artifact in addition to its other types.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/123.png" num="311"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CC1—Acolyte&apos;s Staff</name>
+			<text>{T}: Add {W} or {G}.
+{1}{G}{W}, {T}, Sacrifice Acolyte&apos;s Staff: Put a +1/+1 counter on target creature you control. Then if you control the creature with the greatest power or tied for the greatest, draw a card.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/124.png" num="296"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CC3—Strange Coin</name>
+			<text>{T}, Sacrifice Strange Coin: Add one mana of any color.
+{2}, Exile Strange Coin from your graveyard: Return target equipment card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/130.png" num="298"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RC13—Scorn Ravager</name>
+			<text>Haste
+When Scorn Ravager attacks, target legendary creature you control gets +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/131.png" num="166"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Eliksni Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RC16—Tarnished Wraith</name>
+			<text>Tarnished Wraith has double strike as long as it attacked a battle this turn.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/132.png" num="169"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Eliksni Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>WC15—Valkyrie</name>
+			<text>When WC15—Valkyrie enters, attach it to target creature you control.
+Equipped creature has Vigilance and &quot;{4}{W}, {T}, Sacrifice WC15—Valkyrie: Destroy target artifact or creature with mana value 5 or greater.&quot;
+Equip {2}</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/133.png" num="19"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>BC9—Nightmarish Revival</name>
+			<text>Exile target creature card in a graveyard. If you do, create a token that&apos;s a copy of it, except it&apos;s a black Nightmare in addition to its other types.
+Sword Logic—{4}{B}, Exile a creature card from your graveyard. (You may cast this spell from your graveyard for its Sword Logic cost if a creature you don&apos;t control died this turn.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/135.png" num="113"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UC18—Ritual of Negation</name>
+			<text>Counter target spell unless its controller pays {2}. If that spell is countered this way, exile it instead of putting it into its owner&apos;s graveyard.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/137.png" num="72"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UC13—Heavy Pike</name>
+			<text>Shock Mines — Whenever Heavy Pike attacks, you may discard a card. If you do, target creature gets -X/-0 until end of turn, where X is that card&apos;s mana value.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/139.png" num="67"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>BC6—Hive Tomb Ship</name>
+			<text>Flying
+Whenever BC6—Hive Tomb Ship attacks, you may return target creature card from your graveyard to the battlefield.
+Crew 5 (Tap any number of creatures you control with total power 5 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/140.png" num="110"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UC17—Salvation&apos;s Grip</name>
+			<text>When Salvation&apos;s Grip enters, tap target creature and put a stun counter on it. Then create a Glacier Wall, a 0/2 blue Wall creature token with defender.
+Equipped creature gets +2/+0 and is legendary.
+Equip {2}</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/141.png" num="71"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UC12—Goblins of the Hezen Protective</name>
+			<text>Vigilance
+When Goblins of the Hezen Protective dies, create an Engram token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Draw a card, then discard a card.&quot;)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/143.png" num="66"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Vex Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>BC2—Fanatical Lurker</name>
+			<text>When BC2—Fanatical Lurker enters, each opponent loses 1 life.
+When BC2—Fanatical Lurker dies, create an Engram token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Draw a card, then discard a card.&quot;)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/144.png" num="106"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Eliksni Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CC22—New Light</name>
+			<text>{3}: Put two +1/+1 counters on New Light. They become legendary and gain a unique name of your choice. Activate only once. (They can&apos;t share a name with another legal magic card.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/145.png" num="2"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>WC6—Psion Operant</name>
+			<text>WC6—Psion Operant has first strike during your turn.
+When WC6—Psion Operant dies, create an Engram token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Draw a card, then discard a card.&quot;)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/146.png" num="10"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cabal Psion</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>GC13—Woven Mail</name>
+			<text>Target creature gets +0/+2 and hexproof until end of turn.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/147.png" num="216"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>RC6—Gluttonous Growth</name>
+			<text>Target creature gets +4/+3 until end of turn.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/157.png" num="159"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>GC3—Drifter&apos;s Gambit</name>
+			<text>At the beginning of your upkeep and whenever one or more creatures die, put a mote counter on GC3—Drifter&apos;s Gambit. Then if there are six or more mote counters on it, exile GC3—Drifter&apos;s Gambit and create a Primeval, a 6/6 green Darkness creature token.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/158.png" num="206"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RC21—~Enhance~</name>
+			<text>Target creature gets haste and trample until end of turn. Create a SIVA Nanite token and attach it to that creature. (It&apos;s an equipment artifact with &quot;Equipped creature gets +1/+0&quot; and equip {1})</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/160.png" num="174"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UC5—Cloud Skimmer</name>
+			<text>Flying
+Equipped creature has flying.
+Equip {1}
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn. Creatures can&apos;t be attached to other permanents.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/162.png" num="59"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RC8—Legion Thresher</name>
+			<text>Flying
+When Legion Thresher enters, create two Red Legionaries, 2/2 red Cabal Warrior creature tokens with Trample.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/163.png" num="161"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UC19—Sacred Splicer&apos;s Art</name>
+			<text>Target creature can&apos;t be blocked this turn.
+Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/164.png" num="73"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>BC1—Bound Ogre</name>
+			<text>As long as BC1—Bound Ogre&apos;s power is less than 4, it can&apos;t attack.
+Whenever one or more creatures die, put a +1/+1 counter on BC1—Bound Ogre.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/165.png" num="105"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hive Ogre</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>WC11—Slug Rifle</name>
+			<text>When WC11—Slug Rifle enters, attach it to target Cabal creature you control.
+Equipped creature gets +1/+1.
+Equip {1}</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/167.png" num="15"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CC8—Khvostov 7G-02</name>
+			<text>Equipped creature gets +1/+0
+Equip {1}</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/168.png" num="303"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>0</manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>WC7—Queen&apos;s Corsairs</name>
+			<text>When WC7—Queen&apos;s Corsairs attacks, target legendary creature you control gains first strike until end of turn.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/169.png" num="11"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Awoken Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>BC13—Subjugator of Truth</name>
+			<text>When BC13—Subjugator of Truth enters, it deals 2 damage to target tapped creature you don&apos;t control. Each player mills two cards, then you exile a card from each opponent&apos;s graveyard.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/170.png" num="117"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Darkness</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>GC10—Subjugator of Gardens</name>
+			<text>When GC10—Subjugator of Gardens enters, you may choose one—
+• Destroy target artifact.
+• Destroy target creature with flying and all equipment attached to it.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/171.png" num="213"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Darkness</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>WC14—Time&apos;s Vengeance</name>
+			<text>Creatures you control get +2/+1 and are legendary until end of turn.
+The &quot;legend rule&quot; doesn&apos;t apply to creatures you control until end of turn.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/172.png" num="18"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>WC21—Centurion of the Coalition</name>
+			<text>When WC21—Centurion of the Coalition enters, put a +1/+1 counter on each other creature you control.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/174.png" num="25"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cabal Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>GC7—Music of the Spheres</name>
+			<text>Search your library for a basic land or Planet card, reveal it, and put it into your hand. Then shuffle.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/175.png" num="210"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>GC11—Swordbearer</name>
+			<text>When GC11—Swordbearer enters, if it was cast according to Sword Logic, you may attach up to one equipment you control to it.
+Sword Logic—{3}{G}{G}, Exile a creature card from your graveyard. (You may cast this spell from your graveyard for its Sword Logic cost if a creature you don&apos;t control died this turn.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/176.png" num="214"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hive Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UC2—Archon of Wolves</name>
+			<text>When Archon of Wolves enters, target Eliksni creature you control can&apos;t be blocked this turn.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/177.png" num="56"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Eliksni Archon</type>
+				<maintype>Creature</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CC10—Rat King</name>
+			<text>Equipped creature is legendary and gets +1/+0 for each other equipment attached to creatures you control.
+A deck can have any number of cards named Rat King.
+Equip {1}</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/178.png" num="305"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RC3—Dregs of Dusk</name>
+			<text>Haste
+When Dregs of Dusk dies, create an Engram token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Draw a card, then discard a card.&quot;)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/179.png" num="156"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Eliksni</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RC09—~Replicate~</name>
+			<text>Create a SIVA Nanite token, then create an additional one for each nontoken artifact you control. (They&apos;re equipment artifacts with &quot;Equipped creature gets +1/+0&quot; and equip {1})</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/180.png" num="162"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>RC19—Unstable Incendior</name>
+			<text>{1}{R}: Unstable Incendior gets +1/+0 until end of turn.
+When Unstable Incendior dies, it deals damage equal to its power to target creature you don&apos;t control.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/182.png" num="172"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cabal Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>BC3—Fanatic&apos;s Summons</name>
+			<text>Create two Stalkers, 1/1 black Eliksni Zombie creature tokens
+Sword Logic—{2}{B}, Exile a creature card from your graveyard. (You may cast this spell from your graveyard for its Sword Logic cost if a creature you don&apos;t control died this turn.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/184.png" num="107"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>CC7—Insurrection Prime</name>
+			<text>When this vehicle dies, create two Engram tokens. (They&apos;re artifacts with &quot;{1}, {T}, Sacrifice this token: Draw a card, then discard a card.&quot;)
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/185.png" num="302"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>WC9—Shaxx&apos;s Redjacks</name>
+			<text>At the beginning of combat on your turn, you may pay {1}. If you do, attach target equipment you control to target legendary creature you control.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/190.png" num="13"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>GC2—Devouring Light</name>
+			<text>You gain 3 life. Then you may exile a card from any graveyard. If you do, put a +1/+1 counter on up to one target creature.
+Sword Logic—{2}{G}, Exile a creature card from your graveyard. (You may cast this spell from your graveyard for its Sword Logic cost if a creature you don&apos;t control died this turn.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/194.png" num="205"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>GC12—Wormgod Larva</name>
+			<text>At the beginning of combat on your turn, target creature becomes legendary and gains trample until end of turn.
+The first time a creature you don&apos;t control dies each turn, put a +1/+1 counter on GC12—Wormgod Larva.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/195.png" num="215"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Worm</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>GC4—Explicator of Planets</name>
+			<text>When GC4—Explicator of Planets enters, mill four cards, then choose a land card from among them. If it&apos;s a Planet, put it onto the battlefield tapped. Otherwise, put it into your hand.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/198.png" num="207"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Darkness Cabal</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>BC11—Silence &amp; Squall</name>
+			<text>Put three stun counters divided as you choose on up to three target creatures. Then destroy those creatures if there are three or more stun counters on them.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/202.png" num="115"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>RC23—Screeb</name>
+			<text>When Screeb dies, it deals 1 damage to any target.
+{1}{R}, {T}, Sacrifice Screeb: Destroy target artifact.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/204.png" num="176"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Eliksni Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RC25—Honored Gladiator</name>
+			<text>Double strike
+When Honored Gladiator enters, target legendary or Cabal creature you control gains double strike until end of turn.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/205.png" num="178"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cabal Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UC22—Axis Harpies</name>
+			<text>Flying
+When Axis Harpies enters, create an Engram token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Draw a card, then discard a card.&quot;)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/206.png" num="76"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Vex Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>WC3—Fell the Monstrous</name>
+			<text>Destroy target creature with power 5 or greater. Create an Engram token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Draw a card, then discard a card.&quot;)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/207.png" num="7"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>BC7—Invoke Deepsight</name>
+			<text>Look at the top four cards of your library. Put two of them into your hand and the rest in your graveyard. You lose 2 life.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/209.png" num="111"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UC6—Commodore Brig</name>
+			<text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/212.png" num="60"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>8U</manacost>
+				<cmc>9</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UC15—Old Crew&apos;s Ketch</name>
+			<text>When Old Crew&apos;s Ketch enters, create an Engram token and a treasure token. (Engrams are artifacts with &quot;{1}, {T}, Sacrifice this token: Draw a card, then discard a card.&quot;)
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)
+[level 8+] Flying
+When Old Crew&apos;s Ketch attacks, create an engram token and a treasure token. [4/4]</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/213.png" num="69"></set>
+			<prop>
+				<layout>leveler</layout>
+				<side>front</side>
+				<type>Artifact — Spacecraft</type>
+				<maintype>Artifact</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>GC15—Divisive Gate Lord</name>
+			<text>As long as there are five or more cards in exile, you may cast GC15—Divisive Gate Lord as though it had flash.
+Trample</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/215.png" num="218"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Vex Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lost Sector</name>
+			<text>{T}: Add {C}.
+{T}, Tap an untapped creature you control: Add one mana of any color. If that creature was equipped, add two mana of any color instead.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/216.png" num="339"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>WC13—Surge of Light</name>
+			<text>Target creature gets +3/+0 until end of turn. Prevent all combat damage that would be dealt to it this turn.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/218.png" num="17"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>RC11—Remnant of the Iron Lords</name>
+			<text>Remnant of the Iron Lords attacks each turn if able.
+When Remnant of the Iron Lords enters, create three SIVA Nanite tokens.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/219.png" num="164"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Human Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UC23—Seven Seraphs</name>
+			<text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+When Seven Seraphs enters, attach target equipment you control to it.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/221.png" num="77"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UC3—Neomuni Archivist</name>
+			<text>When Neomuni Archivist enters, if you control a legendary creature, create an Engram token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Draw a card, then discard a card.&quot;)
+{T}: Add {U}. Spend this mana only to cast an artifact or legendary spell.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/222.png" num="57"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UC16—Prohibitive Hobgoblin</name>
+			<text>When Prohibitive Hobgoblin enters, target creature gets -4/-0 until end of turn.
+{4}{U}, Exile Prohibitive Hobgoblin from your graveyard: Simulate this card. Activate only as a sorcery. (Create a nonlegendary token copy of it.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/225.png" num="70"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Vex Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UC1—Vex Assimilation</name>
+			<text>Until end of turn, target creature becomes a blue Vex Robot artifact creature with base power 2/2, loses all abilities, and gains flying.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/226.png" num="55"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>WC5—Pilgrim Guard Sentinel</name>
+			<text>Defender
+WC5—Pilgrim Guard Sentinel can attack as though it didn&apos;t have defender as long as your devotion to white is five or greater. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/234.png" num="9"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Human Robot Titan</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>BC12—Soulfire Infusion</name>
+			<text>Enchanted creature gets +2/-1.
+When enchanted creature dies, each opponent loses 2 life.
+Sword Logic—{2}{B}, Exile a creature card from your graveyard. (You may cast this spell from your graveyard for its Sword Logic cost if a creature you don&apos;t control died this turn.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/235.png" num="116"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>WC12—Sunsinger</name>
+			<text>Whenever you cast an instant, sorcery, or Aura spell, you gain 2 life and WC12—Sunsinger gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/236.png" num="16"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>WC2—Shattered Memories</name>
+			<text>Destroy target noncreature artifact or enchantment. You gain life equal to your devotion to white. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/237.png" num="6"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UC10—Ether Servitor</name>
+			<text>Flying, Defender
+{1}{U}, {T}: Put a +1/+1 counter on each other Eliksni and/or Robot creature you control.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/239.png" num="64"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Eliksni Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>GC8—Quantum Hydra</name>
+			<text>Ward {2}
+GC8—Quantum Hydra enters with X +1/+1 counters on it.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/241.png" num="211"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Vex Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>XGG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RC2—Daring Gunslinger</name>
+			<text>Haste
+When Daring Gunslinger enters, if an opponent lost life this turn, you may exile the top two cards of your library. You may play those cards until the end of your next turn.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/242.png" num="155"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Hunter</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>WC1—Forces of the City</name>
+			<text>{W}, {T}: Create a City Militia, a 1/1 white human creature token. Activate only if your devotion to white is five or greater. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/245.png" num="5"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>WC16—Arcstrider</name>
+			<text>Flow State — WC16—Arcstrider has double strike as long as your devotion to white is five or greater. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/246.png" num="20"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Awoken Hunter</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>WC17—Hidden Agents</name>
+			<text>When WC17—Hidden Agents enters, create an engram token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Draw a card, then discard a card.&quot;)
+{1}, {T}, Sacrifice WC17—Hidden Agents: Surveil X, where X is 1 plus your devotion to white. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/247.png" num="21"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>WC25—Wings of Sacred Dawn</name>
+			<text>Whenever you cast your second spell each turn, you may attach WC25—Wings of Sacred Dawn to target creature you control.
+Equipped creature has flying and &quot;When this creature attacks, you gain 1 life.&quot;
+Equip {1}{W}</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/248.png" num="29"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>WC19—Arcadia-Class Jumpship</name>
+			<text>Flying
+When WC19—Arcadia-Class Jumpship enters, search your library for a plains or Planet card, reveal it, and put it into your hand. Then shuffle.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/249.png" num="23"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>WC20—Rally Barricade</name>
+			<text>Create a Barricade, a 1/4 white Wall creature token with Defender.
+Untap up to one target creature.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/250.png" num="24"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>WC22—Lucent Fireteam</name>
+			<text>Trample, lifelink, ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/252.png" num="26"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hive Cleric Knight Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>WC23—Imperial Conscription</name>
+			<text>Create two Imperial Legionaries, 2/2 white Cabal Soldier creature tokens with Vigilance.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/253.png" num="27"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>WC24—Caiatl&apos;s Chosen</name>
+			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Spells and abilities you control that target WC24—Caiatl&apos;s Chosen cost {2} less.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/254.png" num="28"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cabal Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CC15—Sweeper Bot</name>
+			<text>{1}, {T}: Exile a card from target graveyard.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/261.png" num="310"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UC24—Gensym Knight</name>
+			<text>Whenever you draw your second card each turn, put a +1/+1 counter on Gensym Knight. It gains vigilance until end of turn.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/262.png" num="78"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Awoken Titan</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>UC25—Trapped in Time</name>
+			<text>Enchant creature
+Enchanted creature gets -2/-0. It gets -5/-0 instead if there are five or more cards in exile.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/263.png" num="79"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>WC18—Racing Sparrow</name>
+			<text>When a human or awoken enter under your control, WC18—Racing Sparrow becomes a creature until end of turn.
+Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/266.png" num="22"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UC11—Bootstrap Simulation</name>
+			<text>Simulate target creature. (Create a nonlegendary token copy of it.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/267.png" num="65"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>UC7—Salvation Aspirants</name>
+			<text>If there are any stun counters on creatures an opponent controls, you may cast Salvation Aspirants as though it had flash.
+{1}{U}, {T}, Sacrifice Salvation Aspirants: Tap target creature and put a stun counter on it.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/268.png" num="61"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Eliksni</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>BC14—Defiled Servitor</name>
+			<text>Flying
+When BC14—Defiled Servitor dies, each opponent discards a card.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/274.png" num="118"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Eliksni Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>BC15—Blade-bound to the Terrace</name>
+			<text>When BC15—Blade-bound to the Terrace enters, choose a battle. You may add or remove three defense counters from it. If you do, you gain 3 life.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/275.png" num="119"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Darkness</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>BC16—Salvation Elite</name>
+			<text>When BC16—Salvation Elite enters or attacks, you may pay {U}. If you do, tap target creature and put a stun counter on it.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/276.png" num="120"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Eliksni</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>BC17—Vanquisher of Nokris</name>
+			<text>BC17—Vanquisher of Nokris enters with a +1/+1 counter on it if it was cast according to Sword Logic.
+Sword Logic—{4}{B}, Exile a creature card from your graveyard. (You may cast this spell from your graveyard for its Sword Logic cost if a creature you don&apos;t control died this turn.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/277.png" num="121"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hive Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>BC18—Corrupted Ravager</name>
+			<text>When BC18—Corrupted Ravager dies, it deals 1 damage to target creature. It deals 2 damage instead if that creature is tapped.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/278.png" num="122"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Eliksni Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>BC20—Xenophage</name>
+			<text>When BC20—Xenophage enters, exile up to one target creature card from your graveyard.
+Equipped creature is legendary and gets +X/+0 and trample, where X is the mana value of the exiled card.
+Equip {3}</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/279.png" num="124"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>BC21—Dreadful Scythe</name>
+			<text>When BC21—Dreadful Scythe enters, target opponent sacrifices a creature unless they discard a card.
+Equipped creature has menace and &quot;When this creature attacks, defending player loses 2 life.&quot;
+Equip—Pay 4 life.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/280.png" num="125"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>BC22—Necrotic Grip</name>
+			<text>The first time a creature you don&apos;t control dies each turn, untap BC22—Necrotic Grip
+{3}, {T}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/281.png" num="126"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>BC23—Graviton Forfeit</name>
+			<text>When BC23—Graviton Forfeit enters, attach it to target creature you control.
+Equipped creature can&apos;t be blocked except by legendary creatures.
+Equip {1}{B}</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/282.png" num="127"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>BC24—Nightstalker</name>
+			<text>When BC24—Nightstalker enters, surveil 1.
+Vanishing step — BC24—Nightstalker can&apos;t be blocked as long as your devotion to black is five or greater. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/283.png" num="128"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Awoken Hunter</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>BC25—Taken Goblin</name>
+			<text>When BC25—Taken Goblin enters, if it was cast according to Sword Logic, target legendary creature you control gains indestructible until end of turn.
+Sword Logic—{3}{B}, Exile a creature card from your graveyard. (You may cast this spell from your graveyard for its Sword Logic cost if a creature you don&apos;t control died this turn.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/284.png" num="129"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Darkness</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>RC24—Ghaul&apos;s Bloodguard</name>
+			<text>When Ghaul&apos;s Bloodguard enters, create two Red Legionaries, 2/2 red Cabal Warrior creature tokens with Trample.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/297.png" num="177"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cabal Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>GC9—Boundless Consumption</name>
+			<text>Enchant creature
+When GC9—Boundless Consumption enters, create a Councilor, a 1/1 green Cabal Psion creature token with ward {1}. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+Enchanted creature gets +3/+0 as long as you control a creature token.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/298.png" num="212"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RC4—Stolen Scrap-Walker</name>
+			<text>Flamethrower — Stolen Scrap-Walker can&apos;t be blocked by non-artifact creatures as long as it is modified. (Equipment, Auras you control, and counters are modifications.)
+Activated abilities of equipment you control that target Stolen Scrap-Walker cost {1} less to activate.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/300.png" num="157"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Eliksni Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>GC6—Loyalist Colossus</name>
+			<text>Whenever you gain life, put that many +1/+1 counters on GC6—Loyalist Colossus.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/303.png" num="209"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cabal</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>BC19—Eye of the Swarm</name>
+			<text>Defender, Flying
+When BC19—Eye of the Swarm enters, mill four cards, then draw a card.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/304.png" num="123"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Hive Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>GC17—First Contact</name>
+			<text>Mill four cards. You may put a permanent card from among them into your hand. If this spell is the first spell you&apos;ve cast this game, you gain 2 life.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/306.png" num="220"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>GC18—Encroaching Darkness</name>
+			<text>Create two Shadow Thralls, 1/1 green Darkness creature tokens with &quot;This creature can&apos;t block.&quot; If this spell was cast according to Sword Logic, create three of those tokens instead.
+Sword Logic—{3}{G}, Exile a creature card from your graveyard. (You may cast this spell from your graveyard for its Sword Logic cost if a creature you don&apos;t control died this turn.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/307.png" num="221"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>GC19—Sol Inherent</name>
+			<text>When GC19—Sol Inherent enters, exile a creature card with mana value 3 or less from your graveyard. Then simulate it. (Create a nonlegendary token copy of it.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/308.png" num="222"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Vex Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>GC20—Exorcism</name>
+			<text>Choose one—
+• Destroy target artifact or enchantment
+• Destroy all auras attached to target creature.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/309.png" num="223"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>GC21—Visage of the Emperor</name>
+			<text>When GC21—Visage of the Emperor enters, create a Shadow Legionary, a 3/3 green Darkness Cabal creature token.
+Creature tokens you control get +1/+0.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/310.png" num="224"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>GC22—Precursor Cyclops</name>
+			<text>Defender, Reach
+{T}: Exile the top card of your library. If a land card is exiled this way, you may put it into your hand.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/311.png" num="225"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Vex Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>GC23—Shadow Goliath</name>
+			<text>When Legion Thresher becomes crewed by a Cabal creature, it gains double strike until end of turn.
+Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/312.png" num="226"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>GC24—Taken Essence</name>
+			<text>Enchant creature
+When GC24—Taken Essence enters, draw a card.
+Enchanted creature gets +2/+1.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/313.png" num="227"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>GC25—Hive Boomer</name>
+			<text>Equipped creature has trample.
+Enrage — Whenever equipped creature is dealt damage, put a +1/+1 counter on it. (It must survive the damage to get the counter.)
+Equip {1}</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/314.png" num="228"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CC18—Pouka</name>
+			<text>Flying
+When Pouka enters, you gain 2 life.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/320.png" num="313"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CC17—Vanguard Postmaster</name>
+			<text>When Vanguard Postmaster enters, look at the top four cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on top of your library in any order.
+{T}: Add {C}. Spend this mana only to cast artifact spells or activate abilities of artifacts.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/321.png" num="312"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Robot</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CC19—Siege Engine</name>
+			<text>Siege Engine attacks each turn if able.
+Siege Engine can&apos;t be blocked by walls.
+{3}, Sacrifice Siege Engine: Destroy target artifact. Activate only if Siege Engine dealt combat damage to a player this turn.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/322.png" num="314"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>CC20—Crest of Alpha Lupi</name>
+			<text>When Crest of Alpha Lupi enters, you gain 3 life.
+Equipped creature gets +0/+3 and has vigilance so long as it&apos;s enchanted.
+Equip {2}</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/323.png" num="315"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>GC14—Light-Eater Ogre</name>
+			<text>When GC14—Light-Eater Ogre enters or dies, exile target card from an opponent&apos;s graveyard. If it was a legendary card, you gain 3 life.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/335.png" num="217"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hive Ogre</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>SIVA Nanite </name>
+			<text>Equipped Creature gets +1/+0
+Equip {1}</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/339.png" num="27"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Token — Equipment</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Engram </name>
+			<text>{1}, {T}, Sacrifice this token: Draw a card, then discard a card.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/343.png" num="22"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Token — Engram</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Food </name>
+			<text>{2}, {T}, Sacrifice this token: You gain 3 life.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/348.png" num="23"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Food</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Treasure </name>
+			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/354.png" num="28"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Primeval </name>
+			<text></text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/376.png" num="15"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Darkness</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Stalker </name>
+			<text></text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/377.png" num="11"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Eliksni Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Thrall </name>
+			<text></text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/380.png" num="17"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Hive</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>City Militia </name>
+			<text></text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/382.png" num="4"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Barricade </name>
+			<text>Defender</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/384.png" num="3"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Wall</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>CC21—Scourge of the Past</name>
+			<text>(As a Raid enters, choose an opponent to protect it. You and others can attack it. Whenever a creature attacks this Raid, its controller creates an Engram token. When it&apos;s defeated, exile it, then cast it transformed.)
+When Scourge of the Past enters, surveil 4. (Look at the top four cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/405.png" num="1"></set>
+			<prop>
+				<layout>battle</layout>
+				<side>front</side>
+				<type>Battle — Raid</type>
+				<maintype>Battle</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Anarchy</name>
+			<text>Equipped creature is legendary.
+Equipped creature has &quot;Whenever equipped creature blocks or becomes blocked, it deals 2 damage to each creature it&apos;s blocking or blocked by.&quot;
+Equip {1}</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/406.png" num="1"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Red Legionary </name>
+			<text>Trample</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/408.png" num="12"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cabal Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Shank </name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/409.png" num="14"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Eliksni Robot</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>UC8—Worldline Zero</name>
+			<text>Flash
+When Worldline Zero enters, you may exile target creature you control. Return it to the battlefield under its owner&apos;s control at the beginning of the next end step.
+Equipped creature gets +1/+1, can&apos;t be blocked by tokens, and is legendary.
+Equip {1}{U}</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/410.png" num="62"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Imperial Legionary </name>
+			<text>Vigilance</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/412.png" num="6"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Cabal Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Shadow Legionary </name>
+			<text></text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/414.png" num="16"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Darkness Cabal</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Simulation </name>
+			<text>This token can be used to represent a simulation of something else.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/416.png" num="2"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Councilor </name>
+			<text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/-files/img/417.png" num="18"></set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Cabal Psion</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
