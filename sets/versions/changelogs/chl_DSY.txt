@@ -1,4 +1,344 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Food added.
+Treasure added.
+Treasure added.
+Food added.
+
+
+RC7—Golden Gun
+
+GC5—Knight's Cleaver
+
+BC8—Malfeasance
+
+UC21—Void Suppressor
+
+RC18—House Light Engineers
+
+RC15—Splicer Baron
+
+RC20—~Consume~
+
+CC6—Ghost
+
+GC1—Acolytes of the Hidden Swarm
+
+UC14—Noble Winter Walker
+
+RC22—Silent Fang Assassin
+
+BC4—Final Death
+
+WC10—Siege Dancer Phalanx
+
+WC4—Heat Rises
+
+UC4—Spider's Associates
+
+RC5—Gambler's Dodge
+
+WC8—Radiant Resurrection
+
+GC16—Taken Psion
+
+UC20—Shuro Chi's Teachings
+
+RC12—Scorch Cannon
+
+RC1—Cabal Stomp
+
+Landing Zone
+
+RC10—Kell's Scourge Berserker
+
+RC14—Scorpius Turret
+
+UC9—Data Preservation
+
+BC5—Grim Flayer
+
+RC17—Tormenting Voice
+
+BC10—Scorned Crossbow
+
+CC9—Pyramid Splinter
+
+CC2—Bell of Conquests
+
+CC4—Chalice of Opulence
+
+CC11—Nightmare Harvester
+
+CC5—Gate Lord's Eye
+
+CC14—Tree of Silver Wings
+
+CC13—Tablet of Ruin
+
+CC12—Skeleton Key
+
+CC16—Warmind Khanjali
+
+CC1—Acolyte's Staff
+
+CC3—Strange Coin
+
+RC13—Scorn Ravager
+
+RC16—Tarnished Wraith
+
+WC15—Valkyrie
+
+BC9—Nightmarish Revival
+
+UC18—Ritual of Negation
+
+UC13—Heavy Pike
+
+BC6—Hive Tomb Ship
+
+UC17—Salvation's Grip
+
+UC12—Goblins of the Hezen Protective
+
+BC2—Fanatical Lurker
+
+CC22—New Light
+
+WC6—Psion Operant
+
+GC13—Woven Mail
+
+RC6—Gluttonous Growth
+
+GC3—Drifter's Gambit
+
+RC21—~Enhance~
+
+UC5—Cloud Skimmer
+
+RC8—Legion Thresher
+
+UC19—Sacred Splicer's Art
+
+BC1—Bound Ogre
+
+WC11—Slug Rifle
+
+CC8—Khvostov 7G-02
+
+WC7—Queen's Corsairs
+
+BC13—Subjugator of Truth
+
+GC10—Subjugator of Gardens
+
+WC14—Time's Vengeance
+
+WC21—Centurion of the Coalition
+
+GC7—Music of the Spheres
+
+GC11—Swordbearer
+
+UC2—Archon of Wolves
+
+CC10—Rat King
+
+RC3—Dregs of Dusk
+
+RC09—~Replicate~
+
+RC19—Unstable Incendior
+
+BC3—Fanatic's Summons
+
+CC7—Insurrection Prime
+
+WC9—Shaxx's Redjacks
+
+GC2—Devouring Light
+
+GC12—Wormgod Larva
+
+GC4—Explicator of Planets
+
+BC11—Silence & Squall
+
+RC23—Screeb
+
+RC25—Honored Gladiator
+
+UC22—Axis Harpies
+
+WC3—Fell the Monstrous
+
+BC7—Invoke Deepsight
+
+UC6—Commodore Brig
+
+UC15—Old Crew's Ketch
+
+GC15—Divisive Gate Lord
+
+Lost Sector
+
+WC13—Surge of Light
+
+RC11—Remnant of the Iron Lords
+
+UC23—Seven Seraphs
+
+UC3—Neomuni Archivist
+
+UC16—Prohibitive Hobgoblin
+
+UC1—Vex Assimilation
+
+WC5—Pilgrim Guard Sentinel
+
+BC12—Soulfire Infusion
+
+WC12—Sunsinger
+
+WC2—Shattered Memories
+
+UC10—Ether Servitor
+
+GC8—Quantum Hydra
+
+RC2—Daring Gunslinger
+
+WC1—Forces of the City
+
+WC16—Arcstrider
+
+WC17—Hidden Agents
+
+WC25—Wings of Sacred Dawn
+
+WC19—Arcadia-Class Jumpship
+
+WC20—Rally Barricade
+
+WC22—Lucent Fireteam
+
+WC23—Imperial Conscription
+
+WC24—Caiatl's Chosen
+
+CC15—Sweeper Bot
+
+UC24—Gensym Knight
+
+UC25—Trapped in Time
+
+WC18—Racing Sparrow
+
+UC11—Bootstrap Simulation
+
+UC7—Salvation Aspirants
+
+BC14—Defiled Servitor
+
+BC15—Blade-bound to the Terrace
+
+BC16—Salvation Elite
+
+BC17—Vanquisher of Nokris
+
+BC18—Corrupted Ravager
+
+BC20—Xenophage
+
+BC21—Dreadful Scythe
+
+BC22—Necrotic Grip
+
+BC23—Graviton Forfeit
+
+BC24—Nightstalker
+
+BC25—Taken Goblin
+
+RC24—Ghaul's Bloodguard
+
+GC9—Boundless Consumption
+
+RC4—Stolen Scrap-Walker
+
+GC6—Loyalist Colossus
+
+BC19—Eye of the Swarm
+
+GC17—First Contact
+
+GC18—Encroaching Darkness
+
+GC19—Sol Inherent
+
+GC20—Exorcism
+
+GC21—Visage of the Emperor
+
+GC22—Precursor Cyclops
+
+GC23—Shadow Goliath
+
+GC24—Taken Essence
+
+GC25—Hive Boomer
+
+CC18—Pouka
+
+CC17—Vanguard Postmaster
+
+CC19—Siege Engine
+
+CC20—Crest of Alpha Lupi
+
+GC14—Light-Eater Ogre
+
+SIVA Nanite
+
+Engram
+
+Food
+
+Treasure
+
+Primeval
+
+Stalker
+
+Thrall
+
+City Militia
+
+Barricade
+
+CC21—Scourge of the Past
+
+Anarchy
+
+Red Legionary
+
+Shank
+
+UC8—Worldline Zero
+
+Imperial Legionary
+
+Shadow Legionary
+
+Simulation
+
+Councilor
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

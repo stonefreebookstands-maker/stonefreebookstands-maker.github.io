@@ -1455,6 +1455,22 @@
         "position": "348"
     },
     {
+        "card_name": "Food",
+        "number": 24,
+        "shape": "token",
+        "set": "DSY",
+        "rotated": false,
+        "position": "353"
+    },
+    {
+        "card_name": "Food",
+        "number": 25,
+        "shape": "token",
+        "set": "DSY",
+        "rotated": false,
+        "position": "415"
+    },
+    {
         "card_name": "SIVA Nanite",
         "number": 27,
         "shape": "token",
@@ -1469,6 +1485,22 @@
         "set": "DSY",
         "rotated": false,
         "position": "354"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 29,
+        "shape": "token",
+        "set": "DSY",
+        "rotated": false,
+        "position": "355"
+    },
+    {
+        "card_name": "Treasure",
+        "number": 30,
+        "shape": "token",
+        "set": "DSY",
+        "rotated": false,
+        "position": "356"
     },
     {
         "card_name": "Barricade",
@@ -1519,8 +1551,16 @@
         "position": "409"
     },
     {
-        "card_name": "Primeval",
+        "card_name": "Councilor",
         "number": 15,
+        "shape": "token",
+        "set": "DSY",
+        "rotated": false,
+        "position": "417"
+    },
+    {
+        "card_name": "Primeval",
+        "number": 16,
         "shape": "token",
         "set": "DSY",
         "rotated": false,
@@ -1528,7 +1568,7 @@
     },
     {
         "card_name": "Shadow Legionary",
-        "number": 16,
+        "number": 17,
         "shape": "token",
         "set": "DSY",
         "rotated": false,
@@ -1536,19 +1576,14 @@
     },
     {
         "card_name": "Thrall",
-        "number": 17,
+        "number": 18,
         "shape": "token",
         "set": "DSY",
         "rotated": false,
         "position": "380"
     },
     {
-        "card_name": "Councilor",
-        "number": 18,
-        "shape": "token",
-        "set": "DSY",
-        "rotated": false,
-        "position": "417"
+        "card_name": "e"
     },
     {
         "card_name": "er"
