@@ -1,4 +1,11 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Glacier Wall added.
+
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Golden Gun added.

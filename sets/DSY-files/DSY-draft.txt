@@ -1675,7 +1675,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Artifact Token — Equipment",
-			"collector_number": "27",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/339.png"
 			}
@@ -1685,7 +1685,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Artifact Token — Engram",
-			"collector_number": "22",
+			"collector_number": "23",
 			"image_uris": {
 				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/343.png"
 			}
@@ -1695,7 +1695,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
-			"collector_number": "23",
+			"collector_number": "24",
 			"image_uris": {
 				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/348.png"
 			}
@@ -1705,7 +1705,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
-			"collector_number": "24",
+			"collector_number": "25",
 			"image_uris": {
 				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/353.png"
 			}
@@ -1715,7 +1715,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "28",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/354.png"
 			}
@@ -1725,7 +1725,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "29",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/355.png"
 			}
@@ -1735,7 +1735,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "30",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/356.png"
 			}
@@ -1745,7 +1745,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Darkness",
-			"collector_number": "15",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/376.png"
 			}
@@ -1755,7 +1755,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Eliksni Zombie",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/377.png"
 			}
@@ -1805,7 +1805,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creature — Cabal Warrior",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/407.png"
 			}
@@ -1815,7 +1815,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Artifact Creature — Eliksni Robot",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
 				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/408.png"
 			}
@@ -1845,7 +1845,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Creature — Darkness Cabal",
-			"collector_number": "16",
+			"collector_number": "17",
 			"image_uris": {
 				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/413.png"
 			}
@@ -1855,7 +1855,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
-			"collector_number": "25",
+			"collector_number": "26",
 			"image_uris": {
 				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/414.png"
 			}
@@ -1875,7 +1875,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Cabal Psion",
-			"collector_number": "14",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/416.png"
 			}
@@ -1885,9 +1885,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Darkness",
-			"collector_number": "17",
+			"collector_number": "18",
 			"image_uris": {
 				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/417.png"
+			}
+		},
+		{
+			"name": "Glacier Wall",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Wall",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/418.png"
 			}
 		}
 	]

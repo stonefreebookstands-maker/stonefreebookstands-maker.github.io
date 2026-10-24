@@ -1440,7 +1440,7 @@
     },
     {
         "card_name": "Engram",
-        "number": 22,
+        "number": 23,
         "shape": "token",
         "set": "DSY",
         "rotated": false,
@@ -1448,7 +1448,7 @@
     },
     {
         "card_name": "Food",
-        "number": 23,
+        "number": 24,
         "shape": "token",
         "set": "DSY",
         "rotated": false,
@@ -1456,7 +1456,7 @@
     },
     {
         "card_name": "Food",
-        "number": 24,
+        "number": 25,
         "shape": "token",
         "set": "DSY",
         "rotated": false,
@@ -1464,7 +1464,7 @@
     },
     {
         "card_name": "Food",
-        "number": 25,
+        "number": 26,
         "shape": "token",
         "set": "DSY",
         "rotated": false,
@@ -1472,7 +1472,7 @@
     },
     {
         "card_name": "SIVA Nanite",
-        "number": 27,
+        "number": 28,
         "shape": "token",
         "set": "DSY",
         "rotated": false,
@@ -1480,7 +1480,7 @@
     },
     {
         "card_name": "Treasure",
-        "number": 28,
+        "number": 29,
         "shape": "token",
         "set": "DSY",
         "rotated": false,
@@ -1488,7 +1488,7 @@
     },
     {
         "card_name": "Treasure",
-        "number": 29,
+        "number": 30,
         "shape": "token",
         "set": "DSY",
         "rotated": false,
@@ -1496,7 +1496,7 @@
     },
     {
         "card_name": "Treasure",
-        "number": 30,
+        "number": 31,
         "shape": "token",
         "set": "DSY",
         "rotated": false,
@@ -1527,8 +1527,16 @@
         "position": "411"
     },
     {
+        "card_name": "Glacier Wall",
+        "number": 9,
+        "shape": "token",
+        "set": "DSY",
+        "rotated": false,
+        "position": "418"
+    },
+    {
         "card_name": "Stalker",
-        "number": 10,
+        "number": 11,
         "shape": "token",
         "set": "DSY",
         "rotated": false,
@@ -1536,7 +1544,7 @@
     },
     {
         "card_name": "Red Legionary",
-        "number": 11,
+        "number": 12,
         "shape": "token",
         "set": "DSY",
         "rotated": false,
@@ -1544,7 +1552,7 @@
     },
     {
         "card_name": "Shank",
-        "number": 13,
+        "number": 14,
         "shape": "token",
         "set": "DSY",
         "rotated": false,
@@ -1552,7 +1560,7 @@
     },
     {
         "card_name": "Councilor",
-        "number": 14,
+        "number": 15,
         "shape": "token",
         "set": "DSY",
         "rotated": false,
@@ -1560,7 +1568,7 @@
     },
     {
         "card_name": "Primeval",
-        "number": 15,
+        "number": 16,
         "shape": "token",
         "set": "DSY",
         "rotated": false,
@@ -1568,7 +1576,7 @@
     },
     {
         "card_name": "Shadow Legionary",
-        "number": 16,
+        "number": 17,
         "shape": "token",
         "set": "DSY",
         "rotated": false,
@@ -1576,14 +1584,11 @@
     },
     {
         "card_name": "Shadow Thrall",
-        "number": 17,
+        "number": 18,
         "shape": "token",
         "set": "DSY",
         "rotated": false,
         "position": "417"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"

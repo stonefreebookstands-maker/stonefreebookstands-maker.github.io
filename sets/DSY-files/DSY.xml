@@ -2834,7 +2834,7 @@ Equip {2}</text>
 			<name>SIVA Nanite DSY</name>
 			<text>Equipped Creature gets +1/+0
 Equip {1}</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/339.png" num="27">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/339.png" num="28">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2849,7 +2849,7 @@ Equip {1}</text>
 		<card>
 			<name>Engram DSY</name>
 			<text>{1}, {T}, Sacrifice this token: Draw a card, then discard a card.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/343.png" num="22">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/343.png" num="23">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2864,7 +2864,7 @@ Equip {1}</text>
 		<card>
 			<name>Food DSY</name>
 			<text>{2}, {T}, Sacrifice this token: You gain 3 life.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/348.png" num="23">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/348.png" num="24">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2879,7 +2879,7 @@ Equip {1}</text>
 		<card>
 			<name>Food DSY</name>
 			<text>{2}, {T}, Sacrifice this token: You gain 3 life.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/353.png" num="24">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/353.png" num="25">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2894,7 +2894,7 @@ Equip {1}</text>
 		<card>
 			<name>Treasure DSY</name>
 			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/354.png" num="28">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/354.png" num="29">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2909,7 +2909,7 @@ Equip {1}</text>
 		<card>
 			<name>Treasure DSY</name>
 			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/355.png" num="29">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/355.png" num="30">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2924,7 +2924,7 @@ Equip {1}</text>
 		<card>
 			<name>Treasure DSY</name>
 			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/356.png" num="30">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/356.png" num="31">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2939,7 +2939,7 @@ Equip {1}</text>
 		<card>
 			<name>Primeval DSY</name>
 			<text></text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/376.png" num="15">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/376.png" num="16">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2957,7 +2957,7 @@ Equip {1}</text>
 		<card>
 			<name>Stalker DSY</name>
 			<text></text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/377.png" num="10">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/377.png" num="11">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3043,7 +3043,7 @@ Equip {1}</text>
 		<card>
 			<name>Red Legionary DSY</name>
 			<text>Trample</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/407.png" num="11">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/407.png" num="12">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3061,7 +3061,7 @@ Equip {1}</text>
 		<card>
 			<name>Shank DSY</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/408.png" num="13">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/408.png" num="14">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3116,7 +3116,7 @@ Equip {1}{U}</text>
 		<card>
 			<name>Shadow Legionary DSY</name>
 			<text></text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/413.png" num="16">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/413.png" num="17">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3134,7 +3134,7 @@ Equip {1}{U}</text>
 		<card>
 			<name>Food DSY</name>
 			<text>{2}, {T}, Sacrifice this token: You gain 3 life.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/414.png" num="25">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/414.png" num="26">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3164,7 +3164,7 @@ Equip {1}{U}</text>
 		<card>
 			<name>Councilor DSY</name>
 			<text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/416.png" num="14">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/416.png" num="15">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3182,7 +3182,7 @@ Equip {1}{U}</text>
 		<card>
 			<name>Shadow Thrall DSY</name>
 			<text>This creature can&apos;t block.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/417.png" num="17">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/417.png" num="18">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3193,6 +3193,24 @@ Equip {1}{U}</text>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Glacier Wall DSY</name>
+			<text>Defender</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/418.png" num="9">DSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Wall</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 			<token>1</token>
