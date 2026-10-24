@@ -1,4 +1,306 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Golden Gun added.
+Knight's Cleaver added.
+Malfeasance added.
+Void Suppressor added.
+Devil Splicers added.
+Splicer Archpriest added.
+~Consume~ added.
+Ghost added.
+Acolytes of the Hidden Swarm added.
+Noble Winter Walker added.
+Silent Fang Assassin added.
+Final Death added.
+Siege Dancer Phalanx added.
+Heat Rises added.
+Spider's Associates added.
+Gambler's Dodge added.
+Radiant Resurrection added.
+Taken Psion added.
+Shuro Chi's Teachings added.
+Scorch Cannon added.
+Cabal Stomp added.
+Kell's Scourge Berserker added.
+Scorpius Turret added.
+Data Preservation added.
+Grim Flayer added.
+Tormenting Voice added.
+Scorned Crossbow added.
+Pyramid Splinter added.
+Bell of Conquests added.
+Chalice of Opulence added.
+Nightmare Harvester added.
+Gate Lord's Eye added.
+Tree of Silver Wings added.
+Tablet of Ruin added.
+Skeleton Key added.
+Warmind Khanjali added.
+Acolyte's Staff added.
+Strange Coin added.
+Scorn Ravager added.
+Tarnished Wraith added.
+Valkyrie added.
+Nightmarish Revival added.
+Ritual of Negation added.
+Heavy Pike added.
+Hive Tomb Ship added.
+Salvation's Grip added.
+Goblins of the Hezen Protective added.
+Shadowed Lurker added.
+New Light added.
+Psion Operant added.
+Woven Mail added.
+Gluttonous Growth added.
+Drifter's Gambit added.
+~Enhance~ added.
+Cloud Skimmer added.
+Legion Thresher added.
+Sacred Splicer's Art added.
+Bound Ogre added.
+Slug Rifle added.
+Khvostov 7G-02 added.
+Queen's Corsairs added.
+Subjugator of Truth added.
+Subjugator of Gardens added.
+Time's Vengeance added.
+Centurion of the Coalition added.
+Music of the Spheres added.
+Swordbearer added.
+Archon of Wolves added.
+Rat King added.
+Dregs of Dusk added.
+~Replicate~ added.
+Unstable Incendior added.
+Fanatic's Summons added.
+Insurrection Prime added.
+Shaxx's Redjacks added.
+Devouring Light added.
+Wormgod Larva added.
+Explicator of Planets added.
+Silence & Squall added.
+Screeb added.
+Honored Gladiator added.
+Axis Harpies added.
+Fell the Monstrous added.
+Invoke Deepsight added.
+Commodore Brig added.
+Old Crew's Ketch added.
+Divisive Gate Lord added.
+Surge of Light added.
+Remnant of the Iron Lords added.
+Seven Seraphs added.
+Neomuni Archivist added.
+Prohibitive Hobgoblin added.
+Vex Assimilation added.
+Pilgrim Guard Sentinel added.
+Soulfire Infusion added.
+Sunsinger added.
+Shattered Memories added.
+Ether Servitor added.
+Quantum Hydra added.
+Daring Gunslinger added.
+Forces of the City added.
+Arcstrider added.
+Hidden Agents added.
+Wings of Sacred Dawn added.
+Arcadia-Class Jumpship added.
+Rally Barricade added.
+Lucent Fireteam added.
+Imperial Conscription added.
+Caiatl's Chosen added.
+Sweeper Bot added.
+Gensym Knight added.
+Trapped in Time added.
+Racing Sparrow added.
+Bootstrap Simulation added.
+Salvation Aspirants added.
+Defiled Servitor added.
+Blade-bound to the Terrace added.
+Salvation Elite added.
+Vanquisher of Nokris added.
+Corrupted Ravager added.
+Xenophage added.
+Dreadful Scythe added.
+Necrotic Grip added.
+Graviton Forfeit added.
+Nightstalker added.
+Taken Goblin added.
+Ghaul's Bloodguard added.
+Boundless Consumption added.
+Stolen Scrap-Walker added.
+Loyalist Colossus added.
+Eye of the Swarm added.
+First Contact added.
+Encroaching Darkness added.
+Sol Inherent added.
+Exorcism added.
+Visage of the Emperor added.
+Precursor Cyclops added.
+Shadow Goliath added.
+Taken Essence added.
+Hive Boomer added.
+Pouka added.
+Vanguard Postmaster added.
+Siege Engine added.
+Crest of Alpha Lupi added.
+Light-Eater Ogre added.
+Scourge of the Past added.
+Worldline Zero added.
+Shadow Thrall added.
+
+RC7—Golden Gun removed.
+GC5—Knight's Cleaver removed.
+BC8—Malfeasance removed.
+UC21—Void Suppressor removed.
+RC18—House Light Engineers removed.
+RC15—Splicer Baron removed.
+RC20—~Consume~ removed.
+CC6—Ghost removed.
+GC1—Acolytes of the Hidden Swarm removed.
+UC14—Noble Winter Walker removed.
+RC22—Silent Fang Assassin removed.
+BC4—Final Death removed.
+WC10—Siege Dancer Phalanx removed.
+WC4—Heat Rises removed.
+UC4—Spider's Associates removed.
+RC5—Gambler's Dodge removed.
+WC8—Radiant Resurrection removed.
+GC16—Taken Psion removed.
+UC20—Shuro Chi's Teachings removed.
+RC12—Scorch Cannon removed.
+RC1—Cabal Stomp removed.
+RC10—Kell's Scourge Berserker removed.
+RC14—Scorpius Turret removed.
+UC9—Data Preservation removed.
+BC5—Grim Flayer removed.
+RC17—Tormenting Voice removed.
+BC10—Scorned Crossbow removed.
+CC9—Pyramid Splinter removed.
+CC2—Bell of Conquests removed.
+CC4—Chalice of Opulence removed.
+CC11—Nightmare Harvester removed.
+CC5—Gate Lord's Eye removed.
+CC14—Tree of Silver Wings removed.
+CC13—Tablet of Ruin removed.
+CC12—Skeleton Key removed.
+CC16—Warmind Khanjali removed.
+CC1—Acolyte's Staff removed.
+CC3—Strange Coin removed.
+RC13—Scorn Ravager removed.
+RC16—Tarnished Wraith removed.
+WC15—Valkyrie removed.
+BC9—Nightmarish Revival removed.
+UC18—Ritual of Negation removed.
+UC13—Heavy Pike removed.
+BC6—Hive Tomb Ship removed.
+UC17—Salvation's Grip removed.
+UC12—Goblins of the Hezen Protective removed.
+BC2—Fanatical Lurker removed.
+CC22—New Light removed.
+WC6—Psion Operant removed.
+GC13—Woven Mail removed.
+RC6—Gluttonous Growth removed.
+GC3—Drifter's Gambit removed.
+RC21—~Enhance~ removed.
+UC5—Cloud Skimmer removed.
+RC8—Legion Thresher removed.
+UC19—Sacred Splicer's Art removed.
+BC1—Bound Ogre removed.
+WC11—Slug Rifle removed.
+CC8—Khvostov 7G-02 removed.
+WC7—Queen's Corsairs removed.
+BC13—Subjugator of Truth removed.
+GC10—Subjugator of Gardens removed.
+WC14—Time's Vengeance removed.
+WC21—Centurion of the Coalition removed.
+GC7—Music of the Spheres removed.
+GC11—Swordbearer removed.
+UC2—Archon of Wolves removed.
+CC10—Rat King removed.
+RC3—Dregs of Dusk removed.
+RC09—~Replicate~ removed.
+RC19—Unstable Incendior removed.
+BC3—Fanatic's Summons removed.
+CC7—Insurrection Prime removed.
+WC9—Shaxx's Redjacks removed.
+GC2—Devouring Light removed.
+GC12—Wormgod Larva removed.
+GC4—Explicator of Planets removed.
+BC11—Silence & Squall removed.
+RC23—Screeb removed.
+RC25—Honored Gladiator removed.
+UC22—Axis Harpies removed.
+WC3—Fell the Monstrous removed.
+BC7—Invoke Deepsight removed.
+UC6—Commodore Brig removed.
+UC15—Old Crew's Ketch removed.
+GC15—Divisive Gate Lord removed.
+WC13—Surge of Light removed.
+RC11—Remnant of the Iron Lords removed.
+UC23—Seven Seraphs removed.
+UC3—Neomuni Archivist removed.
+UC16—Prohibitive Hobgoblin removed.
+UC1—Vex Assimilation removed.
+WC5—Pilgrim Guard Sentinel removed.
+BC12—Soulfire Infusion removed.
+WC12—Sunsinger removed.
+WC2—Shattered Memories removed.
+UC10—Ether Servitor removed.
+GC8—Quantum Hydra removed.
+RC2—Daring Gunslinger removed.
+WC1—Forces of the City removed.
+WC16—Arcstrider removed.
+WC17—Hidden Agents removed.
+WC25—Wings of Sacred Dawn removed.
+WC19—Arcadia-Class Jumpship removed.
+WC20—Rally Barricade removed.
+WC22—Lucent Fireteam removed.
+WC23—Imperial Conscription removed.
+WC24—Caiatl's Chosen removed.
+CC15—Sweeper Bot removed.
+UC24—Gensym Knight removed.
+UC25—Trapped in Time removed.
+WC18—Racing Sparrow removed.
+UC11—Bootstrap Simulation removed.
+UC7—Salvation Aspirants removed.
+BC14—Defiled Servitor removed.
+BC15—Blade-bound to the Terrace removed.
+BC16—Salvation Elite removed.
+BC17—Vanquisher of Nokris removed.
+BC18—Corrupted Ravager removed.
+BC20—Xenophage removed.
+BC21—Dreadful Scythe removed.
+BC22—Necrotic Grip removed.
+BC23—Graviton Forfeit removed.
+BC24—Nightstalker removed.
+BC25—Taken Goblin removed.
+RC24—Ghaul's Bloodguard removed.
+GC9—Boundless Consumption removed.
+RC4—Stolen Scrap-Walker removed.
+GC6—Loyalist Colossus removed.
+BC19—Eye of the Swarm removed.
+GC17—First Contact removed.
+GC18—Encroaching Darkness removed.
+GC19—Sol Inherent removed.
+GC20—Exorcism removed.
+GC21—Visage of the Emperor removed.
+GC22—Precursor Cyclops removed.
+GC23—Shadow Goliath removed.
+GC24—Taken Essence removed.
+GC25—Hive Boomer removed.
+CC18—Pouka removed.
+CC17—Vanguard Postmaster removed.
+CC19—Siege Engine removed.
+CC20—Crest of Alpha Lupi removed.
+GC14—Light-Eater Ogre removed.
+Thrall removed.
+CC21—Scourge of the Past removed.
+UC8—Worldline Zero removed.
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Food added.

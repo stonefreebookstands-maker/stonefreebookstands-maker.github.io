@@ -10,9 +10,9 @@
 	</sets>
 	<cards>
 		<card>
-			<name>RC7—Golden Gun</name>
+			<name>Golden Gun</name>
 			<text>Golden Gun deals 3 damage divided as you choose among up to three targets.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/4.png" num="160">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/4.png" num="161">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -26,10 +26,10 @@
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>GC5—Knight&apos;s Cleaver</name>
+			<name>Knight&apos;s Cleaver</name>
 			<text>Equipped creature gets +2/+2.
 Equip {1}. This ability costs {0} instead if a creature you don&apos;t control died this turn. Activate only once each turn.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/5.png" num="208">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/5.png" num="238">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -43,11 +43,11 @@ Equip {1}. This ability costs {0} instead if a creature you don&apos;t control d
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>BC8—Malfeasance</name>
-			<text>When BC8—Malfeasance enters, search your library for up to three cards named Malfeasance, reveal them, put them into your hand, then shuffle.
+			<name>Malfeasance</name>
+			<text>When Malfeasance enters, search your library for up to three cards named Malfeasance, reveal them, put them into your hand, then shuffle.
 Equipped creature gets +1/+1. As long as your devotion to black is five or more, it also has deathtouch. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)
 Equip {2}</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/12.png" num="112">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/12.png" num="141">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -61,9 +61,9 @@ Equip {2}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UC21—Void Suppressor</name>
+			<name>Void Suppressor</name>
 			<text>Counter target activated or triggered ability, or target noncreature spell.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/13.png" num="75">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/13.png" num="102">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -77,15 +77,15 @@ Equip {2}</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>RC18—House Light Engineers</name>
-			<text>When House Light Engineers enters, choose one—
-• Put a +1/+1 counter on target artifact creature.
+			<name>Devil Splicers</name>
+			<text>When Devil Splicers enters, choose one—
+• Create a SIVA Nanite token and attach it to target creature. (It&apos;s an equipment artifact with &quot;Equipped creature gets +1/+0&quot; and Equip {1}.)
 • Create a Shank, a 1/1 red Eliksni Robot artifact creature token with flying.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/14.png" num="171">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/14.png" num="156">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature — Eliksni</type>
+				<type>Artifact Creature — Eliksni</type>
 				<maintype>Creature</maintype>
 				<manacost>1R</manacost>
 				<cmc>2</cmc>
@@ -96,10 +96,10 @@ Equip {2}</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RC15—Splicer Baron</name>
-			<text>Modified creatures you control have haste. (Equipment, Auras you control, and counters are modifications.)
+			<name>Splicer Archpriest</name>
+			<text>Modified creatures you control have haste and are legendary. (Equipment, Auras you control, and counters are modifications.)
 {T}, Sacrifice an artifact: Create a SIVA Nanite token and attach it to target creature. Activate only as a sorcery. (It&apos;s an equipment artifact with &quot;Equipped creature gets +1/+0&quot; and equip {1})</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/18.png" num="168">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/18.png" num="195">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -114,10 +114,10 @@ Equip {2}</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RC20—~Consume~</name>
+			<name>~Consume~</name>
 			<text>This spell costs {3} less if it targets an artifact creature.
 ~Consume~ deals 5 damage to target creature.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/19.png" num="173">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/19.png" num="200">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -131,10 +131,10 @@ Equip {2}</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CC6—Ghost</name>
+			<name>Ghost</name>
 			<text>At the beginning of your upkeep, if Ghost isn&apos;t attached to a creature, you may pay {3}. If you do, return target Human, Awoken, or Hive creature card from your graveyard to the battlefield and attach Ghost to it.
 Equipped creature is legendary.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/28.png" num="301">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/28.png" num="319">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -146,9 +146,9 @@ Equipped creature is legendary.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>GC1—Acolytes of the Hidden Swarm</name>
+			<name>Acolytes of the Hidden Swarm</name>
 			<text>{T}: Add {G}.
-When GC1—Acolytes of the Hidden Swarm dies, create an Engram token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Draw a card, then discard a card.&quot;)</text>
+When Acolytes of the Hidden Swarm dies, create an Engram token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Draw a card, then discard a card.&quot;)</text>
 			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/29.png" num="204">DSY</set>
 			<prop>
 				<layout>normal</layout>
@@ -164,10 +164,10 @@ When GC1—Acolytes of the Hidden Swarm dies, create an Engram token. (It&apos;s
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UC14—Noble Winter Walker</name>
+			<name>Noble Winter Walker</name>
 			<text>{1}, Sacrifice an artifact: Put a +1/+1 counter on Noble Winter Walker.
 When Noble Winter Walker dies, move all counters from it onto another target creature you control.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/31.png" num="68">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/31.png" num="66">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -182,10 +182,10 @@ When Noble Winter Walker dies, move all counters from it onto another target cre
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RC22—Silent Fang Assassin</name>
+			<name>Silent Fang Assassin</name>
 			<text>Reach
 {T}: Silent Fang Assassin deals 3 damage to target battle. Activate only if an opponent lost life this turn.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/33.png" num="175">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/33.png" num="194">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -200,9 +200,9 @@ When Noble Winter Walker dies, move all counters from it onto another target cre
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>BC4—Final Death</name>
+			<name>Final Death</name>
 			<text>Exile target creature.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/35.png" num="108">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/35.png" num="136">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -216,10 +216,10 @@ When Noble Winter Walker dies, move all counters from it onto another target cre
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>WC10—Siege Dancer Phalanx</name>
+			<name>Siege Dancer Phalanx</name>
 			<text>Vigilance
-{1}: Exchange WC10—Siege Dancer Phalanx&apos;s power and toughness until end of turn.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/45.png" num="14">DSY</set>
+{1}: Exchange Siege Dancer Phalanx&apos;s power and toughness until end of turn.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/45.png" num="23">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -234,11 +234,11 @@ When Noble Winter Walker dies, move all counters from it onto another target cre
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>WC4—Heat Rises</name>
+			<name>Heat Rises</name>
 			<text>Enchant creature
-When WC4—Heat Rises enters, draw a card.
+When Heat Rises enters, draw a card.
 Enchanted creature has flying.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/56.png" num="8">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/56.png" num="11">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -252,9 +252,9 @@ Enchanted creature has flying.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UC4—Spider&apos;s Associates</name>
+			<name>Spider&apos;s Associates</name>
 			<text>{2}{U}, Sacrifice Spider&apos;s Associates: Create two Engram tokens. (They&apos;re artifacts with &quot;{1}, {T}, Sacrifice this token: Draw a card, then discard a card.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/60.png" num="58">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/60.png" num="75">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -269,7 +269,7 @@ Enchanted creature has flying.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RC5—Gambler&apos;s Dodge</name>
+			<name>Gambler&apos;s Dodge</name>
 			<text>Target creature with power 2 or less can&apos;t be blocked this turn.
 Exile the top two cards of your library. Choose one of them. Until the end of your next turn, you may play that card.</text>
 			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/61.png" num="158">DSY</set>
@@ -286,9 +286,9 @@ Exile the top two cards of your library. Choose one of them. Until the end of yo
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>WC8—Radiant Resurrection</name>
-			<text>Return target legendary creature card from your graveyard to the battlefield. You gain 5 life.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/63.png" num="12">DSY</set>
+			<name>Radiant Resurrection</name>
+			<text>Return target creature card in your graveyard to the battlefield. Put a +1/+1 counter on it. It becomes legendary. (This effect lasts indefinitely.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/63.png" num="19">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -304,7 +304,7 @@ Exile the top two cards of your library. Choose one of them. Until the end of yo
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/68.png" num="344">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/68.png" num="346">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -319,7 +319,7 @@ Exile the top two cards of your library. Choose one of them. Until the end of yo
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/69.png" num="348">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/69.png" num="349">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -334,7 +334,7 @@ Exile the top two cards of your library. Choose one of them. Until the end of yo
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/70.png" num="352">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/70.png" num="353">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -349,7 +349,7 @@ Exile the top two cards of your library. Choose one of them. Until the end of yo
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/71.png" num="356">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/71.png" num="357">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -364,7 +364,7 @@ Exile the top two cards of your library. Choose one of them. Until the end of yo
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/72.png" num="362">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/72.png" num="363">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -379,7 +379,7 @@ Exile the top two cards of your library. Choose one of them. Until the end of yo
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/73.png" num="345">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/73.png" num="344">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -394,7 +394,7 @@ Exile the top two cards of your library. Choose one of them. Until the end of yo
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/74.png" num="349">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/74.png" num="351">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -409,7 +409,7 @@ Exile the top two cards of your library. Choose one of them. Until the end of yo
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/75.png" num="353">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/75.png" num="355">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -424,7 +424,7 @@ Exile the top two cards of your library. Choose one of them. Until the end of yo
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/76.png" num="357">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/76.png" num="356">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -454,7 +454,7 @@ Exile the top two cards of your library. Choose one of them. Until the end of yo
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/78.png" num="346">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/78.png" num="347">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -484,7 +484,7 @@ Exile the top two cards of your library. Choose one of them. Until the end of yo
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/80.png" num="355">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/80.png" num="354">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -529,7 +529,7 @@ Exile the top two cards of your library. Choose one of them. Until the end of yo
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/83.png" num="347">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/83.png" num="345">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -544,7 +544,7 @@ Exile the top two cards of your library. Choose one of them. Until the end of yo
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/84.png" num="351">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/84.png" num="348">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -559,7 +559,7 @@ Exile the top two cards of your library. Choose one of them. Until the end of yo
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/85.png" num="354">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/85.png" num="352">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -589,7 +589,7 @@ Exile the top two cards of your library. Choose one of them. Until the end of yo
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/87.png" num="363">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/87.png" num="362">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -602,9 +602,9 @@ Exile the top two cards of your library. Choose one of them. Until the end of yo
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>GC16—Taken Psion</name>
-			<text>When GC16—Taken Psion dies, create a token copy of it, except it doesn&apos;t have this ability.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/90.png" num="219">DSY</set>
+			<name>Taken Psion</name>
+			<text>When Taken Psion dies, create a token copy of it, except it doesn&apos;t have this ability.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/90.png" num="249">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -619,7 +619,7 @@ Exile the top two cards of your library. Choose one of them. Until the end of yo
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UC20—Shuro Chi&apos;s Teachings</name>
+			<name>Shuro Chi&apos;s Teachings</name>
 			<text>Look at the top three cards of your library. Put one into your hand, one in your graveyard, and one on the bottom of your library.</text>
 			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/91.png" num="74">DSY</set>
 			<prop>
@@ -635,10 +635,10 @@ Exile the top two cards of your library. Choose one of them. Until the end of yo
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>RC12—Scorch Cannon</name>
+			<name>Scorch Cannon</name>
 			<text>Equipped creature gets +3/+1 and has &quot;{1}{R}, {T}, Sacrifice Scorch Cannon: Destroy target artifact. Scorch Cannon deals 3 damage to that artifact&apos;s controller.&quot;
-Equip {2}, or Sacrifice an artifact.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/96.png" num="165">DSY</set>
+Equip {3}, or Sacrifice an artifact.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/96.png" num="190">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -652,7 +652,7 @@ Equip {2}, or Sacrifice an artifact.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>RC1—Cabal Stomp</name>
+			<name>Cabal Stomp</name>
 			<text>Target creature you control deals damage equal to its power to another target creature.</text>
 			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/97.png" num="154">DSY</set>
 			<prop>
@@ -683,7 +683,7 @@ Equip {2}, or Sacrifice an artifact.</text>
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>RC10—Kell&apos;s Scourge Berserker</name>
+			<name>Kell&apos;s Scourge Berserker</name>
 			<text>Whenever one or more artifacts enter under your control, Kell&apos;s Scourge Berserker gets +1/+0 and menace until end of turn.</text>
 			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/100.png" num="163">DSY</set>
 			<prop>
@@ -700,10 +700,10 @@ Equip {2}, or Sacrifice an artifact.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RC14—Scorpius Turret</name>
+			<name>Scorpius Turret</name>
 			<text>Defender, Reach
 {3}{W}: Scorpius Turret gains double strike until end of turn.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/101.png" num="167">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/101.png" num="192">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -718,10 +718,10 @@ Equip {2}, or Sacrifice an artifact.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UC9—Data Preservation</name>
+			<name>Data Preservation</name>
 			<text>This spell costs {2} less if it targets a legendary permanent.
 Put target creature or artifact into its owner&apos;s library second from the top. Its controller creates an Engram token.(It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Draw a card, then discard a card.&quot;)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/104.png" num="63">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/104.png" num="60">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -735,10 +735,10 @@ Put target creature or artifact into its owner&apos;s library second from the to
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>BC5—Grim Flayer</name>
+			<name>Grim Flayer</name>
 			<text>Flying
-Deafening Screech — Sacrifice BC5—Grim Flayer: Target creature loses all abilities until end of turn.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/108.png" num="109">DSY</set>
+Deafening Screech — Sacrifice Grim Flayer: Target creature loses all abilities until end of turn.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/108.png" num="138">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -753,10 +753,10 @@ Deafening Screech — Sacrifice BC5—Grim Flayer: Target creature loses all abi
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RC17—Tormenting Voice</name>
+			<name>Tormenting Voice</name>
 			<text>As an additional cost to cast this spell, discard a card.
 Draw two cards.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/109.png" num="170">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/109.png" num="198">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -770,11 +770,11 @@ Draw two cards.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>BC10—Scorned Crossbow</name>
+			<name>Scorned Crossbow</name>
 			<text>Equipped creature gets +2/+1 and has reach.
 Devourer Bullet — Equipped creature has &quot;{T}: Exile target card from a graveyard. Its owner loses 1 life.&quot;
 Equip {1}</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/114.png" num="114">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/114.png" num="146">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -788,10 +788,10 @@ Equip {1}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CC9—Pyramid Splinter</name>
+			<name>Pyramid Splinter</name>
 			<text>{T}: Add {U} or {B}.
 {1}{U}{B}, {T}, Sacrifice Pyramid Splinter: Tap target artifact or creature and put two stun counters on it.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/115.png" num="304">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/115.png" num="324">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -804,7 +804,7 @@ Equip {1}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CC2—Bell of Conquests</name>
+			<name>Bell of Conquests</name>
 			<text>{T}: Add {W} or {R}.
 {1}{R}{W}, {T}, Sacrifice Bell of Conquests: Target creature you control fights target creature you don&apos;t control.</text>
 			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/116.png" num="297">DSY</set>
@@ -820,10 +820,10 @@ Equip {1}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CC4—Chalice of Opulence</name>
+			<name>Chalice of Opulence</name>
 			<text>{T}: Add {R} or {G}.
 {1}{R}{G}, {T}, Sacrifice Chalice of Opulence: Create a food token, an engram token, and a treasure token.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/117.png" num="299">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/117.png" num="298">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -836,10 +836,10 @@ Equip {1}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CC11—Nightmare Harvester</name>
+			<name>Nightmare Harvester</name>
 			<text>{T}: Add {B} or {R}.
 {1}{B}{R}, {T}, Sacrifice Nightmare Harvester: Target opponent sacrifice a creature unless they discard a card and lose 2 life.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/118.png" num="306">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/118.png" num="322">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -852,10 +852,10 @@ Equip {1}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CC5—Gate Lord&apos;s Eye</name>
+			<name>Gate Lord&apos;s Eye</name>
 			<text>{T}: Add {U} or {G}.
 {1}{G}{U}, {T}, Sacrifice Gate Lord&apos;s Eye: Draw two cards, then exile a card from your hand.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/119.png" num="300">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/119.png" num="318">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -868,10 +868,10 @@ Equip {1}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CC14—Tree of Silver Wings</name>
+			<name>Tree of Silver Wings</name>
 			<text>{T}: Add {W} or {B}.
-{1}{W}{B}, {T}, Sacrifice Tree of Silver Wings: Put a +1/+1 counter on target creature. Untap it. That creature becomes legendary.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/120.png" num="309">DSY</set>
+{1}{W}{B}, {T}, Sacrifice Tree of Silver Wings: Put a +1/+1 counter on target creature. Untap it. That creature becomes legendary. (This effect is permanent.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/120.png" num="332">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -884,10 +884,10 @@ Equip {1}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CC13—Tablet of Ruin</name>
+			<name>Tablet of Ruin</name>
 			<text>{T}: Add {B} or {G}.
 {1}{B}{G}, {T}, Sacrifice Tablet of Ruin: Destroy target creature if you control a creature with greater power.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/121.png" num="308">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/121.png" num="331">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -900,10 +900,10 @@ Equip {1}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CC12—Skeleton Key</name>
+			<name>Skeleton Key</name>
 			<text>{T}: Add {U} or {R}.
 {1}{U}{R}, {T}, Sacrifice Skeleton Key: Target modified creature can&apos;t be blocked this turn. (Equipment, Auras you control, and counters are modifications.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/122.png" num="307">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/122.png" num="328">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -916,10 +916,10 @@ Equip {1}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CC16—Warmind Khanjali</name>
+			<name>Warmind Khanjali</name>
 			<text>{T}: Add {W} or {U}.
-{1}{W}{U}, {T}, Sacrifice Warmind Khanjali: Attach an equipment you control to target creature you control. That creature becomes an artifact in addition to its other types.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/123.png" num="311">DSY</set>
+{1}{W}{U}, {T}, Sacrifice Warmind Khanjali: Attach an equipment you control to target creature you control. That creature becomes an artifact in addition to its other types for as long as it is modified. (Equipment, Auras you control, and counters are modifications.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/123.png" num="334">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -932,7 +932,7 @@ Equip {1}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CC1—Acolyte&apos;s Staff</name>
+			<name>Acolyte&apos;s Staff</name>
 			<text>{T}: Add {W} or {G}.
 {1}{G}{W}, {T}, Sacrifice Acolyte&apos;s Staff: Put a +1/+1 counter on target creature you control. Then if you control the creature with the greatest power or tied for the greatest, draw a card.</text>
 			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/124.png" num="296">DSY</set>
@@ -948,10 +948,10 @@ Equip {1}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CC3—Strange Coin</name>
+			<name>Strange Coin</name>
 			<text>{T}, Sacrifice Strange Coin: Add one mana of any color.
 {2}, Exile Strange Coin from your graveyard: Return target equipment card from your graveyard to your hand.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/130.png" num="298">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/130.png" num="329">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -963,10 +963,10 @@ Equip {1}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>RC13—Scorn Ravager</name>
+			<name>Scorn Ravager</name>
 			<text>Haste
 When Scorn Ravager attacks, target legendary creature you control gets +1/+0 until end of turn.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/131.png" num="166">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/131.png" num="191">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -981,9 +981,9 @@ When Scorn Ravager attacks, target legendary creature you control gets +1/+0 unt
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RC16—Tarnished Wraith</name>
+			<name>Tarnished Wraith</name>
 			<text>Tarnished Wraith has double strike as long as it attacked a battle this turn.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/132.png" num="169">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/132.png" num="197">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -998,11 +998,11 @@ When Scorn Ravager attacks, target legendary creature you control gets +1/+0 unt
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>WC15—Valkyrie</name>
-			<text>When WC15—Valkyrie enters, attach it to target creature you control.
-Equipped creature has Vigilance and &quot;{4}{W}, {T}, Sacrifice WC15—Valkyrie: Destroy target artifact or creature with mana value 5 or greater.&quot;
+			<name>Valkyrie</name>
+			<text>When Valkyrie enters, attach it to target creature you control.
+Equipped creature has Vigilance and &quot;{4}{W}, {T}, Sacrifice Valkyrie: Destroy target artifact or creature with mana value 5 or greater.&quot;
 Equip {2}</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/133.png" num="19">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/133.png" num="28">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1016,10 +1016,10 @@ Equip {2}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>BC9—Nightmarish Revival</name>
+			<name>Nightmarish Revival</name>
 			<text>Exile target creature card in a graveyard. If you do, create a token that&apos;s a copy of it, except it&apos;s a black Nightmare in addition to its other types.
 Sword Logic—{4}{B}, Exile a creature card from your graveyard. (You may cast this spell from your graveyard for its Sword Logic cost if a creature you don&apos;t control died this turn.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/135.png" num="113">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/135.png" num="143">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1033,9 +1033,9 @@ Sword Logic—{4}{B}, Exile a creature card from your graveyard. (You may cast t
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UC18—Ritual of Negation</name>
+			<name>Ritual of Negation</name>
 			<text>Counter target spell unless its controller pays {2}. If that spell is countered this way, exile it instead of putting it into its owner&apos;s graveyard.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/137.png" num="72">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/137.png" num="69">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1049,10 +1049,10 @@ Sword Logic—{4}{B}, Exile a creature card from your graveyard. (You may cast t
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UC13—Heavy Pike</name>
+			<name>Heavy Pike</name>
 			<text>Shock Mines — Whenever Heavy Pike attacks, you may discard a card. If you do, target creature gets -X/-0 until end of turn, where X is that card&apos;s mana value.
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/139.png" num="67">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/139.png" num="64">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1067,11 +1067,11 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>BC6—Hive Tomb Ship</name>
+			<name>Hive Tomb Ship</name>
 			<text>Flying
-Whenever BC6—Hive Tomb Ship attacks, you may return target creature card from your graveyard to the battlefield.
+Whenever Hive Tomb Ship attacks, you may return target creature card from your graveyard to the battlefield.
 Crew 5 (Tap any number of creatures you control with total power 5 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/140.png" num="110">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/140.png" num="139">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1086,11 +1086,11 @@ Crew 5 (Tap any number of creatures you control with total power 5 or more: This
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UC17—Salvation&apos;s Grip</name>
+			<name>Salvation&apos;s Grip</name>
 			<text>When Salvation&apos;s Grip enters, tap target creature and put a stun counter on it. Then create a Glacier Wall, a 0/2 blue Wall creature token with defender.
 Equipped creature gets +2/+0 and is legendary.
 Equip {2}</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/141.png" num="71">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/141.png" num="72">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1104,10 +1104,10 @@ Equip {2}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UC12—Goblins of the Hezen Protective</name>
+			<name>Goblins of the Hezen Protective</name>
 			<text>Vigilance
 When Goblins of the Hezen Protective dies, create an Engram token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Draw a card, then discard a card.&quot;)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/143.png" num="66">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/143.png" num="63">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1122,10 +1122,10 @@ When Goblins of the Hezen Protective dies, create an Engram token. (It&apos;s an
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>BC2—Fanatical Lurker</name>
-			<text>When BC2—Fanatical Lurker enters, each opponent loses 1 life.
-When BC2—Fanatical Lurker dies, create an Engram token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Draw a card, then discard a card.&quot;)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/144.png" num="106">DSY</set>
+			<name>Shadowed Lurker</name>
+			<text>When Shadowed Lurker enters, each opponent loses 1 life.
+When Shadowed Lurker dies, create an Engram token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Draw a card, then discard a card.&quot;)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/144.png" num="147">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1140,7 +1140,7 @@ When BC2—Fanatical Lurker dies, create an Engram token. (It&apos;s an artifact
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CC22—New Light</name>
+			<name>New Light</name>
 			<text>{3}: Put two +1/+1 counters on New Light. They become legendary and gain a unique name of your choice. Activate only once. (They can&apos;t share a name with another legal magic card.)</text>
 			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/145.png" num="2">DSY</set>
 			<prop>
@@ -1155,10 +1155,10 @@ When BC2—Fanatical Lurker dies, create an Engram token. (It&apos;s an artifact
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>WC6—Psion Operant</name>
-			<text>WC6—Psion Operant has first strike during your turn.
-When WC6—Psion Operant dies, create an Engram token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Draw a card, then discard a card.&quot;)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/146.png" num="10">DSY</set>
+			<name>Psion Operant</name>
+			<text>Psion Operant has first strike during your turn.
+When Psion Operant dies, create an Engram token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Draw a card, then discard a card.&quot;)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/146.png" num="16">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1173,9 +1173,9 @@ When WC6—Psion Operant dies, create an Engram token. (It&apos;s an artifact wi
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>GC13—Woven Mail</name>
-			<text>Target creature gets +0/+2 and hexproof until end of turn.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/147.png" num="216">DSY</set>
+			<name>Woven Mail</name>
+			<text>Target creature gets +0/+2 and hexproof and becomes legendary until end of turn.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/147.png" num="252">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1189,9 +1189,9 @@ When WC6—Psion Operant dies, create an Engram token. (It&apos;s an artifact wi
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>RC6—Gluttonous Growth</name>
+			<name>Gluttonous Growth</name>
 			<text>Target creature gets +4/+3 until end of turn.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/157.png" num="159">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/157.png" num="160">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1205,9 +1205,9 @@ When WC6—Psion Operant dies, create an Engram token. (It&apos;s an artifact wi
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>GC3—Drifter&apos;s Gambit</name>
-			<text>At the beginning of your upkeep and whenever one or more creatures die, put a mote counter on GC3—Drifter&apos;s Gambit. Then if there are six or more mote counters on it, exile GC3—Drifter&apos;s Gambit and create a Primeval, a 6/6 green Darkness creature token.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/158.png" num="206">DSY</set>
+			<name>Drifter&apos;s Gambit</name>
+			<text>At the beginning of your upkeep and whenever one or more creatures die, put a mote counter on Drifter&apos;s Gambit. Then if there are six or more mote counters on it, exile Drifter&apos;s Gambit and create a Primeval, a 6/6 green Darkness creature token.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/158.png" num="208">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1221,9 +1221,9 @@ When WC6—Psion Operant dies, create an Engram token. (It&apos;s an artifact wi
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>RC21—~Enhance~</name>
-			<text>Target creature gets haste and trample until end of turn. Create a SIVA Nanite token and attach it to that creature. (It&apos;s an equipment artifact with &quot;Equipped creature gets +1/+0&quot; and equip {1})</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/160.png" num="174">DSY</set>
+			<name>~Enhance~</name>
+			<text>Target creature gets haste, trample, and becomes legendary until end of turn. Create a SIVA Nanite token and attach it to that creature. (It&apos;s an equipment artifact with &quot;Equipped creature gets +1/+0&quot; and equip {1})</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/160.png" num="201">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1237,12 +1237,12 @@ When WC6—Psion Operant dies, create an Engram token. (It&apos;s an artifact wi
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UC5—Cloud Skimmer</name>
+			<name>Cloud Skimmer</name>
 			<text>Flying
 Equipped creature has flying.
 Equip {1}
 Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn. Creatures can&apos;t be attached to other permanents.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/162.png" num="59">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/162.png" num="58">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1257,11 +1257,11 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>RC8—Legion Thresher</name>
+			<name>Legion Thresher</name>
 			<text>Flying
 When Legion Thresher enters, create two Red Legionaries, 2/2 red Cabal Warrior creature tokens with Trample.
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/163.png" num="161">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/163.png" num="164">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1276,10 +1276,10 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UC19—Sacred Splicer&apos;s Art</name>
+			<name>Sacred Splicer&apos;s Art</name>
 			<text>Target creature can&apos;t be blocked this turn.
 Surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/164.png" num="73">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/164.png" num="70">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1293,10 +1293,10 @@ Surveil 2. (Look at the top two cards of your library, then put any number of th
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>BC1—Bound Ogre</name>
-			<text>As long as BC1—Bound Ogre&apos;s power is less than 4, it can&apos;t attack.
-Whenever one or more creatures die, put a +1/+1 counter on BC1—Bound Ogre.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/165.png" num="105">DSY</set>
+			<name>Bound Ogre</name>
+			<text>As long as Bound Ogre&apos;s power is less than 4, it can&apos;t attack.
+Whenever one or more creatures die, put a +1/+1 counter on Bound Ogre.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/165.png" num="109">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1311,28 +1311,28 @@ Whenever one or more creatures die, put a +1/+1 counter on BC1—Bound Ogre.</te
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>WC11—Slug Rifle</name>
-			<text>When WC11—Slug Rifle enters, attach it to target Cabal creature you control.
-Equipped creature gets +1/+1.
+			<name>Slug Rifle</name>
+			<text>When Slug Rifle enters, create an Imperial Legionary, a 2/2 white Cabal Soldier with Vigilance, and attach this to it.
+Equipped creature gets +1/+1 as long as it&apos;s attacking.
 Equip {1}</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/167.png" num="15">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/167.png" num="24">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Artifact — Equipment</type>
 				<maintype>Artifact</maintype>
-				<manacost>W</manacost>
-				<cmc>1</cmc>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CC8—Khvostov 7G-02</name>
+			<name>Khvostov 7G-02</name>
 			<text>Equipped creature gets +1/+0
 Equip {1}</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/168.png" num="303">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/168.png" num="321">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1344,9 +1344,9 @@ Equip {1}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>WC7—Queen&apos;s Corsairs</name>
-			<text>When WC7—Queen&apos;s Corsairs attacks, target legendary creature you control gains first strike until end of turn.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/169.png" num="11">DSY</set>
+			<name>Queen&apos;s Corsairs</name>
+			<text>When Queen&apos;s Corsairs attacks, target legendary creature you control gains first strike until end of turn.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/169.png" num="17">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1361,9 +1361,9 @@ Equip {1}</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>BC13—Subjugator of Truth</name>
-			<text>When BC13—Subjugator of Truth enters, it deals 2 damage to target tapped creature you don&apos;t control. Each player mills two cards, then you exile a card from each opponent&apos;s graveyard.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/170.png" num="117">DSY</set>
+			<name>Subjugator of Truth</name>
+			<text>When Subjugator of Truth enters, it deals 2 damage to target tapped creature you don&apos;t control. Each player mills two cards, then you exile a card from each opponent&apos;s graveyard.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/170.png" num="150">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1378,11 +1378,11 @@ Equip {1}</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>GC10—Subjugator of Gardens</name>
-			<text>When GC10—Subjugator of Gardens enters, you may choose one—
+			<name>Subjugator of Gardens</name>
+			<text>When Subjugator of Gardens enters, you may choose one—
 • Destroy target artifact.
 • Destroy target creature with flying and all equipment attached to it.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/171.png" num="213">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/171.png" num="246">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1397,10 +1397,10 @@ Equip {1}</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>WC14—Time&apos;s Vengeance</name>
+			<name>Time&apos;s Vengeance</name>
 			<text>Creatures you control get +2/+1 and are legendary until end of turn.
 The &quot;legend rule&quot; doesn&apos;t apply to creatures you control until end of turn.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/172.png" num="18">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/172.png" num="27">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1414,9 +1414,9 @@ The &quot;legend rule&quot; doesn&apos;t apply to creatures you control until en
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>WC21—Centurion of the Coalition</name>
-			<text>When WC21—Centurion of the Coalition enters, put a +1/+1 counter on each other creature you control.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/174.png" num="25">DSY</set>
+			<name>Centurion of the Coalition</name>
+			<text>When Centurion of the Coalition enters, put a +1/+1 counter on each other creature you control.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/174.png" num="8">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1431,9 +1431,9 @@ The &quot;legend rule&quot; doesn&apos;t apply to creatures you control until en
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>GC7—Music of the Spheres</name>
+			<name>Music of the Spheres</name>
 			<text>Search your library for a basic land or Planet card, reveal it, and put it into your hand. Then shuffle.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/175.png" num="210">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/175.png" num="241">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1447,10 +1447,10 @@ The &quot;legend rule&quot; doesn&apos;t apply to creatures you control until en
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>GC11—Swordbearer</name>
-			<text>When GC11—Swordbearer enters, if it was cast according to Sword Logic, you may attach up to one equipment you control to it.
+			<name>Swordbearer</name>
+			<text>When Swordbearer enters, if it was cast according to Sword Logic, you may attach up to one equipment you control to it.
 Sword Logic—{3}{G}{G}, Exile a creature card from your graveyard. (You may cast this spell from your graveyard for its Sword Logic cost if a creature you don&apos;t control died this turn.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/176.png" num="214">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/176.png" num="247">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1465,9 +1465,9 @@ Sword Logic—{3}{G}{G}, Exile a creature card from your graveyard. (You may cas
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UC2—Archon of Wolves</name>
+			<name>Archon of Wolves</name>
 			<text>When Archon of Wolves enters, target Eliksni creature you control can&apos;t be blocked this turn.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/177.png" num="56">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/177.png" num="55">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1482,11 +1482,11 @@ Sword Logic—{3}{G}{G}, Exile a creature card from your graveyard. (You may cas
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CC10—Rat King</name>
+			<name>Rat King</name>
 			<text>Equipped creature is legendary and gets +1/+0 for each other equipment attached to creatures you control.
 A deck can have any number of cards named Rat King.
 Equip {1}</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/178.png" num="305">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/178.png" num="325">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1498,10 +1498,10 @@ Equip {1}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>RC3—Dregs of Dusk</name>
+			<name>Dregs of Dusk</name>
 			<text>Haste
 When Dregs of Dusk dies, create an Engram token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Draw a card, then discard a card.&quot;)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/179.png" num="156">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/179.png" num="157">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1516,9 +1516,9 @@ When Dregs of Dusk dies, create an Engram token. (It&apos;s an artifact with &qu
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RC09—~Replicate~</name>
+			<name>~Replicate~</name>
 			<text>Create a SIVA Nanite token, then create an additional one for each nontoken artifact you control. (They&apos;re equipment artifacts with &quot;Equipped creature gets +1/+0&quot; and equip {1})</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/180.png" num="162">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/180.png" num="202">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1532,10 +1532,10 @@ When Dregs of Dusk dies, create an Engram token. (It&apos;s an artifact with &qu
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>RC19—Unstable Incendior</name>
+			<name>Unstable Incendior</name>
 			<text>{1}{R}: Unstable Incendior gets +1/+0 until end of turn.
 When Unstable Incendior dies, it deals damage equal to its power to target creature you don&apos;t control.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/182.png" num="172">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/182.png" num="199">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1550,10 +1550,10 @@ When Unstable Incendior dies, it deals damage equal to its power to target creat
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>BC3—Fanatic&apos;s Summons</name>
+			<name>Fanatic&apos;s Summons</name>
 			<text>Create two Stalkers, 1/1 black Eliksni Zombie creature tokens
 Sword Logic—{2}{B}, Exile a creature card from your graveyard. (You may cast this spell from your graveyard for its Sword Logic cost if a creature you don&apos;t control died this turn.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/184.png" num="107">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/184.png" num="135">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1567,10 +1567,10 @@ Sword Logic—{2}{B}, Exile a creature card from your graveyard. (You may cast t
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>CC7—Insurrection Prime</name>
+			<name>Insurrection Prime</name>
 			<text>When this vehicle dies, create two Engram tokens. (They&apos;re artifacts with &quot;{1}, {T}, Sacrifice this token: Draw a card, then discard a card.&quot;)
 Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/185.png" num="302">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/185.png" num="320">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1583,9 +1583,9 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>WC9—Shaxx&apos;s Redjacks</name>
+			<name>Shaxx&apos;s Redjacks</name>
 			<text>At the beginning of combat on your turn, you may pay {1}. If you do, attach target equipment you control to target legendary creature you control.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/190.png" num="13">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/190.png" num="22">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1600,10 +1600,10 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>GC2—Devouring Light</name>
+			<name>Devouring Light</name>
 			<text>You gain 3 life. Then you may exile a card from any graveyard. If you do, put a +1/+1 counter on up to one target creature.
 Sword Logic—{2}{G}, Exile a creature card from your graveyard. (You may cast this spell from your graveyard for its Sword Logic cost if a creature you don&apos;t control died this turn.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/194.png" num="205">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/194.png" num="206">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1617,10 +1617,10 @@ Sword Logic—{2}{G}, Exile a creature card from your graveyard. (You may cast t
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>GC12—Wormgod Larva</name>
+			<name>Wormgod Larva</name>
 			<text>At the beginning of combat on your turn, target creature becomes legendary and gains trample until end of turn.
-The first time a creature you don&apos;t control dies each turn, put a +1/+1 counter on GC12—Wormgod Larva.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/195.png" num="215">DSY</set>
+The first time a creature you don&apos;t control dies each turn, put a +1/+1 counter on Wormgod Larva.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/195.png" num="251">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1635,9 +1635,9 @@ The first time a creature you don&apos;t control dies each turn, put a +1/+1 cou
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>GC4—Explicator of Planets</name>
-			<text>When GC4—Explicator of Planets enters, mill four cards, then choose a land card from among them. If it&apos;s a Planet, put it onto the battlefield tapped. Otherwise, put it into your hand.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/198.png" num="207">DSY</set>
+			<name>Explicator of Planets</name>
+			<text>When Explicator of Planets enters, mill four cards, then choose a land card from among them. If it&apos;s a Planet, put it onto the battlefield tapped. Otherwise, put it into your hand.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/198.png" num="211">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1652,9 +1652,9 @@ The first time a creature you don&apos;t control dies each turn, put a +1/+1 cou
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>BC11—Silence &amp; Squall</name>
+			<name>Silence &amp; Squall</name>
 			<text>Put three stun counters divided as you choose on up to three target creatures. Then destroy those creatures if there are three or more stun counters on them.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/202.png" num="115">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/202.png" num="148">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1668,10 +1668,10 @@ The first time a creature you don&apos;t control dies each turn, put a +1/+1 cou
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>RC23—Screeb</name>
+			<name>Screeb</name>
 			<text>When Screeb dies, it deals 1 damage to any target.
 {1}{R}, {T}, Sacrifice Screeb: Destroy target artifact.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/204.png" num="176">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/204.png" num="193">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1686,10 +1686,10 @@ The first time a creature you don&apos;t control dies each turn, put a +1/+1 cou
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RC25—Honored Gladiator</name>
+			<name>Honored Gladiator</name>
 			<text>Double strike
 When Honored Gladiator enters, target legendary or Cabal creature you control gains double strike until end of turn.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/205.png" num="178">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/205.png" num="162">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1704,10 +1704,10 @@ When Honored Gladiator enters, target legendary or Cabal creature you control ga
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UC22—Axis Harpies</name>
+			<name>Axis Harpies</name>
 			<text>Flying
-When Axis Harpies enters, create an Engram token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Draw a card, then discard a card.&quot;)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/206.png" num="76">DSY</set>
+When Axis Harpies enters, each player mills two cards.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/206.png" num="56">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1722,9 +1722,9 @@ When Axis Harpies enters, create an Engram token. (It&apos;s an artifact with &q
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>WC3—Fell the Monstrous</name>
+			<name>Fell the Monstrous</name>
 			<text>Destroy target creature with power 5 or greater. Create an Engram token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Draw a card, then discard a card.&quot;)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/207.png" num="7">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/207.png" num="9">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1738,9 +1738,9 @@ When Axis Harpies enters, create an Engram token. (It&apos;s an artifact with &q
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>BC7—Invoke Deepsight</name>
+			<name>Invoke Deepsight</name>
 			<text>Look at the top four cards of your library. Put two of them into your hand and the rest in your graveyard. You lose 2 life.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/209.png" num="111">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/209.png" num="140">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1754,10 +1754,10 @@ When Axis Harpies enters, create an Engram token. (It&apos;s an artifact with &q
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UC6—Commodore Brig</name>
+			<name>Commodore Brig</name>
 			<text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
 Crew 4 (Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/212.png" num="60">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/212.png" num="59">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1772,12 +1772,12 @@ Crew 4 (Tap any number of creatures you control with total power 4 or more: This
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UC15—Old Crew&apos;s Ketch</name>
+			<name>Old Crew&apos;s Ketch</name>
 			<text>When Old Crew&apos;s Ketch enters, create an Engram token and a treasure token. (Engrams are artifacts with &quot;{1}, {T}, Sacrifice this token: Draw a card, then discard a card.&quot;)
-Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)
+Station (Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It&apos;s an artifact creature at 8+.)
 [level 8+] Flying
 When Old Crew&apos;s Ketch attacks, create an engram token and a treasure token. [4/4]</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/213.png" num="69">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/213.png" num="67">DSY</set>
 			<prop>
 				<layout>leveler</layout>
 				<side>front</side>
@@ -1791,10 +1791,10 @@ When Old Crew&apos;s Ketch attacks, create an engram token and a treasure token.
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>GC15—Divisive Gate Lord</name>
-			<text>As long as there are five or more cards in exile, you may cast GC15—Divisive Gate Lord as though it had flash.
+			<name>Divisive Gate Lord</name>
+			<text>As long as there are five or more cards in exile, you may cast Divisive Gate Lord as though it had flash.
 Trample</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/215.png" num="218">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/215.png" num="207">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1824,9 +1824,9 @@ Trample</text>
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>WC13—Surge of Light</name>
-			<text>Target creature gets +3/+0 until end of turn. Prevent all combat damage that would be dealt to it this turn.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/218.png" num="17">DSY</set>
+			<name>Surge of Light</name>
+			<text>Target creature gets +3/+0 and becomes legendary until end of turn. Prevent all combat damage that would be dealt to it this turn.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/218.png" num="26">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1840,10 +1840,10 @@ Trample</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>RC11—Remnant of the Iron Lords</name>
+			<name>Remnant of the Iron Lords</name>
 			<text>Remnant of the Iron Lords attacks each turn if able.
 When Remnant of the Iron Lords enters, create three SIVA Nanite tokens.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/219.png" num="164">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/219.png" num="165">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1858,10 +1858,10 @@ When Remnant of the Iron Lords enters, create three SIVA Nanite tokens.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UC23—Seven Seraphs</name>
+			<name>Seven Seraphs</name>
 			<text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
 When Seven Seraphs enters, attach target equipment you control to it.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/221.png" num="77">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/221.png" num="73">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1876,10 +1876,10 @@ When Seven Seraphs enters, attach target equipment you control to it.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UC3—Neomuni Archivist</name>
+			<name>Neomuni Archivist</name>
 			<text>When Neomuni Archivist enters, if you control a legendary creature, create an Engram token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Draw a card, then discard a card.&quot;)
 {T}: Add {U}. Spend this mana only to cast an artifact or legendary spell.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/222.png" num="57">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/222.png" num="65">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1894,10 +1894,10 @@ When Seven Seraphs enters, attach target equipment you control to it.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UC16—Prohibitive Hobgoblin</name>
+			<name>Prohibitive Hobgoblin</name>
 			<text>When Prohibitive Hobgoblin enters, target creature gets -4/-0 until end of turn.
 {4}{U}, Exile Prohibitive Hobgoblin from your graveyard: Simulate this card. Activate only as a sorcery. (Create a nonlegendary token copy of it.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/225.png" num="70">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/225.png" num="68">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1912,9 +1912,9 @@ When Seven Seraphs enters, attach target equipment you control to it.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UC1—Vex Assimilation</name>
+			<name>Vex Assimilation</name>
 			<text>Until end of turn, target creature becomes a blue Vex Robot artifact creature with base power 2/2, loses all abilities, and gains flying.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/226.png" num="55">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/226.png" num="101">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1928,10 +1928,10 @@ When Seven Seraphs enters, attach target equipment you control to it.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>WC5—Pilgrim Guard Sentinel</name>
+			<name>Pilgrim Guard Sentinel</name>
 			<text>Defender
-WC5—Pilgrim Guard Sentinel can attack as though it didn&apos;t have defender as long as your devotion to white is five or greater. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/234.png" num="9">DSY</set>
+Pilgrim Guard Sentinel can attack as though it didn&apos;t have defender as long as your devotion to white is five or greater. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/234.png" num="15">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1946,11 +1946,11 @@ WC5—Pilgrim Guard Sentinel can attack as though it didn&apos;t have defender a
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>BC12—Soulfire Infusion</name>
+			<name>Soulfire Infusion</name>
 			<text>Enchanted creature gets +2/-1.
 When enchanted creature dies, each opponent loses 2 life.
 Sword Logic—{2}{B}, Exile a creature card from your graveyard. (You may cast this spell from your graveyard for its Sword Logic cost if a creature you don&apos;t control died this turn.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/235.png" num="116">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/235.png" num="149">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1964,9 +1964,9 @@ Sword Logic—{2}{B}, Exile a creature card from your graveyard. (You may cast t
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>WC12—Sunsinger</name>
-			<text>Whenever you cast an instant, sorcery, or Aura spell, you gain 2 life and WC12—Sunsinger gets +1/+1 until end of turn.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/236.png" num="16">DSY</set>
+			<name>Sunsinger</name>
+			<text>Whenever you cast an instant, sorcery, or Aura spell, you gain 2 life and Sunsinger gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/236.png" num="25">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1981,9 +1981,9 @@ Sword Logic—{2}{B}, Exile a creature card from your graveyard. (You may cast t
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>WC2—Shattered Memories</name>
+			<name>Shattered Memories</name>
 			<text>Destroy target noncreature artifact or enchantment. You gain life equal to your devotion to white. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/237.png" num="6">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/237.png" num="21">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1997,10 +1997,10 @@ Sword Logic—{2}{B}, Exile a creature card from your graveyard. (You may cast t
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UC10—Ether Servitor</name>
+			<name>Ether Servitor</name>
 			<text>Flying, Defender
 {1}{U}, {T}: Put a +1/+1 counter on each other Eliksni and/or Robot creature you control.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/239.png" num="64">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/239.png" num="61">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2015,10 +2015,10 @@ Sword Logic—{2}{B}, Exile a creature card from your graveyard. (You may cast t
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>GC8—Quantum Hydra</name>
+			<name>Quantum Hydra</name>
 			<text>Ward {2}
-GC8—Quantum Hydra enters with X +1/+1 counters on it.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/241.png" num="211">DSY</set>
+Quantum Hydra enters with X +1/+1 counters on it.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/241.png" num="243">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2033,7 +2033,7 @@ GC8—Quantum Hydra enters with X +1/+1 counters on it.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RC2—Daring Gunslinger</name>
+			<name>Daring Gunslinger</name>
 			<text>Haste
 When Daring Gunslinger enters, if an opponent lost life this turn, you may exile the top two cards of your library. You may play those cards until the end of your next turn.</text>
 			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/242.png" num="155">DSY</set>
@@ -2051,9 +2051,9 @@ When Daring Gunslinger enters, if an opponent lost life this turn, you may exile
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>WC1—Forces of the City</name>
+			<name>Forces of the City</name>
 			<text>{W}, {T}: Create a City Militia, a 1/1 white human creature token. Activate only if your devotion to white is five or greater. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/245.png" num="5">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/245.png" num="10">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2068,15 +2068,15 @@ When Daring Gunslinger enters, if an opponent lost life this turn, you may exile
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>WC16—Arcstrider</name>
-			<text>Flow State — WC16—Arcstrider has double strike as long as your devotion to white is five or greater. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/246.png" num="20">DSY</set>
+			<name>Arcstrider</name>
+			<text>Flow State — Arcstrider has double strike as long as your devotion to white is five or greater. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/246.png" num="6">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Awoken Hunter</type>
 				<maintype>Creature</maintype>
-				<manacost>2W</manacost>
+				<manacost>1WW</manacost>
 				<cmc>3</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -2085,10 +2085,10 @@ When Daring Gunslinger enters, if an opponent lost life this turn, you may exile
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>WC17—Hidden Agents</name>
-			<text>When WC17—Hidden Agents enters, create an engram token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Draw a card, then discard a card.&quot;)
-{1}, {T}, Sacrifice WC17—Hidden Agents: Surveil X, where X is 1 plus your devotion to white. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/247.png" num="21">DSY</set>
+			<name>Hidden Agents</name>
+			<text>When Hidden Agents enters, create an engram token. (It&apos;s an artifact with &quot;{1}, {T}, Sacrifice this token: Draw a card, then discard a card.&quot;)
+{1}, {T}, Sacrifice Hidden Agents: Surveil X, where X is 1 plus your devotion to white. (Each {W} in the mana costs of permanents you control counts toward your devotion to white.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/247.png" num="12">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2103,17 +2103,17 @@ When Daring Gunslinger enters, if an opponent lost life this turn, you may exile
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>WC25—Wings of Sacred Dawn</name>
-			<text>Whenever you cast your second spell each turn, you may attach WC25—Wings of Sacred Dawn to target creature you control.
-Equipped creature has flying and &quot;When this creature attacks, you gain 1 life.&quot;
+			<name>Wings of Sacred Dawn</name>
+			<text>Whenever you cast your second spell each turn, you may attach Wings of Sacred Dawn to target creature you control.
+Equipped creature has flying, &quot;When this creature attacks, you gain 1 life,&quot; and is legendary
 Equip {1}{W}</text>
 			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/248.png" num="29">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Artifact — Equipment</type>
+				<type>Legendary Artifact — Equipment</type>
 				<maintype>Artifact</maintype>
-				<manacost>1W</manacost>
+				<manacost>WW</manacost>
 				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -2121,11 +2121,11 @@ Equip {1}{W}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>WC19—Arcadia-Class Jumpship</name>
+			<name>Arcadia-Class Jumpship</name>
 			<text>Flying
-When WC19—Arcadia-Class Jumpship enters, search your library for a plains or Planet card, reveal it, and put it into your hand. Then shuffle.
+When Arcadia-Class Jumpship enters, search your library for a plains or Planet card, reveal it, and put it into your hand. Then shuffle.
 Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/249.png" num="23">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/249.png" num="5">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2140,10 +2140,10 @@ Crew 2 (Tap any number of creatures you control with total power 2 or more: This
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>WC20—Rally Barricade</name>
+			<name>Rally Barricade</name>
 			<text>Create a Barricade, a 1/4 white Wall creature token with Defender.
 Untap up to one target creature.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/250.png" num="24">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/250.png" num="20">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2157,9 +2157,9 @@ Untap up to one target creature.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>WC22—Lucent Fireteam</name>
+			<name>Lucent Fireteam</name>
 			<text>Trample, lifelink, ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/252.png" num="26">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/252.png" num="14">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2174,9 +2174,9 @@ Untap up to one target creature.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>WC23—Imperial Conscription</name>
+			<name>Imperial Conscription</name>
 			<text>Create two Imperial Legionaries, 2/2 white Cabal Soldier creature tokens with Vigilance.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/253.png" num="27">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/253.png" num="13">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2190,16 +2190,16 @@ Untap up to one target creature.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>WC24—Caiatl&apos;s Chosen</name>
+			<name>Caiatl&apos;s Chosen</name>
 			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
-Spells and abilities you control that target WC24—Caiatl&apos;s Chosen cost {2} less.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/254.png" num="28">DSY</set>
+Spells and abilities you control that target Caiatl&apos;s Chosen cost {2} less.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/254.png" num="7">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Creature — Cabal Soldier</type>
 				<maintype>Creature</maintype>
-				<manacost>4W</manacost>
+				<manacost>3WW</manacost>
 				<cmc>5</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
@@ -2208,9 +2208,9 @@ Spells and abilities you control that target WC24—Caiatl&apos;s Chosen cost {2
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CC15—Sweeper Bot</name>
+			<name>Sweeper Bot</name>
 			<text>{1}, {T}: Exile a card from target graveyard.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/261.png" num="310">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/261.png" num="330">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2223,9 +2223,9 @@ Spells and abilities you control that target WC24—Caiatl&apos;s Chosen cost {2
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UC24—Gensym Knight</name>
+			<name>Gensym Knight</name>
 			<text>Whenever you draw your second card each turn, put a +1/+1 counter on Gensym Knight. It gains vigilance until end of turn.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/262.png" num="78">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/262.png" num="62">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2240,10 +2240,11 @@ Spells and abilities you control that target WC24—Caiatl&apos;s Chosen cost {2
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>UC25—Trapped in Time</name>
+			<name>Trapped in Time</name>
 			<text>Enchant creature
-Enchanted creature gets -2/-0. It gets -5/-0 instead if there are five or more cards in exile.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/263.png" num="79">DSY</set>
+When Trapped in Time enters, each player mills two cards.
+Enchanted creature gets -2/-0.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/263.png" num="76">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2257,10 +2258,10 @@ Enchanted creature gets -2/-0. It gets -5/-0 instead if there are five or more c
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>WC18—Racing Sparrow</name>
-			<text>When a human or awoken enter under your control, WC18—Racing Sparrow becomes a creature until end of turn.
+			<name>Racing Sparrow</name>
+			<text>When a human or awoken enter under your control, Racing Sparrow becomes a creature until end of turn.
 Crew 1 (Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/266.png" num="22">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/266.png" num="18">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2275,9 +2276,9 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UC11—Bootstrap Simulation</name>
+			<name>Bootstrap Simulation</name>
 			<text>Simulate target creature. (Create a nonlegendary token copy of it.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/267.png" num="65">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/267.png" num="57">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2291,10 +2292,10 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>UC7—Salvation Aspirants</name>
+			<name>Salvation Aspirants</name>
 			<text>If there are any stun counters on creatures an opponent controls, you may cast Salvation Aspirants as though it had flash.
 {1}{U}, {T}, Sacrifice Salvation Aspirants: Tap target creature and put a stun counter on it.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/268.png" num="61">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/268.png" num="71">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2309,10 +2310,10 @@ Crew 1 (Tap any number of creatures you control with total power 1 or more: This
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>BC14—Defiled Servitor</name>
+			<name>Defiled Servitor</name>
 			<text>Flying
-When BC14—Defiled Servitor dies, each opponent discards a card.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/274.png" num="118">DSY</set>
+When Defiled Servitor dies, each opponent discards a card.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/274.png" num="132">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2327,9 +2328,9 @@ When BC14—Defiled Servitor dies, each opponent discards a card.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>BC15—Blade-bound to the Terrace</name>
-			<text>When BC15—Blade-bound to the Terrace enters, choose a battle. You may add or remove three defense counters from it. If you do, you gain 3 life.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/275.png" num="119">DSY</set>
+			<name>Blade-bound to the Terrace</name>
+			<text>When Blade-bound to the Terrace enters, choose a battle. You may add or remove three defense counters from it. If you do, you gain 3 life.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/275.png" num="105">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2344,9 +2345,9 @@ When BC14—Defiled Servitor dies, each opponent discards a card.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>BC16—Salvation Elite</name>
-			<text>When BC16—Salvation Elite enters or attacks, you may pay {U}. If you do, tap target creature and put a stun counter on it.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/276.png" num="120">DSY</set>
+			<name>Salvation Elite</name>
+			<text>When Salvation Elite enters or attacks, you may pay {U}. If you do, tap target creature and put a stun counter on it.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/276.png" num="145">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2361,10 +2362,10 @@ When BC14—Defiled Servitor dies, each opponent discards a card.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>BC17—Vanquisher of Nokris</name>
-			<text>BC17—Vanquisher of Nokris enters with a +1/+1 counter on it if it was cast according to Sword Logic.
+			<name>Vanquisher of Nokris</name>
+			<text>Vanquisher of Nokris enters with a +1/+1 counter on it if it was cast according to Sword Logic.
 Sword Logic—{4}{B}, Exile a creature card from your graveyard. (You may cast this spell from your graveyard for its Sword Logic cost if a creature you don&apos;t control died this turn.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/277.png" num="121">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/277.png" num="152">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2379,9 +2380,9 @@ Sword Logic—{4}{B}, Exile a creature card from your graveyard. (You may cast t
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>BC18—Corrupted Ravager</name>
-			<text>When BC18—Corrupted Ravager dies, it deals 1 damage to target creature. It deals 2 damage instead if that creature is tapped.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/278.png" num="122">DSY</set>
+			<name>Corrupted Ravager</name>
+			<text>When Corrupted Ravager dies, it deals 1 damage to target creature. It deals 2 damage instead if that creature is tapped.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/278.png" num="131">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2396,11 +2397,11 @@ Sword Logic—{4}{B}, Exile a creature card from your graveyard. (You may cast t
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>BC20—Xenophage</name>
-			<text>When BC20—Xenophage enters, exile up to one target creature card from your graveyard.
+			<name>Xenophage</name>
+			<text>When Xenophage enters, exile up to one target creature card from your graveyard.
 Equipped creature is legendary and gets +X/+0 and trample, where X is the mana value of the exiled card.
 Equip {3}</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/279.png" num="124">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/279.png" num="153">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2414,11 +2415,11 @@ Equip {3}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>BC21—Dreadful Scythe</name>
-			<text>When BC21—Dreadful Scythe enters, target opponent sacrifices a creature unless they discard a card.
+			<name>Dreadful Scythe</name>
+			<text>When Dreadful Scythe enters, target opponent sacrifices a creature unless they discard a card.
 Equipped creature has menace and &quot;When this creature attacks, defending player loses 2 life.&quot;
 Equip—Pay 4 life.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/280.png" num="125">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/280.png" num="133">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2432,10 +2433,10 @@ Equip—Pay 4 life.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>BC22—Necrotic Grip</name>
-			<text>The first time a creature you don&apos;t control dies each turn, untap BC22—Necrotic Grip
+			<name>Necrotic Grip</name>
+			<text>The first time a creature you don&apos;t control dies each turn, untap Necrotic Grip
 {3}, {T}: Proliferate. (Choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/281.png" num="126">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/281.png" num="142">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2449,11 +2450,11 @@ Equip—Pay 4 life.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>BC23—Graviton Forfeit</name>
-			<text>When BC23—Graviton Forfeit enters, attach it to target creature you control.
+			<name>Graviton Forfeit</name>
+			<text>When Graviton Forfeit enters, attach it to target creature you control.
 Equipped creature can&apos;t be blocked except by legendary creatures.
 Equip {1}{B}</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/282.png" num="127">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/282.png" num="137">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2467,10 +2468,10 @@ Equip {1}{B}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>BC24—Nightstalker</name>
-			<text>When BC24—Nightstalker enters, surveil 1.
-Vanishing step — BC24—Nightstalker can&apos;t be blocked as long as your devotion to black is five or greater. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/283.png" num="128">DSY</set>
+			<name>Nightstalker</name>
+			<text>When Nightstalker enters, surveil 1.
+Vanishing step — Nightstalker can&apos;t be blocked as long as your devotion to black is five or greater. (Each {B} in the mana costs of permanents you control counts toward your devotion to black.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/283.png" num="144">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2485,10 +2486,10 @@ Vanishing step — BC24—Nightstalker can&apos;t be blocked as long as your dev
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>BC25—Taken Goblin</name>
-			<text>When BC25—Taken Goblin enters, if it was cast according to Sword Logic, target legendary creature you control gains indestructible until end of turn.
+			<name>Taken Goblin</name>
+			<text>When Taken Goblin enters, if it was cast according to Sword Logic, target legendary creature you control gains indestructible until end of turn.
 Sword Logic—{3}{B}, Exile a creature card from your graveyard. (You may cast this spell from your graveyard for its Sword Logic cost if a creature you don&apos;t control died this turn.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/284.png" num="129">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/284.png" num="151">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2503,9 +2504,9 @@ Sword Logic—{3}{B}, Exile a creature card from your graveyard. (You may cast t
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RC24—Ghaul&apos;s Bloodguard</name>
+			<name>Ghaul&apos;s Bloodguard</name>
 			<text>When Ghaul&apos;s Bloodguard enters, create two Red Legionaries, 2/2 red Cabal Warrior creature tokens with Trample.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/297.png" num="177">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/297.png" num="159">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2520,11 +2521,11 @@ Sword Logic—{3}{B}, Exile a creature card from your graveyard. (You may cast t
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>GC9—Boundless Consumption</name>
+			<name>Boundless Consumption</name>
 			<text>Enchant creature
-When GC9—Boundless Consumption enters, create a Councilor, a 1/1 green Cabal Psion creature token with ward {1}. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
+When Boundless Consumption enters, create a Councilor, a 1/1 green Cabal Psion creature token with ward {1}. (Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)
 Enchanted creature gets +3/+0 as long as you control a creature token.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/298.png" num="212">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/298.png" num="205">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2538,10 +2539,10 @@ Enchanted creature gets +3/+0 as long as you control a creature token.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>RC4—Stolen Scrap-Walker</name>
+			<name>Stolen Scrap-Walker</name>
 			<text>Flamethrower — Stolen Scrap-Walker can&apos;t be blocked by non-artifact creatures as long as it is modified. (Equipment, Auras you control, and counters are modifications.)
 Activated abilities of equipment you control that target Stolen Scrap-Walker cost {1} less to activate.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/300.png" num="157">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/300.png" num="196">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2556,9 +2557,9 @@ Activated abilities of equipment you control that target Stolen Scrap-Walker cos
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>GC6—Loyalist Colossus</name>
-			<text>Whenever you gain life, put that many +1/+1 counters on GC6—Loyalist Colossus.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/303.png" num="209">DSY</set>
+			<name>Loyalist Colossus</name>
+			<text>Whenever you gain life, put that many +1/+1 counters on Loyalist Colossus.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/303.png" num="240">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2573,10 +2574,10 @@ Activated abilities of equipment you control that target Stolen Scrap-Walker cos
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>BC19—Eye of the Swarm</name>
+			<name>Eye of the Swarm</name>
 			<text>Defender, Flying
-When BC19—Eye of the Swarm enters, mill four cards, then draw a card.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/304.png" num="123">DSY</set>
+When Eye of the Swarm enters, mill four cards, then draw a card.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/304.png" num="134">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2591,9 +2592,9 @@ When BC19—Eye of the Swarm enters, mill four cards, then draw a card.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>GC17—First Contact</name>
+			<name>First Contact</name>
 			<text>Mill four cards. You may put a permanent card from among them into your hand. If this spell is the first spell you&apos;ve cast this game, you gain 2 life.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/306.png" num="220">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/306.png" num="212">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2607,10 +2608,10 @@ When BC19—Eye of the Swarm enters, mill four cards, then draw a card.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>GC18—Encroaching Darkness</name>
+			<name>Encroaching Darkness</name>
 			<text>Create two Shadow Thralls, 1/1 green Darkness creature tokens with &quot;This creature can&apos;t block.&quot; If this spell was cast according to Sword Logic, create three of those tokens instead.
 Sword Logic—{3}{G}, Exile a creature card from your graveyard. (You may cast this spell from your graveyard for its Sword Logic cost if a creature you don&apos;t control died this turn.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/307.png" num="221">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/307.png" num="209">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2624,9 +2625,9 @@ Sword Logic—{3}{G}, Exile a creature card from your graveyard. (You may cast t
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>GC19—Sol Inherent</name>
-			<text>When GC19—Sol Inherent enters, exile a creature card with mana value 3 or less from your graveyard. Then simulate it. (Create a nonlegendary token copy of it.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/308.png" num="222">DSY</set>
+			<name>Sol Inherent</name>
+			<text>When Sol Inherent enters, exile a creature card with mana value 3 or less from your graveyard. Then simulate it. (Create a nonlegendary token copy of it.)</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/308.png" num="245">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2641,11 +2642,11 @@ Sword Logic—{3}{G}, Exile a creature card from your graveyard. (You may cast t
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>GC20—Exorcism</name>
+			<name>Exorcism</name>
 			<text>Choose one—
 • Destroy target artifact or enchantment
 • Destroy all auras attached to target creature.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/309.png" num="223">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/309.png" num="210">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2659,10 +2660,10 @@ Sword Logic—{3}{G}, Exile a creature card from your graveyard. (You may cast t
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>GC21—Visage of the Emperor</name>
-			<text>When GC21—Visage of the Emperor enters, create a Shadow Legionary, a 3/3 green Darkness Cabal creature token.
+			<name>Visage of the Emperor</name>
+			<text>When Visage of the Emperor enters, create a Shadow Legionary, a 3/3 green Darkness Cabal creature token.
 Creature tokens you control get +1/+0.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/310.png" num="224">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/310.png" num="250">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2676,10 +2677,10 @@ Creature tokens you control get +1/+0.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>GC22—Precursor Cyclops</name>
+			<name>Precursor Cyclops</name>
 			<text>Defender, Reach
 {T}: Exile the top card of your library. If a land card is exiled this way, you may put it into your hand.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/311.png" num="225">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/311.png" num="242">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2694,10 +2695,10 @@ Creature tokens you control get +1/+0.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>GC23—Shadow Goliath</name>
+			<name>Shadow Goliath</name>
 			<text>When Legion Thresher becomes crewed by a Cabal creature, it gains double strike until end of turn.
 Crew 3 (Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/312.png" num="226">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/312.png" num="244">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2712,11 +2713,11 @@ Crew 3 (Tap any number of creatures you control with total power 3 or more: This
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>GC24—Taken Essence</name>
+			<name>Taken Essence</name>
 			<text>Enchant creature
-When GC24—Taken Essence enters, draw a card.
+When Taken Essence enters, draw a card.
 Enchanted creature gets +2/+1.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/313.png" num="227">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/313.png" num="248">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2730,11 +2731,11 @@ Enchanted creature gets +2/+1.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>GC25—Hive Boomer</name>
+			<name>Hive Boomer</name>
 			<text>Equipped creature has trample.
 Enrage — Whenever equipped creature is dealt damage, put a +1/+1 counter on it. (It must survive the damage to get the counter.)
 Equip {1}</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/314.png" num="228">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/314.png" num="237">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2748,10 +2749,10 @@ Equip {1}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CC18—Pouka</name>
+			<name>Pouka</name>
 			<text>Flying
 When Pouka enters, you gain 2 life.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/320.png" num="313">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/320.png" num="323">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2764,10 +2765,10 @@ When Pouka enters, you gain 2 life.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CC17—Vanguard Postmaster</name>
+			<name>Vanguard Postmaster</name>
 			<text>When Vanguard Postmaster enters, look at the top four cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on top of your library in any order.
 {T}: Add {C}. Spend this mana only to cast artifact spells or activate abilities of artifacts.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/321.png" num="312">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/321.png" num="333">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2780,11 +2781,11 @@ When Pouka enters, you gain 2 life.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CC19—Siege Engine</name>
+			<name>Siege Engine</name>
 			<text>Siege Engine attacks each turn if able.
 Siege Engine can&apos;t be blocked by walls.
 {3}, Sacrifice Siege Engine: Destroy target artifact. Activate only if Siege Engine dealt combat damage to a player this turn.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/322.png" num="314">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/322.png" num="327">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2797,11 +2798,11 @@ Siege Engine can&apos;t be blocked by walls.
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>CC20—Crest of Alpha Lupi</name>
+			<name>Crest of Alpha Lupi</name>
 			<text>When Crest of Alpha Lupi enters, you gain 3 life.
 Equipped creature gets +0/+3 and has vigilance so long as it&apos;s enchanted.
 Equip {2}</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/323.png" num="315">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/323.png" num="306">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2813,9 +2814,9 @@ Equip {2}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>GC14—Light-Eater Ogre</name>
-			<text>When GC14—Light-Eater Ogre enters or dies, exile target card from an opponent&apos;s graveyard. If it was a legendary card, you gain 3 life.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/335.png" num="217">DSY</set>
+			<name>Light-Eater Ogre</name>
+			<text>When Light-Eater Ogre enters or dies, exile target card from an opponent&apos;s graveyard. If it was a legendary card, you gain 3 life.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/335.png" num="239">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2938,7 +2939,7 @@ Equip {1}</text>
 		<card>
 			<name>Primeval DSY</name>
 			<text></text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/376.png" num="16">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/376.png" num="15">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2956,7 +2957,7 @@ Equip {1}</text>
 		<card>
 			<name>Stalker DSY</name>
 			<text></text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/377.png" num="11">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/377.png" num="10">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2966,24 +2967,6 @@ Equip {1}</text>
 				<cmc>0</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>1/1</pt>
-			</prop>
-			<tablerow>2</tablerow>
-			<token>1</token>
-		</card>
-		<card>
-			<name>Thrall DSY</name>
-			<text></text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/380.png" num="18">DSY</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Token Creature — Hive</type>
-				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<colors>G</colors>
-				<coloridentity>G</coloridentity>
 				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
@@ -3026,10 +3009,10 @@ Equip {1}</text>
 			<token>1</token>
 		</card>
 		<card>
-			<name>CC21—Scourge of the Past</name>
+			<name>Scourge of the Past</name>
 			<text>(As a Raid enters, choose an opponent to protect it. You and others can attack it. Whenever a creature attacks this Raid, its controller creates an Engram token. When it&apos;s defeated, exile it, then cast it transformed.)
 When Scourge of the Past enters, surveil 4. (Look at the top four cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/405.png" num="1">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/405.png" num="3">DSY</set>
 			<prop>
 				<layout>battle</layout>
 				<side>front</side>
@@ -3046,7 +3029,7 @@ When Scourge of the Past enters, surveil 4. (Look at the top four cards of your 
 			<text>Equipped creature is legendary.
 Equipped creature has &quot;Whenever equipped creature blocks or becomes blocked, it deals 2 damage to each creature it&apos;s blocking or blocked by.&quot;
 Equip {1}</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/406.png" num="1">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/406.png" num="3">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3060,7 +3043,7 @@ Equip {1}</text>
 		<card>
 			<name>Red Legionary DSY</name>
 			<text>Trample</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/408.png" num="12">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/407.png" num="11">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3078,7 +3061,7 @@ Equip {1}</text>
 		<card>
 			<name>Shank DSY</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/409.png" num="14">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/408.png" num="13">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3094,12 +3077,12 @@ Equip {1}</text>
 			<token>1</token>
 		</card>
 		<card>
-			<name>UC8—Worldline Zero</name>
+			<name>Worldline Zero</name>
 			<text>Flash
 When Worldline Zero enters, you may exile target creature you control. Return it to the battlefield under its owner&apos;s control at the beginning of the next end step.
 Equipped creature gets +1/+1, can&apos;t be blocked by tokens, and is legendary.
 Equip {1}{U}</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/410.png" num="62">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/409.png" num="103">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3115,7 +3098,7 @@ Equip {1}{U}</text>
 		<card>
 			<name>Imperial Legionary DSY</name>
 			<text>Vigilance</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/412.png" num="6">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/411.png" num="6">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3133,7 +3116,7 @@ Equip {1}{U}</text>
 		<card>
 			<name>Shadow Legionary DSY</name>
 			<text></text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/414.png" num="17">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/413.png" num="16">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3151,7 +3134,7 @@ Equip {1}{U}</text>
 		<card>
 			<name>Food DSY</name>
 			<text>{2}, {T}, Sacrifice this token: You gain 3 life.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/415.png" num="25">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/414.png" num="25">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3166,7 +3149,7 @@ Equip {1}{U}</text>
 		<card>
 			<name>Simulation DSY</name>
 			<text>This token can be used to represent a simulation of something else.</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/416.png" num="2">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/415.png" num="2">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3181,11 +3164,29 @@ Equip {1}{U}</text>
 		<card>
 			<name>Councilor DSY</name>
 			<text>Ward {1} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)</text>
-			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/417.png" num="15">DSY</set>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/416.png" num="14">DSY</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Token Creature — Cabal Psion</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Shadow Thrall DSY</name>
+			<text>This creature can&apos;t block.</text>
+			<set rarity="common" picurl="https://stonefreebookstands-maker.github.io/sets/DSY-files/img/417.png" num="17">DSY</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Darkness</type>
 				<maintype>Creature</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>

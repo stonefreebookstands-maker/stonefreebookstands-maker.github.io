@@ -8,11 +8,11 @@
     "v_mana": "",
     "cards": [
         {
-            "card_name": "RC7\u2014Golden Gun",
+            "card_name": "Golden Gun",
             "color": "R",
             "rarity": "common",
             "type": "Instant",
-            "number": 160,
+            "number": 161,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Golden Gun deals 3 damage divided as you choose among up to three targets.",
@@ -26,14 +26,14 @@
             "alias": "",
             "position": "4",
             "rotated": false,
-            "notes": ""
+            "notes": "RC7"
         },
         {
-            "card_name": "GC5\u2014Knight's Cleaver",
+            "card_name": "Knight's Cleaver",
             "color": "G",
             "rarity": "common",
             "type": "Artifact \u2014 Equipment",
-            "number": 208,
+            "number": 238,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Equipped creature gets +2/+2.\nEquip {1}. This ability costs {0} instead if a creature you don't control died this turn. Activate only once each turn.",
@@ -47,17 +47,17 @@
             "alias": "",
             "position": "5",
             "rotated": false,
-            "notes": ""
+            "notes": "GC5"
         },
         {
-            "card_name": "BC8\u2014Malfeasance",
+            "card_name": "Malfeasance",
             "color": "B",
             "rarity": "common",
             "type": "Artifact \u2014 Equipment",
-            "number": 112,
+            "number": 141,
             "color_identity": "B",
             "cost": "{B}{B}",
-            "rules_text": "When BC8\u2014Malfeasance enters, search your library for up to three cards named Malfeasance, reveal them, put them into your hand, then shuffle.\nEquipped creature gets +1/+1. As long as your devotion to black is five or more, it also has deathtouch. [i](Each {B} in the mana costs of permanents you control counts toward your devotion to black.)[/i]\nEquip {2}",
+            "rules_text": "When Malfeasance enters, search your library for up to three cards named Malfeasance, reveal them, put them into your hand, then shuffle.\nEquipped creature gets +1/+1. As long as your devotion to black is five or more, it also has deathtouch. [i](Each {B} in the mana costs of permanents you control counts toward your devotion to black.)[/i]\nEquip {2}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -68,14 +68,14 @@
             "alias": "",
             "position": "12",
             "rotated": false,
-            "notes": ""
+            "notes": "BC8"
         },
         {
-            "card_name": "UC21\u2014Void Suppressor",
+            "card_name": "Void Suppressor",
             "color": "U",
             "rarity": "common",
             "type": "Instant",
-            "number": 75,
+            "number": 102,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Counter target activated or triggered ability, or target noncreature spell.",
@@ -89,17 +89,17 @@
             "alias": "",
             "position": "13",
             "rotated": false,
-            "notes": ""
+            "notes": "UC21"
         },
         {
-            "card_name": "RC18\u2014House Light Engineers",
+            "card_name": "Devil Splicers",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Eliksni",
-            "number": 171,
+            "type": "Artifact Creature \u2014 Eliksni",
+            "number": 156,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "When House Light Engineers enters, choose one\u2014\n\u2022 Put a +1/+1 counter on target artifact creature.\n\u2022 Create a Shank, a 1/1 red Eliksni Robot artifact creature token with flying.",
+            "rules_text": "When Devil Splicers enters, choose one\u2014\n\u2022 Create a SIVA Nanite token and attach it to target creature. [i](It's an equipment artifact with \u201cEquipped creature gets +1/+0\u201d and Equip {1}.)[/i]\n\u2022 Create a Shank, a 1/1 red Eliksni Robot artifact creature token with flying.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -110,17 +110,17 @@
             "alias": "",
             "position": "14",
             "rotated": false,
-            "notes": ""
+            "notes": "RC18\n\nPut a +1/+1 counter on target artifact creature. That creature becomes legendary. (This effect lasts indefinitely)"
         },
         {
-            "card_name": "RC15\u2014Splicer Baron",
+            "card_name": "Splicer Archpriest",
             "color": "R",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Eliksni Cleric",
-            "number": 168,
+            "number": 195,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Modified creatures you control have haste. [i](Equipment, Auras you control, and counters are modifications.)[/i]\n{T}, Sacrifice an artifact: Create a SIVA Nanite token and attach it to target creature. Activate only as a sorcery. [i](It's an equipment artifact with \u201cEquipped creature gets +1/+0\u201d and equip {1})[/i]",
+            "rules_text": "Modified creatures you control have haste and are legendary. [i](Equipment, Auras you control, and counters are modifications.)[/i]\n{T}, Sacrifice an artifact: Create a SIVA Nanite token and attach it to target creature. Activate only as a sorcery. [i](It's an equipment artifact with \u201cEquipped creature gets +1/+0\u201d and equip {1})[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -131,14 +131,14 @@
             "alias": "",
             "position": "18",
             "rotated": false,
-            "notes": ""
+            "notes": "RC15"
         },
         {
-            "card_name": "RC20\u2014~Consume~",
+            "card_name": "~Consume~",
             "color": "R",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 173,
+            "number": 200,
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "This spell costs {3} less if it targets an artifact creature.\n~Consume~ deals 5 damage to target creature.",
@@ -152,14 +152,14 @@
             "alias": "",
             "position": "19",
             "rotated": false,
-            "notes": "Deal 3 damage divided among up to 3 target creatures. Create a SIVA Nanite token for each creature dealt damage this way. (They're equipment artifacts with \u201cEquipped creature gets +1/+0\u201d and equip 1)\n\nAs an additional cost to cast this spell, sacrifice an artifact.\n~Consume~ deals 5 damage to target creature."
+            "notes": "RC20\n\nDeal 3 damage divided among up to 3 target creatures. Create a SIVA Nanite token for each creature dealt damage this way. (They're equipment artifacts with \u201cEquipped creature gets +1/+0\u201d and equip 1)\n\nAs an additional cost to cast this spell, sacrifice an artifact.\n~Consume~ deals 5 damage to target creature."
         },
         {
-            "card_name": "CC6\u2014Ghost",
+            "card_name": "Ghost",
             "color": "",
             "rarity": "common",
             "type": "Artifact \u2014 Equipment",
-            "number": 301,
+            "number": 319,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "At the beginning of your upkeep, if Ghost isn't attached to a creature, you may pay {3}. If you do, return target Human, Awoken, or Hive creature card from your graveyard to the battlefield and attach Ghost to it.\nEquipped creature is legendary.",
@@ -173,17 +173,17 @@
             "alias": "",
             "position": "28",
             "rotated": false,
-            "notes": ""
+            "notes": "CC6"
         },
         {
-            "card_name": "GC1\u2014Acolytes of the Hidden Swarm",
+            "card_name": "Acolytes of the Hidden Swarm",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Hive Cleric",
             "number": 204,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "{T}: Add {G}.\nWhen GC1\u2014Acolytes of the Hidden Swarm dies, create an Engram token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this token: Draw a card, then discard a card.\u201d)[/i]",
+            "rules_text": "{T}: Add {G}.\nWhen Acolytes of the Hidden Swarm dies, create an Engram token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this token: Draw a card, then discard a card.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -194,14 +194,14 @@
             "alias": "",
             "position": "29",
             "rotated": false,
-            "notes": ""
+            "notes": "GC1"
         },
         {
-            "card_name": "UC14\u2014Noble Winter Walker",
+            "card_name": "Noble Winter Walker",
             "color": "U",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Robot",
-            "number": 68,
+            "number": 66,
             "color_identity": "U",
             "cost": "{3}{U}",
             "rules_text": "{1}, Sacrifice an artifact: Put a +1/+1 counter on Noble Winter Walker.\nWhen Noble Winter Walker dies, move all counters from it onto another target creature you control.",
@@ -215,14 +215,14 @@
             "alias": "",
             "position": "31",
             "rotated": false,
-            "notes": ""
+            "notes": "UC14"
         },
         {
-            "card_name": "RC22\u2014Silent Fang Assassin",
+            "card_name": "Silent Fang Assassin",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Eliksni Assassin",
-            "number": 175,
+            "number": 194,
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "Reach\n{T}: Silent Fang Assassin deals 3 damage to target battle. Activate only if an opponent lost life this turn.",
@@ -236,14 +236,14 @@
             "alias": "",
             "position": "33",
             "rotated": false,
-            "notes": "This is almost the same card as Tracer Shank\n\nActivate this ability only if an opponent was dealt damage this turn."
+            "notes": "RC22\n\nThis is almost the same card as Tracer Shank\n\nActivate this ability only if an opponent was dealt damage this turn."
         },
         {
-            "card_name": "BC4\u2014Final Death",
+            "card_name": "Final Death",
             "color": "B",
             "rarity": "common",
             "type": "Instant",
-            "number": 108,
+            "number": 136,
             "color_identity": "B",
             "cost": "{4}{B}",
             "rules_text": "Exile target creature.",
@@ -257,17 +257,17 @@
             "alias": "",
             "position": "35",
             "rotated": false,
-            "notes": ""
+            "notes": "BC4"
         },
         {
-            "card_name": "WC10\u2014Siege Dancer Phalanx",
+            "card_name": "Siege Dancer Phalanx",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2014 Cabal Soldier",
-            "number": 14,
+            "number": 23,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Vigilance\n{1}: Exchange WC10\u2014Siege Dancer Phalanx's power and toughness until end of turn.",
+            "rules_text": "Vigilance\n{1}: Exchange Siege Dancer Phalanx's power and toughness until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
@@ -278,17 +278,17 @@
             "alias": "",
             "position": "45",
             "rotated": false,
-            "notes": ""
+            "notes": "WC10"
         },
         {
-            "card_name": "WC4\u2014Heat Rises",
+            "card_name": "Heat Rises",
             "color": "W",
             "rarity": "common",
             "type": "Enchantment \u2014 Aura",
-            "number": 8,
+            "number": 11,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Enchant creature\nWhen WC4\u2014Heat Rises enters, draw a card.\nEnchanted creature has flying.",
+            "rules_text": "Enchant creature\nWhen Heat Rises enters, draw a card.\nEnchanted creature has flying.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -299,14 +299,14 @@
             "alias": "",
             "position": "56",
             "rotated": false,
-            "notes": ""
+            "notes": "WC4"
         },
         {
-            "card_name": "UC4\u2014Spider's Associates",
+            "card_name": "Spider's Associates",
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2014 Eliksni Rogue",
-            "number": 58,
+            "number": 75,
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "{2}{U}, Sacrifice Spider's Associates: Create two Engram tokens. [i](They're artifacts with \u201c{1}, {T}, Sacrifice this token: Draw a card, then discard a card.)[/i]",
@@ -320,10 +320,10 @@
             "alias": "",
             "position": "60",
             "rotated": false,
-            "notes": ""
+            "notes": "UC4"
         },
         {
-            "card_name": "RC5\u2014Gambler's Dodge",
+            "card_name": "Gambler's Dodge",
             "color": "R",
             "rarity": "common",
             "type": "Sorcery",
@@ -341,17 +341,17 @@
             "alias": "",
             "position": "61",
             "rotated": false,
-            "notes": "This spell costs 1 less if an opponent lost 4 or more life this turn."
+            "notes": "RC5\n\nThis spell costs 1 less if an opponent lost 4 or more life this turn."
         },
         {
-            "card_name": "WC8\u2014Radiant Resurrection",
+            "card_name": "Radiant Resurrection",
             "color": "W",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 12,
+            "number": 19,
             "color_identity": "W",
             "cost": "{4}{W}",
-            "rules_text": "Return target legendary creature card from your graveyard to the battlefield. You gain 5 life.",
+            "rules_text": "Return target creature card in your graveyard to the battlefield. Put a +1/+1 counter on it. It becomes legendary. [i](This effect lasts indefinitely.)[/i]",
             "flavor_text": "[i]\u201cWitness the dawning of a new age!\u201d\n\u2014Dominus Ghaul[/i]",
             "pt": "",
             "special_text": "",
@@ -362,14 +362,14 @@
             "alias": "",
             "position": "63",
             "rotated": false,
-            "notes": ""
+            "notes": "WC8\n\nReturn target legendary creature card from your graveyard to the battlefield. You gain 5 life."
         },
         {
             "card_name": "Plains",
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Plains",
-            "number": 344,
+            "number": 346,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -390,7 +390,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Island",
-            "number": 348,
+            "number": 349,
             "color_identity": "U",
             "cost": "",
             "rules_text": "",
@@ -411,7 +411,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
-            "number": 352,
+            "number": 353,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -432,7 +432,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
-            "number": 356,
+            "number": 357,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -453,7 +453,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Forest",
-            "number": 362,
+            "number": 363,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -474,7 +474,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Plains",
-            "number": 345,
+            "number": 344,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -495,7 +495,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Island",
-            "number": 349,
+            "number": 351,
             "color_identity": "U",
             "cost": "",
             "rules_text": "",
@@ -516,7 +516,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
-            "number": 353,
+            "number": 355,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -537,7 +537,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Mountain",
-            "number": 357,
+            "number": 356,
             "color_identity": "R",
             "cost": "",
             "rules_text": "",
@@ -579,7 +579,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Plains",
-            "number": 346,
+            "number": 347,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -621,7 +621,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
-            "number": 355,
+            "number": 354,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -684,7 +684,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Plains",
-            "number": 347,
+            "number": 345,
             "color_identity": "W",
             "cost": "",
             "rules_text": "",
@@ -705,7 +705,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Island",
-            "number": 351,
+            "number": 348,
             "color_identity": "U",
             "cost": "",
             "rules_text": "",
@@ -726,7 +726,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Swamp",
-            "number": 354,
+            "number": 352,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -768,7 +768,7 @@
             "color": "",
             "rarity": "common",
             "type": "Basic Land \u2014 Forest",
-            "number": 363,
+            "number": 362,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -785,14 +785,14 @@
             "notes": ""
         },
         {
-            "card_name": "GC16\u2014Taken Psion",
+            "card_name": "Taken Psion",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Darkness",
-            "number": 219,
+            "number": 249,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "When GC16\u2014Taken Psion dies, create a token copy of it, except it doesn't have this ability.",
+            "rules_text": "When Taken Psion dies, create a token copy of it, except it doesn't have this ability.",
             "flavor_text": "[i]\u201cThere is a knife for you. It is shaped like [division]. Take up the knife. Cut yourself apart. Take your new shape.\u201d\n\u2014The Winnower[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -803,10 +803,10 @@
             "alias": "",
             "position": "90",
             "rotated": false,
-            "notes": "At the beginning of your end step, if a legendary creature you control died this turn, create a token copy of GC16\u2014Taken Psion, except it doesn't have this ability."
+            "notes": "GC16\n\nAt the beginning of your end step, if a legendary creature you control died this turn, create a token copy of GC16\u2014Taken Psion, except it doesn't have this ability."
         },
         {
-            "card_name": "UC20\u2014Shuro Chi's Teachings",
+            "card_name": "Shuro Chi's Teachings",
             "color": "U",
             "rarity": "common",
             "type": "Sorcery",
@@ -824,17 +824,17 @@
             "alias": "",
             "position": "91",
             "rotated": false,
-            "notes": ""
+            "notes": "UC20"
         },
         {
-            "card_name": "RC12\u2014Scorch Cannon",
+            "card_name": "Scorch Cannon",
             "color": "R",
             "rarity": "common",
             "type": "Artifact \u2014 Equipment",
-            "number": 165,
+            "number": 190,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Equipped creature gets +3/+1 and has \u201c{1}{R}, {T}, Sacrifice Scorch Cannon: Destroy target artifact. Scorch Cannon deals 3 damage to that artifact's controller.\u201d\nEquip {2}, or Sacrifice an artifact.",
+            "rules_text": "Equipped creature gets +3/+1 and has \u201c{1}{R}, {T}, Sacrifice Scorch Cannon: Destroy target artifact. Scorch Cannon deals 3 damage to that artifact's controller.\u201d\nEquip {3}, or Sacrifice an artifact.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -845,10 +845,10 @@
             "alias": "",
             "position": "96",
             "rotated": false,
-            "notes": ""
+            "notes": "RC12"
         },
         {
-            "card_name": "RC1\u2014Cabal Stomp",
+            "card_name": "Cabal Stomp",
             "color": "R",
             "rarity": "common",
             "type": "Instant",
@@ -866,7 +866,7 @@
             "alias": "",
             "position": "97",
             "rotated": false,
-            "notes": ""
+            "notes": "RC1"
         },
         {
             "card_name": "Landing Zone",
@@ -890,7 +890,7 @@
             "notes": ""
         },
         {
-            "card_name": "RC10\u2014Kell's Scourge Berserker",
+            "card_name": "Kell's Scourge Berserker",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Eliksni Warrior",
@@ -908,14 +908,14 @@
             "alias": "",
             "position": "100",
             "rotated": false,
-            "notes": ""
+            "notes": "RC10"
         },
         {
-            "card_name": "RC14\u2014Scorpius Turret",
+            "card_name": "Scorpius Turret",
             "color": "R",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Construct",
-            "number": 167,
+            "number": 192,
             "color_identity": "WR",
             "cost": "{1}{R}",
             "rules_text": "Defender, Reach\n{3}{W}: Scorpius Turret gains double strike until end of turn.",
@@ -929,14 +929,14 @@
             "alias": "",
             "position": "101",
             "rotated": false,
-            "notes": ""
+            "notes": "RC14"
         },
         {
-            "card_name": "UC9\u2014Data Preservation",
+            "card_name": "Data Preservation",
             "color": "U",
             "rarity": "common",
             "type": "Instant",
-            "number": 63,
+            "number": 60,
             "color_identity": "U",
             "cost": "{3}{U}",
             "rules_text": "This spell costs {2} less if it targets a legendary permanent.\nPut target creature or artifact into its owner's library second from the top. Its controller creates an Engram token.[i](It's an artifact with \u201c{1}, {T}, Sacrifice this token: Draw a card, then discard a card.\u201d)[/i]",
@@ -950,17 +950,17 @@
             "alias": "",
             "position": "104",
             "rotated": false,
-            "notes": "Engram Encryption"
+            "notes": "UC9"
         },
         {
-            "card_name": "BC5\u2014Grim Flayer",
+            "card_name": "Grim Flayer",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Darkness",
-            "number": 109,
+            "number": 138,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "Flying\n[i]Deafening Screech \u2014 [/i]Sacrifice BC5\u2014Grim Flayer: Target creature loses all abilities until end of turn.",
+            "rules_text": "Flying\n[i]Deafening Screech \u2014 [/i]Sacrifice Grim Flayer: Target creature loses all abilities until end of turn.",
             "flavor_text": "[i]\u201cLet your mind be split into the many facets of thought it so craves to embody\u201d\n\u2014The Witness[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -971,14 +971,14 @@
             "alias": "",
             "position": "108",
             "rotated": false,
-            "notes": ""
+            "notes": "BC5"
         },
         {
-            "card_name": "RC17\u2014Tormenting Voice",
+            "card_name": "Tormenting Voice",
             "color": "R",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 170,
+            "number": 198,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "As an additional cost to cast this spell, discard a card.\nDraw two cards.",
@@ -992,14 +992,14 @@
             "alias": "",
             "position": "109",
             "rotated": false,
-            "notes": ""
+            "notes": "RC17"
         },
         {
-            "card_name": "BC10\u2014Scorned Crossbow",
+            "card_name": "Scorned Crossbow",
             "color": "B",
             "rarity": "common",
             "type": "Artifact \u2014 Equipment",
-            "number": 114,
+            "number": 146,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Equipped creature gets +2/+1 and has reach.\n[i]Devourer Bullet \u2014 [/i]Equipped creature has \u201c{T}: Exile target card from a graveyard. Its owner loses 1 life.\u201d\nEquip {1}",
@@ -1013,14 +1013,14 @@
             "alias": "",
             "position": "114",
             "rotated": false,
-            "notes": ""
+            "notes": "BC10"
         },
         {
-            "card_name": "CC9\u2014Pyramid Splinter",
+            "card_name": "Pyramid Splinter",
             "color": "",
             "rarity": "common",
             "type": "Artifact",
-            "number": 304,
+            "number": 324,
             "color_identity": "UB",
             "cost": "{3}",
             "rules_text": "{T}: Add {U} or {B}.\n{1}{U}{B}, {T}, Sacrifice Pyramid Splinter: Tap target artifact or creature and put two stun counters on it.",
@@ -1034,10 +1034,10 @@
             "alias": "",
             "position": "115",
             "rotated": false,
-            "notes": ""
+            "notes": "CC9"
         },
         {
-            "card_name": "CC2\u2014Bell of Conquests",
+            "card_name": "Bell of Conquests",
             "color": "",
             "rarity": "common",
             "type": "Artifact",
@@ -1055,14 +1055,14 @@
             "alias": "",
             "position": "116",
             "rotated": false,
-            "notes": ""
+            "notes": "CC2"
         },
         {
-            "card_name": "CC4\u2014Chalice of Opulence",
+            "card_name": "Chalice of Opulence",
             "color": "",
             "rarity": "common",
             "type": "Artifact",
-            "number": 299,
+            "number": 298,
             "color_identity": "RG",
             "cost": "{3}",
             "rules_text": "{T}: Add {R} or {G}.\n{1}{R}{G}, {T}, Sacrifice Chalice of Opulence: Create a food token, an engram token, and a treasure token.",
@@ -1076,14 +1076,14 @@
             "alias": "",
             "position": "117",
             "rotated": false,
-            "notes": ""
+            "notes": "CC4"
         },
         {
-            "card_name": "CC11\u2014Nightmare Harvester",
+            "card_name": "Nightmare Harvester",
             "color": "",
             "rarity": "common",
             "type": "Artifact",
-            "number": 306,
+            "number": 322,
             "color_identity": "BR",
             "cost": "{3}",
             "rules_text": "{T}: Add {B} or {R}.\n{1}{B}{R}, {T}, Sacrifice Nightmare Harvester: Target opponent sacrifice a creature unless they discard a card and lose 2 life.",
@@ -1097,14 +1097,14 @@
             "alias": "",
             "position": "118",
             "rotated": false,
-            "notes": ""
+            "notes": "CC11"
         },
         {
-            "card_name": "CC5\u2014Gate Lord's Eye",
+            "card_name": "Gate Lord's Eye",
             "color": "",
             "rarity": "common",
             "type": "Artifact",
-            "number": 300,
+            "number": 318,
             "color_identity": "UG",
             "cost": "{3}",
             "rules_text": "{T}: Add {U} or {G}.\n{1}{G}{U}, {T}, Sacrifice Gate Lord's Eye: Draw two cards, then exile a card from your hand.",
@@ -1118,17 +1118,17 @@
             "alias": "",
             "position": "119",
             "rotated": false,
-            "notes": ""
+            "notes": "CC5"
         },
         {
-            "card_name": "CC14\u2014Tree of Silver Wings",
+            "card_name": "Tree of Silver Wings",
             "color": "",
             "rarity": "common",
             "type": "Artifact",
-            "number": 309,
+            "number": 332,
             "color_identity": "WB",
             "cost": "{3}",
-            "rules_text": "{T}: Add {W} or {B}.\n{1}{W}{B}, {T}, Sacrifice Tree of Silver Wings: Put a +1/+1 counter on target creature. Untap it. That creature becomes legendary.",
+            "rules_text": "{T}: Add {W} or {B}.\n{1}{W}{B}, {T}, Sacrifice Tree of Silver Wings: Put a +1/+1 counter on target creature. Untap it. That creature becomes legendary. [i](This effect is permanent.)[/i]",
             "flavor_text": "[i]In the Garden grows a tree of silver wings. The leaves are ruin, the bark disaster. Of the seeds we do not speak.[/i]",
             "pt": "",
             "special_text": "",
@@ -1139,14 +1139,14 @@
             "alias": "",
             "position": "120",
             "rotated": false,
-            "notes": ""
+            "notes": "CC14"
         },
         {
-            "card_name": "CC13\u2014Tablet of Ruin",
+            "card_name": "Tablet of Ruin",
             "color": "",
             "rarity": "common",
             "type": "Artifact",
-            "number": 308,
+            "number": 331,
             "color_identity": "BG",
             "cost": "{3}",
             "rules_text": "{T}: Add {B} or {G}.\n{1}{B}{G}, {T}, Sacrifice Tablet of Ruin: Destroy target creature if you control a creature with greater power.",
@@ -1160,14 +1160,14 @@
             "alias": "",
             "position": "121",
             "rotated": false,
-            "notes": ""
+            "notes": "CC13"
         },
         {
-            "card_name": "CC12\u2014Skeleton Key",
+            "card_name": "Skeleton Key",
             "color": "",
             "rarity": "common",
             "type": "Artifact",
-            "number": 307,
+            "number": 328,
             "color_identity": "UR",
             "cost": "{3}",
             "rules_text": "{T}: Add {U} or {R}.\n{1}{U}{R}, {T}, Sacrifice Skeleton Key: Target modified creature can't be blocked this turn. [i](Equipment, Auras you control, and counters are modifications.)[/i]",
@@ -1181,17 +1181,17 @@
             "alias": "",
             "position": "122",
             "rotated": false,
-            "notes": ""
+            "notes": "CC12"
         },
         {
-            "card_name": "CC16\u2014Warmind Khanjali",
+            "card_name": "Warmind Khanjali",
             "color": "",
             "rarity": "common",
             "type": "Artifact",
-            "number": 311,
+            "number": 334,
             "color_identity": "WU",
             "cost": "{3}",
-            "rules_text": "{T}: Add {W} or {U}.\n{1}{W}{U}, {T}, Sacrifice Warmind Khanjali: Attach an equipment you control to target creature you control. That creature becomes an artifact in addition to its other types.",
+            "rules_text": "{T}: Add {W} or {U}.\n{1}{W}{U}, {T}, Sacrifice Warmind Khanjali: Attach an equipment you control to target creature you control. That creature becomes an artifact in addition to its other types for as long as it is modified. [i](Equipment, Auras you control, and counters are modifications.)[/i]",
             "flavor_text": "[i]::Everything is gone.::[/i]",
             "pt": "",
             "special_text": "",
@@ -1202,10 +1202,10 @@
             "alias": "",
             "position": "123",
             "rotated": false,
-            "notes": ""
+            "notes": "CC16"
         },
         {
-            "card_name": "CC1\u2014Acolyte's Staff",
+            "card_name": "Acolyte's Staff",
             "color": "",
             "rarity": "common",
             "type": "Artifact",
@@ -1223,14 +1223,14 @@
             "alias": "",
             "position": "124",
             "rotated": false,
-            "notes": ""
+            "notes": "CC1"
         },
         {
-            "card_name": "CC3\u2014Strange Coin",
+            "card_name": "Strange Coin",
             "color": "",
             "rarity": "common",
             "type": "Artifact \u2014 Treasure",
-            "number": 298,
+            "number": 329,
             "color_identity": "C",
             "cost": "{2}",
             "rules_text": "{T}, Sacrifice Strange Coin: Add one mana of any color.\n{2}, Exile Strange Coin from your graveyard: Return target equipment card from your graveyard to your hand.",
@@ -1244,14 +1244,14 @@
             "alias": "",
             "position": "130",
             "rotated": false,
-            "notes": "When Strange Coin enters, return up to one equipment card from your graveyard to your hand."
+            "notes": "CC3\n\nWhen Strange Coin enters, return up to one equipment card from your graveyard to your hand."
         },
         {
-            "card_name": "RC13\u2014Scorn Ravager",
+            "card_name": "Scorn Ravager",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Eliksni Zombie",
-            "number": 166,
+            "number": 191,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "Haste\nWhen Scorn Ravager attacks, target legendary creature you control gets +1/+0 until end of turn.",
@@ -1265,14 +1265,14 @@
             "alias": "",
             "position": "131",
             "rotated": false,
-            "notes": ""
+            "notes": "RC13"
         },
         {
-            "card_name": "RC16\u2014Tarnished Wraith",
+            "card_name": "Tarnished Wraith",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Eliksni Zombie",
-            "number": 169,
+            "number": 197,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Tarnished Wraith has double strike as long as it attacked a battle this turn.",
@@ -1286,17 +1286,17 @@
             "alias": "",
             "position": "132",
             "rotated": false,
-            "notes": "When *RC16\u2014Tarnished Wraith enters, you may discard a card. If you do, it deals 2 damage to target player or battle."
+            "notes": "RC16\n\nWhen *RC16\u2014Tarnished Wraith enters, you may discard a card. If you do, it deals 2 damage to target player or battle."
         },
         {
-            "card_name": "WC15\u2014Valkyrie",
+            "card_name": "Valkyrie",
             "color": "W",
             "rarity": "common",
             "type": "Artifact \u2014 Equipment",
-            "number": 19,
+            "number": 28,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "When WC15\u2014Valkyrie enters, attach it to target creature you control.\nEquipped creature has Vigilance and \u201c{4}{W}, {T}, Sacrifice WC15\u2014Valkyrie: Destroy target artifact or creature with mana value 5 or greater.\u201d\nEquip {2}",
+            "rules_text": "When Valkyrie enters, attach it to target creature you control.\nEquipped creature has Vigilance and \u201c{4}{W}, {T}, Sacrifice Valkyrie: Destroy target artifact or creature with mana value 5 or greater.\u201d\nEquip {2}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1307,14 +1307,14 @@
             "alias": "",
             "position": "133",
             "rotated": false,
-            "notes": ""
+            "notes": "WC15"
         },
         {
-            "card_name": "BC9\u2014Nightmarish Revival",
+            "card_name": "Nightmarish Revival",
             "color": "B",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 113,
+            "number": 143,
             "color_identity": "B",
             "cost": "{3}{B}",
             "rules_text": "Exile target creature card in a graveyard. If you do, create a token that's a copy of it, except it's a black Nightmare in addition to its other types.\nSword Logic\u2014{4}{B}, Exile a creature card from your graveyard. [i](You may cast this spell from your graveyard for its Sword Logic cost if a creature you don't control died this turn.)[/i]",
@@ -1328,14 +1328,14 @@
             "alias": "",
             "position": "135",
             "rotated": false,
-            "notes": ""
+            "notes": "BC9"
         },
         {
-            "card_name": "UC18\u2014Ritual of Negation",
+            "card_name": "Ritual of Negation",
             "color": "U",
             "rarity": "common",
             "type": "Instant",
-            "number": 72,
+            "number": 69,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Counter target spell unless its controller pays {2}. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.",
@@ -1349,14 +1349,14 @@
             "alias": "",
             "position": "137",
             "rotated": false,
-            "notes": ""
+            "notes": "UC18"
         },
         {
-            "card_name": "UC13\u2014Heavy Pike",
+            "card_name": "Heavy Pike",
             "color": "U",
             "rarity": "common",
             "type": "Artifact \u2014 Vehicle",
-            "number": 67,
+            "number": 64,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "[i]Shock Mines [/i]\u2014 Whenever Heavy Pike attacks, you may discard a card. If you do, target creature gets -X/-0 until end of turn, where X is that card's mana value.\nCrew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
@@ -1370,17 +1370,17 @@
             "alias": "",
             "position": "139",
             "rotated": false,
-            "notes": ""
+            "notes": "UC13"
         },
         {
-            "card_name": "BC6\u2014Hive Tomb Ship",
+            "card_name": "Hive Tomb Ship",
             "color": "B",
             "rarity": "common",
             "type": "Artifact \u2014 Vehicle",
-            "number": 110,
+            "number": 139,
             "color_identity": "B",
             "cost": "{4}{B}",
-            "rules_text": "Flying\nWhenever BC6\u2014Hive Tomb Ship attacks, you may return target creature card from your graveyard to the battlefield.\nCrew 5 [i](Tap any number of creatures you control with total power 5 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
+            "rules_text": "Flying\nWhenever Hive Tomb Ship attacks, you may return target creature card from your graveyard to the battlefield.\nCrew 5 [i](Tap any number of creatures you control with total power 5 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -1391,14 +1391,14 @@
             "alias": "",
             "position": "140",
             "rotated": false,
-            "notes": ""
+            "notes": "BC6"
         },
         {
-            "card_name": "UC17\u2014Salvation's Grip",
+            "card_name": "Salvation's Grip",
             "color": "U",
             "rarity": "common",
             "type": "Legendary Artifact \u2014 Equipment",
-            "number": 71,
+            "number": 72,
             "color_identity": "U",
             "cost": "{1}{U}{U}",
             "rules_text": "When Salvation's Grip enters, tap target creature and put a stun counter on it. Then create a Glacier Wall, a 0/2 blue Wall creature token with defender.\nEquipped creature gets +2/+0 and is legendary.\nEquip {2}",
@@ -1412,14 +1412,14 @@
             "alias": "",
             "position": "141",
             "rotated": false,
-            "notes": "Equipped creature gets +1/+0 and \u201cWhenever this creature attacks, tap target creature and put a stun counter on it.\u201d"
+            "notes": "UC17\n\nEquipped creature gets +1/+0 and \u201cWhenever this creature attacks, tap target creature and put a stun counter on it.\u201d"
         },
         {
-            "card_name": "UC12\u2014Goblins of the Hezen Protective",
+            "card_name": "Goblins of the Hezen Protective",
             "color": "U",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Vex Robot",
-            "number": 66,
+            "number": 63,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Vigilance\nWhen Goblins of the Hezen Protective dies, create an Engram token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this token: Draw a card, then discard a card.\u201d)[/i]",
@@ -1433,17 +1433,17 @@
             "alias": "",
             "position": "143",
             "rotated": false,
-            "notes": ""
+            "notes": "UC12"
         },
         {
-            "card_name": "BC2\u2014Fanatical Lurker",
+            "card_name": "Shadowed Lurker",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Eliksni Zombie",
-            "number": 106,
+            "number": 147,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "When BC2\u2014Fanatical Lurker enters, each opponent loses 1 life.\nWhen BC2\u2014Fanatical Lurker dies, create an Engram token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this token: Draw a card, then discard a card.\u201d)[/i]",
+            "rules_text": "When Shadowed Lurker enters, each opponent loses 1 life.\nWhen Shadowed Lurker dies, create an Engram token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this token: Draw a card, then discard a card.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1454,10 +1454,10 @@
             "alias": "",
             "position": "144",
             "rotated": false,
-            "notes": ""
+            "notes": "BC2"
         },
         {
-            "card_name": "CC22\u2014New Light",
+            "card_name": "New Light",
             "color": "",
             "rarity": "common",
             "type": "Creature \u2014 Human",
@@ -1475,17 +1475,17 @@
             "alias": "",
             "position": "145",
             "rotated": false,
-            "notes": ""
+            "notes": "CC22"
         },
         {
-            "card_name": "WC6\u2014Psion Operant",
+            "card_name": "Psion Operant",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2014 Cabal Psion",
-            "number": 10,
+            "number": 16,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "WC6\u2014Psion Operant has first strike during your turn.\nWhen WC6\u2014Psion Operant dies, create an Engram token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this token: Draw a card, then discard a card.\u201d)[/i]",
+            "rules_text": "Psion Operant has first strike during your turn.\nWhen Psion Operant dies, create an Engram token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this token: Draw a card, then discard a card.\u201d)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -1496,17 +1496,17 @@
             "alias": "",
             "position": "146",
             "rotated": false,
-            "notes": ""
+            "notes": "WC6"
         },
         {
-            "card_name": "GC13\u2014Woven Mail",
+            "card_name": "Woven Mail",
             "color": "G",
             "rarity": "common",
             "type": "Instant",
-            "number": 216,
+            "number": 252,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Target creature gets +0/+2 and hexproof until end of turn.",
+            "rules_text": "Target creature gets +0/+2 and hexproof and becomes legendary until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1517,14 +1517,14 @@
             "alias": "",
             "position": "147",
             "rotated": false,
-            "notes": ""
+            "notes": "GC13"
         },
         {
-            "card_name": "RC6\u2014Gluttonous Growth",
+            "card_name": "Gluttonous Growth",
             "color": "R",
             "rarity": "common",
             "type": "Instant",
-            "number": 159,
+            "number": 160,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Target creature gets +4/+3 until end of turn.",
@@ -1538,17 +1538,17 @@
             "alias": "",
             "position": "157",
             "rotated": false,
-            "notes": ""
+            "notes": "RC6"
         },
         {
-            "card_name": "GC3\u2014Drifter's Gambit",
+            "card_name": "Drifter's Gambit",
             "color": "G",
             "rarity": "common",
             "type": "Enchantment",
-            "number": 206,
+            "number": 208,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "At the beginning of your upkeep and whenever one or more creatures die, put a mote counter on GC3\u2014Drifter's Gambit. Then if there are six or more mote counters on it, exile GC3\u2014Drifter's Gambit and create a Primeval, a 6/6 green Darkness creature token.",
+            "rules_text": "At the beginning of your upkeep and whenever one or more creatures die, put a mote counter on Drifter's Gambit. Then if there are six or more mote counters on it, exile Drifter's Gambit and create a Primeval, a 6/6 green Darkness creature token.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1559,17 +1559,17 @@
             "alias": "",
             "position": "158",
             "rotated": false,
-            "notes": ""
+            "notes": "GC3"
         },
         {
-            "card_name": "RC21\u2014~Enhance~",
+            "card_name": "~Enhance~",
             "color": "R",
             "rarity": "common",
             "type": "Instant",
-            "number": 174,
+            "number": 201,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Target creature gets haste and trample until end of turn. Create a SIVA Nanite token and attach it to that creature. [i](It's an equipment artifact with \u201cEquipped creature gets +1/+0\u201d and equip {1})[/i]",
+            "rules_text": "Target creature gets haste, trample, and becomes legendary until end of turn. Create a SIVA Nanite token and attach it to that creature. [i](It's an equipment artifact with \u201cEquipped creature gets +1/+0\u201d and equip {1})[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1580,14 +1580,14 @@
             "alias": "",
             "position": "160",
             "rotated": false,
-            "notes": ""
+            "notes": "RC21"
         },
         {
-            "card_name": "UC5\u2014Cloud Skimmer",
+            "card_name": "Cloud Skimmer",
             "color": "U",
             "rarity": "common",
             "type": "Artifact \u2014 Equipment Vehicle",
-            "number": 59,
+            "number": 58,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "Flying\nEquipped creature has flying.\nEquip {1}\nCrew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn. Creatures can't be attached to other permanents.)[/i]",
@@ -1601,14 +1601,14 @@
             "alias": "",
             "position": "162",
             "rotated": false,
-            "notes": ""
+            "notes": "UC5"
         },
         {
-            "card_name": "RC8\u2014Legion Thresher",
+            "card_name": "Legion Thresher",
             "color": "R",
             "rarity": "common",
             "type": "Artifact \u2014 Vehicle",
-            "number": 161,
+            "number": 164,
             "color_identity": "R",
             "cost": "{4}{R}{R}",
             "rules_text": "Flying\nWhen Legion Thresher enters, create two Red Legionaries, 2/2 red Cabal Warrior creature tokens with Trample.\nCrew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
@@ -1622,14 +1622,14 @@
             "alias": "",
             "position": "163",
             "rotated": false,
-            "notes": ""
+            "notes": "RC8"
         },
         {
-            "card_name": "UC19\u2014Sacred Splicer's Art",
+            "card_name": "Sacred Splicer's Art",
             "color": "U",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 73,
+            "number": 70,
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "Target creature can't be blocked this turn.\nSurveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]",
@@ -1643,17 +1643,17 @@
             "alias": "",
             "position": "164",
             "rotated": false,
-            "notes": ""
+            "notes": "UC19"
         },
         {
-            "card_name": "BC1\u2014Bound Ogre",
+            "card_name": "Bound Ogre",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Hive Ogre",
-            "number": 105,
+            "number": 109,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "As long as BC1\u2014Bound Ogre's power is less than 4, it can't attack.\nWhenever one or more creatures die, put a +1/+1 counter on BC1\u2014Bound Ogre.",
+            "rules_text": "As long as Bound Ogre's power is less than 4, it can't attack.\nWhenever one or more creatures die, put a +1/+1 counter on Bound Ogre.",
             "flavor_text": "[i][/i]",
             "pt": "2/4",
             "special_text": "",
@@ -1664,17 +1664,17 @@
             "alias": "",
             "position": "165",
             "rotated": false,
-            "notes": ""
+            "notes": "BC1"
         },
         {
-            "card_name": "WC11\u2014Slug Rifle",
+            "card_name": "Slug Rifle",
             "color": "W",
             "rarity": "common",
             "type": "Artifact \u2014 Equipment",
-            "number": 15,
+            "number": 24,
             "color_identity": "W",
-            "cost": "{W}",
-            "rules_text": "When WC11\u2014Slug Rifle enters, attach it to target Cabal creature you control.\nEquipped creature gets +1/+1.\nEquip {1}",
+            "cost": "{1}{W}",
+            "rules_text": "When Slug Rifle enters, create an Imperial Legionary, a 2/2 white Cabal Soldier with Vigilance, and attach this to it.\nEquipped creature gets +1/+1 as long as it's attacking.\nEquip {1}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1685,14 +1685,14 @@
             "alias": "",
             "position": "167",
             "rotated": false,
-            "notes": ""
+            "notes": "WC11"
         },
         {
-            "card_name": "CC8\u2014Khvostov 7G-02",
+            "card_name": "Khvostov 7G-02",
             "color": "",
             "rarity": "common",
             "type": "Artifact \u2014 Equipment",
-            "number": 303,
+            "number": 321,
             "color_identity": "C",
             "cost": "{0}",
             "rules_text": "Equipped creature gets +1/+0\nEquip {1}",
@@ -1706,17 +1706,17 @@
             "alias": "",
             "position": "168",
             "rotated": false,
-            "notes": ""
+            "notes": "CC8"
         },
         {
-            "card_name": "WC7\u2014Queen's Corsairs",
+            "card_name": "Queen's Corsairs",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2014 Awoken Soldier",
-            "number": 11,
+            "number": 17,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "When WC7\u2014Queen's Corsairs attacks, target legendary creature you control gains first strike until end of turn.",
+            "rules_text": "When Queen's Corsairs attacks, target legendary creature you control gains first strike until end of turn.",
             "flavor_text": "[i]\u201cWe are only briefly Awoken. The rest of existence is an eternal dream.\u201d\n\u2014Sedia, Reef Techeun[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -1727,17 +1727,17 @@
             "alias": "",
             "position": "169",
             "rotated": false,
-            "notes": ""
+            "notes": "WC7"
         },
         {
-            "card_name": "BC13\u2014Subjugator of Truth",
+            "card_name": "Subjugator of Truth",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Darkness",
-            "number": 117,
+            "number": 150,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "When BC13\u2014Subjugator of Truth enters, it deals 2 damage to target tapped creature you don't control. Each player mills two cards, then you exile a card from each opponent's graveyard.",
+            "rules_text": "When Subjugator of Truth enters, it deals 2 damage to target tapped creature you don't control. Each player mills two cards, then you exile a card from each opponent's graveyard.",
             "flavor_text": "[i]\u201cWith tools of subjugation, you shall teach them. Until all Light bends toward the finality of our horizon.\u201d\n\u2014The Witness[/i]",
             "pt": "4/2",
             "special_text": "",
@@ -1748,17 +1748,17 @@
             "alias": "",
             "position": "170",
             "rotated": false,
-            "notes": "When BC13\u2014Subjugator of Truth enters, put two stun counters on target creature. Each player mills two cards, then exile a card from each opponent's graveyard."
+            "notes": "BC13\n\nWhen BC13\u2014Subjugator of Truth enters, put two stun counters on target creature. Each player mills two cards, then exile a card from each opponent's graveyard."
         },
         {
-            "card_name": "GC10\u2014Subjugator of Gardens",
+            "card_name": "Subjugator of Gardens",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Darkness",
-            "number": 213,
+            "number": 246,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "When GC10\u2014Subjugator of Gardens enters, you may choose one\u2014\n\u2022 Destroy target artifact.\n\u2022 Destroy target creature with flying and all equipment attached to it.",
+            "rules_text": "When Subjugator of Gardens enters, you may choose one\u2014\n\u2022 Destroy target artifact.\n\u2022 Destroy target creature with flying and all equipment attached to it.",
             "flavor_text": "[i][/i]",
             "pt": "2/5",
             "special_text": "",
@@ -1769,14 +1769,14 @@
             "alias": "",
             "position": "171",
             "rotated": false,
-            "notes": ""
+            "notes": "GC10"
         },
         {
-            "card_name": "WC14\u2014Time's Vengeance",
+            "card_name": "Time's Vengeance",
             "color": "W",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 18,
+            "number": 27,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
             "rules_text": "Creatures you control get +2/+1 and are legendary until end of turn.\nThe \u201clegend rule\u201d doesn't apply to creatures you control until end of turn.",
@@ -1790,17 +1790,17 @@
             "alias": "",
             "position": "172",
             "rotated": false,
-            "notes": ""
+            "notes": "WC14"
         },
         {
-            "card_name": "WC21\u2014Centurion of the Coalition",
+            "card_name": "Centurion of the Coalition",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2014 Cabal Soldier",
-            "number": 25,
+            "number": 8,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "When WC21\u2014Centurion of the Coalition enters, put a +1/+1 counter on each other creature you control.",
+            "rules_text": "When Centurion of the Coalition enters, put a +1/+1 counter on each other creature you control.",
             "flavor_text": "[i]\u201cCabal officers don't lead from the rear. You'll find they are among the fiercest fighters in the Empire's ranks.\u201d\n\u2014Commander Zavala[/i]",
             "pt": "2/5",
             "special_text": "",
@@ -1811,14 +1811,14 @@
             "alias": "",
             "position": "174",
             "rotated": false,
-            "notes": "creature tokens you control get a bonus?"
+            "notes": "WC21\n\ncreature tokens you control get a bonus?"
         },
         {
-            "card_name": "GC7\u2014Music of the Spheres",
+            "card_name": "Music of the Spheres",
             "color": "G",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 210,
+            "number": 241,
             "color_identity": "G",
             "cost": "{2}{G}",
             "rules_text": "Search your library for a basic land or Planet card, reveal it, and put it into your hand. Then shuffle.",
@@ -1832,17 +1832,17 @@
             "alias": "",
             "position": "175",
             "rotated": false,
-            "notes": "Put four charge counters on target Planet you control."
+            "notes": "GC7\n\nPut four charge counters on target Planet you control."
         },
         {
-            "card_name": "GC11\u2014Swordbearer",
+            "card_name": "Swordbearer",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Hive Knight",
-            "number": 214,
+            "number": 247,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "When GC11\u2014Swordbearer enters, if it was cast according to Sword Logic, you may attach up to one equipment you control to it.\nSword Logic\u2014{3}{G}{G}, Exile a creature card from your graveyard. [i](You may cast this spell from your graveyard for its Sword Logic cost if a creature you don't control died this turn.)[/i]",
+            "rules_text": "When Swordbearer enters, if it was cast according to Sword Logic, you may attach up to one equipment you control to it.\nSword Logic\u2014{3}{G}{G}, Exile a creature card from your graveyard. [i](You may cast this spell from your graveyard for its Sword Logic cost if a creature you don't control died this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -1853,14 +1853,14 @@
             "alias": "",
             "position": "176",
             "rotated": false,
-            "notes": "target creature you control becomes legendary until end of turn, and you may attach an equipment you control to it.\n\n<CARDNAME> has indestructible as long as it attacked a battle this turn.\n\n\u201cThis is the world the Hive craves: a universe creased by the edge of the sharpest sword.\u201d\n\u2014Toland, the Shattered"
+            "notes": "GC11\n\ntarget creature you control becomes legendary until end of turn, and you may attach an equipment you control to it.\n\n<CARDNAME> has indestructible as long as it attacked a battle this turn.\n\n\u201cThis is the world the Hive craves: a universe creased by the edge of the sharpest sword.\u201d\n\u2014Toland, the Shattered"
         },
         {
-            "card_name": "UC2\u2014Archon of Wolves",
+            "card_name": "Archon of Wolves",
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2014 Eliksni Archon",
-            "number": 56,
+            "number": 55,
             "color_identity": "U",
             "cost": "{5}{U}",
             "rules_text": "When Archon of Wolves enters, target Eliksni creature you control can't be blocked this turn.",
@@ -1874,14 +1874,14 @@
             "alias": "",
             "position": "177",
             "rotated": false,
-            "notes": ""
+            "notes": "UC2"
         },
         {
-            "card_name": "CC10\u2014Rat King",
+            "card_name": "Rat King",
             "color": "",
             "rarity": "common",
             "type": "Artifact \u2014 Equipment",
-            "number": 305,
+            "number": 325,
             "color_identity": "C",
             "cost": "{1}",
             "rules_text": "Equipped creature is legendary and gets +1/+0 for each other equipment attached to creatures you control.\nA deck can have any number of cards named Rat King.\nEquip {1}",
@@ -1895,14 +1895,14 @@
             "alias": "",
             "position": "178",
             "rotated": false,
-            "notes": ""
+            "notes": "CC10"
         },
         {
-            "card_name": "RC3\u2014Dregs of Dusk",
+            "card_name": "Dregs of Dusk",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Eliksni",
-            "number": 156,
+            "number": 157,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "Haste\nWhen Dregs of Dusk dies, create an Engram token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this token: Draw a card, then discard a card.\u201d)[/i]",
@@ -1916,14 +1916,14 @@
             "alias": "",
             "position": "179",
             "rotated": false,
-            "notes": ""
+            "notes": "RC3"
         },
         {
-            "card_name": "RC09\u2014~Replicate~",
+            "card_name": "~Replicate~",
             "color": "R",
             "rarity": "common",
             "type": "Instant",
-            "number": 162,
+            "number": 202,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "Create a SIVA Nanite token, then create an additional one for each nontoken artifact you control. [i](They're equipment artifacts with \u201cEquipped creature gets +1/+0\u201d and equip {1})[/i]",
@@ -1937,14 +1937,14 @@
             "alias": "",
             "position": "180",
             "rotated": false,
-            "notes": "for each artifact card in your graveyard?"
+            "notes": "RC9\n\nfor each artifact card in your graveyard?"
         },
         {
-            "card_name": "RC19\u2014Unstable Incendior",
+            "card_name": "Unstable Incendior",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Cabal Warrior",
-            "number": 172,
+            "number": 199,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "{1}{R}: Unstable Incendior gets +1/+0 until end of turn.\nWhen Unstable Incendior dies, it deals damage equal to its power to target creature you don't control.",
@@ -1958,14 +1958,14 @@
             "alias": "",
             "position": "182",
             "rotated": false,
-            "notes": ""
+            "notes": "RC19"
         },
         {
-            "card_name": "BC3\u2014Fanatic's Summons",
+            "card_name": "Fanatic's Summons",
             "color": "B",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 107,
+            "number": 135,
             "color_identity": "B",
             "cost": "{1}{B}",
             "rules_text": "Create two Stalkers, 1/1 black Eliksni Zombie creature tokens\nSword Logic\u2014{2}{B}, Exile a creature card from your graveyard. [i](You may cast this spell from your graveyard for its Sword Logic cost if a creature you don't control died this turn.)[/i]",
@@ -1979,14 +1979,14 @@
             "alias": "",
             "position": "184",
             "rotated": false,
-            "notes": ""
+            "notes": "BC3"
         },
         {
-            "card_name": "CC7\u2014Insurrection Prime",
+            "card_name": "Insurrection Prime",
             "color": "",
             "rarity": "common",
             "type": "Artifact \u2014 Vehicle",
-            "number": 302,
+            "number": 320,
             "color_identity": "C",
             "cost": "{5}",
             "rules_text": "When this vehicle dies, create two Engram tokens. [i](They're artifacts with \u201c{1}, {T}, Sacrifice this token: Draw a card, then discard a card.\u201d)[/i]\nCrew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
@@ -2000,14 +2000,14 @@
             "alias": "",
             "position": "185",
             "rotated": false,
-            "notes": ""
+            "notes": "CC7"
         },
         {
-            "card_name": "WC9\u2014Shaxx's Redjacks",
+            "card_name": "Shaxx's Redjacks",
             "color": "W",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Robot",
-            "number": 13,
+            "number": 22,
             "color_identity": "W",
             "cost": "{2}{W}",
             "rules_text": "At the beginning of combat on your turn, you may pay {1}. If you do, attach target equipment you control to target legendary creature you control.",
@@ -2021,14 +2021,14 @@
             "alias": "",
             "position": "190",
             "rotated": false,
-            "notes": "T: Attach target equipment you control to target legendary creature you control."
+            "notes": "WC9\n\nT: Attach target equipment you control to target legendary creature you control."
         },
         {
-            "card_name": "GC2\u2014Devouring Light",
+            "card_name": "Devouring Light",
             "color": "G",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 205,
+            "number": 206,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "You gain 3 life. Then you may exile a card from any graveyard. If you do, put a +1/+1 counter on up to one target creature.\nSword Logic\u2014{2}{G}, Exile a creature card from your graveyard. [i](You may cast this spell from your graveyard for its Sword Logic cost if a creature you don't control died this turn.)[/i]",
@@ -2042,17 +2042,17 @@
             "alias": "",
             "position": "194",
             "rotated": false,
-            "notes": "You gain 3 life. Then you may exile a card from any graveyard. If you do, put a +1/+1 counter on up to one target creature."
+            "notes": "GC2\n\nYou gain 3 life. Then you may exile a card from any graveyard. If you do, put a +1/+1 counter on up to one target creature."
         },
         {
-            "card_name": "GC12\u2014Wormgod Larva",
+            "card_name": "Wormgod Larva",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Worm",
-            "number": 215,
+            "number": 251,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "At the beginning of combat on your turn, target creature becomes legendary and gains trample until end of turn.\nThe first time a creature you don't control dies each turn, put a +1/+1 counter on GC12\u2014Wormgod Larva.",
+            "rules_text": "At the beginning of combat on your turn, target creature becomes legendary and gains trample until end of turn.\nThe first time a creature you don't control dies each turn, put a +1/+1 counter on Wormgod Larva.",
             "flavor_text": "[i][/i]",
             "pt": "0/1",
             "special_text": "",
@@ -2063,17 +2063,17 @@
             "alias": "",
             "position": "195",
             "rotated": false,
-            "notes": "Whenever a legendary creature dies, put a +1/+1 counter on Wormgod Larva.\n\nWhenever one or more cards are put into exile on your turn, put a +1/+1 counter on Wormgod Larva."
+            "notes": "GC12\n\nWhenever a legendary creature dies, put a +1/+1 counter on Wormgod Larva.\n\nWhenever one or more cards are put into exile on your turn, put a +1/+1 counter on Wormgod Larva."
         },
         {
-            "card_name": "GC4\u2014Explicator of Planets",
+            "card_name": "Explicator of Planets",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Darkness Cabal",
-            "number": 207,
+            "number": 211,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "When GC4\u2014Explicator of Planets enters, mill four cards, then choose a land card from among them. If it's a Planet, put it onto the battlefield tapped. Otherwise, put it into your hand.",
+            "rules_text": "When Explicator of Planets enters, mill four cards, then choose a land card from among them. If it's a Planet, put it onto the battlefield tapped. Otherwise, put it into your hand.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2084,14 +2084,14 @@
             "alias": "",
             "position": "198",
             "rotated": false,
-            "notes": "Planets you control enter with two additional charge counters on them."
+            "notes": "GC4\n\nPlanets you control enter with two additional charge counters on them."
         },
         {
-            "card_name": "BC11\u2014Silence & Squall",
+            "card_name": "Silence & Squall",
             "color": "B",
             "rarity": "common",
             "type": "Instant",
-            "number": 115,
+            "number": 148,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Put three stun counters divided as you choose on up to three target creatures. Then destroy those creatures if there are three or more stun counters on them.",
@@ -2105,14 +2105,14 @@
             "alias": "",
             "position": "202",
             "rotated": false,
-            "notes": ""
+            "notes": "BC11"
         },
         {
-            "card_name": "RC23\u2014Screeb",
+            "card_name": "Screeb",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Eliksni Zombie",
-            "number": 176,
+            "number": 193,
             "color_identity": "R",
             "cost": "{1}{R}",
             "rules_text": "When Screeb dies, it deals 1 damage to any target.\n{1}{R}, {T}, Sacrifice Screeb: Destroy target artifact.",
@@ -2126,14 +2126,14 @@
             "alias": "",
             "position": "204",
             "rotated": false,
-            "notes": ""
+            "notes": "RC23"
         },
         {
-            "card_name": "RC25\u2014Honored Gladiator",
+            "card_name": "Honored Gladiator",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Cabal Warrior",
-            "number": 178,
+            "number": 162,
             "color_identity": "R",
             "cost": "{3}{R}",
             "rules_text": "Double strike\nWhen Honored Gladiator enters, target legendary or Cabal creature you control gains double strike until end of turn.",
@@ -2147,17 +2147,17 @@
             "alias": "",
             "position": "205",
             "rotated": false,
-            "notes": ""
+            "notes": "RC25"
         },
         {
-            "card_name": "UC22\u2014Axis Harpies",
+            "card_name": "Axis Harpies",
             "color": "U",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Vex Robot",
-            "number": 76,
+            "number": 56,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Flying\nWhen Axis Harpies enters, create an Engram token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this token: Draw a card, then discard a card.\u201d)[/i]",
+            "rules_text": "Flying\nWhen Axis Harpies enters, each player mills two cards.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2168,14 +2168,14 @@
             "alias": "",
             "position": "206",
             "rotated": false,
-            "notes": ""
+            "notes": "UC22\n\nWhen Axis Harpies enters, create an Engram token. (It's an artifact with \u201c1, T, Sacrifice this token: Draw a card, then discard a card.\u201d)"
         },
         {
-            "card_name": "WC3\u2014Fell the Monstrous",
+            "card_name": "Fell the Monstrous",
             "color": "W",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 7,
+            "number": 9,
             "color_identity": "W",
             "cost": "{3}{W}",
             "rules_text": "Destroy target creature with power 5 or greater. Create an Engram token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this token: Draw a card, then discard a card.\u201d)[/i]",
@@ -2189,14 +2189,14 @@
             "alias": "",
             "position": "207",
             "rotated": false,
-            "notes": ""
+            "notes": "WC3"
         },
         {
-            "card_name": "BC7\u2014Invoke Deepsight",
+            "card_name": "Invoke Deepsight",
             "color": "B",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 111,
+            "number": 140,
             "color_identity": "B",
             "cost": "{2}{B}",
             "rules_text": "Look at the top four cards of your library. Put two of them into your hand and the rest in your graveyard. You lose 2 life.",
@@ -2210,14 +2210,14 @@
             "alias": "",
             "position": "209",
             "rotated": false,
-            "notes": "Sword Logic\u20144B, Exile two creature cards from your graveyard. (You may cast this spell from your graveyard for its Sword Logic cost if a creature you don't control died this turn.)"
+            "notes": "BC7\n\nSword Logic\u20144B, Exile two creature cards from your graveyard. (You may cast this spell from your graveyard for its Sword Logic cost if a creature you don't control died this turn.)"
         },
         {
-            "card_name": "UC6\u2014Commodore Brig",
+            "card_name": "Commodore Brig",
             "color": "U",
             "rarity": "common",
             "type": "Artifact \u2014 Vehicle",
-            "number": 60,
+            "number": 59,
             "color_identity": "U",
             "cost": "{8}{U}",
             "rules_text": "Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]\nCrew 4 [i](Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
@@ -2231,20 +2231,20 @@
             "alias": "",
             "position": "212",
             "rotated": false,
-            "notes": "When Commodore Brig enters, put a +1/+1 counter on each artifact creature you control.\n\nArtifact creatues you control get +1/+1"
+            "notes": "UC6\n\nWhen Commodore Brig enters, put a +1/+1 counter on each artifact creature you control.\n\nArtifact creatues you control get +1/+1"
         },
         {
-            "card_name": "UC15\u2014Old Crew's Ketch",
+            "card_name": "Old Crew's Ketch",
             "color": "U",
             "rarity": "common",
             "type": "Artifact \u2014 Spacecraft",
-            "number": 69,
+            "number": 67,
             "color_identity": "U",
             "cost": "{3}{U}",
-            "rules_text": "When Old Crew's Ketch enters, create an Engram token and a treasure token. [i](Engrams are artifacts with \u201c{1}, {T}, Sacrifice this token: Draw a card, then discard a card.\u201d)[/i]\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[level 8+] Flying\nWhen Old Crew's Ketch attacks, create an engram token and a treasure token. [4/4]",
+            "rules_text": "When Old Crew's Ketch enters, create an Engram token and a treasure token. [i](Engrams are artifacts with \u201c{1}, {T}, Sacrifice this token: Draw a card, then discard a card.\u201d)[/i]\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)[/i]\n[level 8+] Flying\nWhen Old Crew's Ketch attacks, create an engram token and a treasure token. [4/4]",
             "flavor_text": "[i][/i]",
             "pt": "",
-            "special_text": "When Old Crew's Ketch enters, create an Engram token and a treasure token. [i](Engrams are artifacts with \u201c{1}, {T}, Sacrifice this token: Draw a card, then discard a card.\u201d)[/i]\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]\n[level 8+] Flying\nWhen Old Crew's Ketch attacks, create an engram token and a treasure token. [4/4]",
+            "special_text": "When Old Crew's Ketch enters, create an Engram token and a treasure token. [i](Engrams are artifacts with \u201c{1}, {T}, Sacrifice this token: Draw a card, then discard a card.\u201d)[/i]\nStation [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)[/i]\n[level 8+] Flying\nWhen Old Crew's Ketch attacks, create an engram token and a treasure token. [4/4]",
             "shape": "leveler",
             "set": "DSY",
             "loyalty": "",
@@ -2252,17 +2252,17 @@
             "alias": "",
             "position": "213",
             "rotated": false,
-            "notes": ""
+            "notes": "UC15"
         },
         {
-            "card_name": "GC15\u2014Divisive Gate Lord",
+            "card_name": "Divisive Gate Lord",
             "color": "G",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Vex Robot",
-            "number": 218,
+            "number": 207,
             "color_identity": "G",
             "cost": "{5}{G}",
-            "rules_text": "As long as there are five or more cards in exile, you may cast GC15\u2014Divisive Gate Lord as though it had flash.\nTrample",
+            "rules_text": "As long as there are five or more cards in exile, you may cast Divisive Gate Lord as though it had flash.\nTrample",
             "flavor_text": "[i][/i]",
             "pt": "6/6",
             "special_text": "",
@@ -2273,7 +2273,7 @@
             "alias": "",
             "position": "215",
             "rotated": false,
-            "notes": ""
+            "notes": "GC15"
         },
         {
             "card_name": "Lost Sector",
@@ -2297,14 +2297,14 @@
             "notes": ""
         },
         {
-            "card_name": "WC13\u2014Surge of Light",
+            "card_name": "Surge of Light",
             "color": "W",
             "rarity": "common",
             "type": "Instant",
-            "number": 17,
+            "number": 26,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Target creature gets +3/+0 until end of turn. Prevent all combat damage that would be dealt to it this turn.",
+            "rules_text": "Target creature gets +3/+0 and becomes legendary until end of turn. Prevent all combat damage that would be dealt to it this turn.",
             "flavor_text": "[i]\u201cDo you feel it? The Light is back! We're back!\u201d\n\u2014Ghost[/i]",
             "pt": "",
             "special_text": "",
@@ -2315,14 +2315,14 @@
             "alias": "",
             "position": "218",
             "rotated": false,
-            "notes": ""
+            "notes": "WC13"
         },
         {
-            "card_name": "RC11\u2014Remnant of the Iron Lords",
+            "card_name": "Remnant of the Iron Lords",
             "color": "R",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Human Horror",
-            "number": 164,
+            "number": 165,
             "color_identity": "R",
             "cost": "{4}{R}{R}",
             "rules_text": "Remnant of the Iron Lords attacks each turn if able.\nWhen Remnant of the Iron Lords enters, create three SIVA Nanite tokens.",
@@ -2336,14 +2336,14 @@
             "alias": "",
             "position": "219",
             "rotated": false,
-            "notes": ""
+            "notes": "RC11"
         },
         {
-            "card_name": "UC23\u2014Seven Seraphs",
+            "card_name": "Seven Seraphs",
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2014 Human",
-            "number": 77,
+            "number": 73,
             "color_identity": "U",
             "cost": "{5}{U}{U}",
             "rules_text": "Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]\nWhen Seven Seraphs enters, attach target equipment you control to it.",
@@ -2357,14 +2357,14 @@
             "alias": "",
             "position": "221",
             "rotated": false,
-            "notes": "Exomind Rejection?"
+            "notes": "UC23"
         },
         {
-            "card_name": "UC3\u2014Neomuni Archivist",
+            "card_name": "Neomuni Archivist",
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2014 Human",
-            "number": 57,
+            "number": 65,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "When Neomuni Archivist enters, if you control a legendary creature, create an Engram token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this token: Draw a card, then discard a card.\u201d)[/i]\n{T}: Add {U}. Spend this mana only to cast an artifact or legendary spell.",
@@ -2378,14 +2378,14 @@
             "alias": "",
             "position": "222",
             "rotated": false,
-            "notes": "3U, T: Untap target legendary creature you control.\n\nAs long as you control a legendary creature, Neomuni Archivist can't be blocked.\n\n\u201cWe've got historical texts both pre- and post-Exodus Indigo, all of the publicly released research papers from the Ishtar Collective\u2026 and maybe a few unpublished ones.\u201d\n\u2014Quinn Laghari, Chief Archivist"
+            "notes": "UC3\n\n3U, T: Untap target legendary creature you control.\n\nAs long as you control a legendary creature, Neomuni Archivist can't be blocked.\n\n\u201cWe've got historical texts both pre- and post-Exodus Indigo, all of the publicly released research papers from the Ishtar Collective\u2026 and maybe a few unpublished ones.\u201d\n\u2014Quinn Laghari, Chief Archivist"
         },
         {
-            "card_name": "UC16\u2014Prohibitive Hobgoblin",
+            "card_name": "Prohibitive Hobgoblin",
             "color": "U",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Vex Robot",
-            "number": 70,
+            "number": 68,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "When Prohibitive Hobgoblin enters, target creature gets -4/-0 until end of turn.\n{4}{U}, Exile Prohibitive Hobgoblin from your graveyard: Simulate this card. Activate only as a sorcery. [i](Create a nonlegendary token copy of it.)[/i]",
@@ -2399,14 +2399,14 @@
             "alias": "",
             "position": "225",
             "rotated": false,
-            "notes": "Simulate 3\u2014U (You may pay U and exile this card from your hand or graveyard with 3 time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, you may cast it without paying its mana cost. It has haste.)"
+            "notes": "UC16\n\nSimulate 3\u2014U (You may pay U and exile this card from your hand or graveyard with 3 time counters on it. At the beginning of your upkeep, remove a time counter from it. When the last is removed, you may cast it without paying its mana cost. It has haste.)"
         },
         {
-            "card_name": "UC1\u2014Vex Assimilation",
+            "card_name": "Vex Assimilation",
             "color": "U",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 55,
+            "number": 101,
             "color_identity": "U",
             "cost": "{U}",
             "rules_text": "Until end of turn, target creature becomes a blue Vex Robot artifact creature with base power 2/2, loses all abilities, and gains flying.",
@@ -2420,17 +2420,17 @@
             "alias": "",
             "position": "226",
             "rotated": false,
-            "notes": ""
+            "notes": "UC1"
         },
         {
-            "card_name": "WC5\u2014Pilgrim Guard Sentinel",
+            "card_name": "Pilgrim Guard Sentinel",
             "color": "W",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Human Robot Titan",
-            "number": 9,
+            "number": 15,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Defender\nWC5\u2014Pilgrim Guard Sentinel can attack as though it didn't have defender as long as your devotion to white is five or greater. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i]",
+            "rules_text": "Defender\nPilgrim Guard Sentinel can attack as though it didn't have defender as long as your devotion to white is five or greater. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i]",
             "flavor_text": "[i]To those behind the Wall, love and service. To those outside it, fury and fire.[/i]",
             "pt": "2/4",
             "special_text": "",
@@ -2441,14 +2441,14 @@
             "alias": "",
             "position": "234",
             "rotated": false,
-            "notes": ""
+            "notes": "WC5"
         },
         {
-            "card_name": "BC12\u2014Soulfire Infusion",
+            "card_name": "Soulfire Infusion",
             "color": "B",
             "rarity": "common",
             "type": "Enchantment \u2014 Aura",
-            "number": 116,
+            "number": 149,
             "color_identity": "B",
             "cost": "{B}",
             "rules_text": "Enchanted creature gets +2/-1.\nWhen enchanted creature dies, each opponent loses 2 life.\nSword Logic\u2014{2}{B}, Exile a creature card from your graveyard. [i](You may cast this spell from your graveyard for its Sword Logic cost if a creature you don't control died this turn.)[/i]",
@@ -2462,17 +2462,17 @@
             "alias": "",
             "position": "235",
             "rotated": false,
-            "notes": ""
+            "notes": "BC12"
         },
         {
-            "card_name": "WC12\u2014Sunsinger",
+            "card_name": "Sunsinger",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2014 Human Warlock",
-            "number": 16,
+            "number": 25,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Whenever you cast an instant, sorcery, or Aura spell, you gain 2 life and WC12\u2014Sunsinger gets +1/+1 until end of turn.",
+            "rules_text": "Whenever you cast an instant, sorcery, or Aura spell, you gain 2 life and Sunsinger gets +1/+1 until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -2483,14 +2483,14 @@
             "alias": "",
             "position": "236",
             "rotated": false,
-            "notes": ""
+            "notes": "WC12"
         },
         {
-            "card_name": "WC2\u2014Shattered Memories",
+            "card_name": "Shattered Memories",
             "color": "W",
             "rarity": "common",
             "type": "Instant",
-            "number": 6,
+            "number": 21,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Destroy target noncreature artifact or enchantment. You gain life equal to your devotion to white. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i]",
@@ -2504,14 +2504,14 @@
             "alias": "",
             "position": "237",
             "rotated": false,
-            "notes": "Then if your devotion to white is five or greater, draw a card.\n\nYou gain life equal to your devotion to white."
+            "notes": "WC2\n\nThen if your devotion to white is five or greater, draw a card.\n\nYou gain life equal to your devotion to white."
         },
         {
-            "card_name": "UC10\u2014Ether Servitor",
+            "card_name": "Ether Servitor",
             "color": "U",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Eliksni Robot",
-            "number": 64,
+            "number": 61,
             "color_identity": "U",
             "cost": "{2}{U}",
             "rules_text": "Flying, Defender\n{1}{U}, {T}: Put a +1/+1 counter on each other Eliksni and/or Robot creature you control.",
@@ -2525,17 +2525,17 @@
             "alias": "",
             "position": "239",
             "rotated": false,
-            "notes": ""
+            "notes": "UC10"
         },
         {
-            "card_name": "GC8\u2014Quantum Hydra",
+            "card_name": "Quantum Hydra",
             "color": "G",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Vex Robot",
-            "number": 211,
+            "number": 243,
             "color_identity": "G",
             "cost": "{X}{G}{G}",
-            "rules_text": "Ward {2}\nGC8\u2014Quantum Hydra enters with X +1/+1 counters on it.",
+            "rules_text": "Ward {2}\nQuantum Hydra enters with X +1/+1 counters on it.",
             "flavor_text": "[i]\u201cOur shots dissolved in the translucent matrix around it, useless.\u201d\n\u2014Unknown guardian[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2546,10 +2546,10 @@
             "alias": "",
             "position": "241",
             "rotated": false,
-            "notes": ""
+            "notes": "GC8"
         },
         {
-            "card_name": "RC2\u2014Daring Gunslinger",
+            "card_name": "Daring Gunslinger",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Human Hunter",
@@ -2567,14 +2567,14 @@
             "alias": "",
             "position": "242",
             "rotated": false,
-            "notes": ""
+            "notes": "RC2"
         },
         {
-            "card_name": "WC1\u2014Forces of the City",
+            "card_name": "Forces of the City",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2014 Human",
-            "number": 5,
+            "number": 10,
             "color_identity": "W",
             "cost": "{1}{W}{W}",
             "rules_text": "{W}, {T}: Create a City Militia, a 1/1 white human creature token. Activate only if your devotion to white is five or greater. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i]",
@@ -2588,17 +2588,17 @@
             "alias": "",
             "position": "245",
             "rotated": false,
-            "notes": ""
+            "notes": "WC!"
         },
         {
-            "card_name": "WC16\u2014Arcstrider",
+            "card_name": "Arcstrider",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2014 Awoken Hunter",
-            "number": 20,
+            "number": 6,
             "color_identity": "W",
-            "cost": "{2}{W}",
-            "rules_text": "[i]Flow State \u2014 [/i]WC16\u2014Arcstrider has double strike as long as your devotion to white is five or greater. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i]",
+            "cost": "{1}{W}{W}",
+            "rules_text": "[i]Flow State \u2014 [/i]Arcstrider has double strike as long as your devotion to white is five or greater. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/3",
             "special_text": "",
@@ -2609,17 +2609,17 @@
             "alias": "",
             "position": "246",
             "rotated": false,
-            "notes": ""
+            "notes": "WC16"
         },
         {
-            "card_name": "WC17\u2014Hidden Agents",
+            "card_name": "Hidden Agents",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2014 Human",
-            "number": 21,
+            "number": 12,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "When WC17\u2014Hidden Agents enters, create an engram token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this token: Draw a card, then discard a card.\u201d)[/i]\n{1}, {T}, Sacrifice WC17\u2014Hidden Agents: Surveil X, where X is 1 plus your devotion to white. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i]",
+            "rules_text": "When Hidden Agents enters, create an engram token. [i](It's an artifact with \u201c{1}, {T}, Sacrifice this token: Draw a card, then discard a card.\u201d)[/i]\n{1}, {T}, Sacrifice Hidden Agents: Surveil X, where X is 1 plus your devotion to white. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -2630,17 +2630,17 @@
             "alias": "",
             "position": "247",
             "rotated": false,
-            "notes": ""
+            "notes": "WC17"
         },
         {
-            "card_name": "WC25\u2014Wings of Sacred Dawn",
+            "card_name": "Wings of Sacred Dawn",
             "color": "W",
             "rarity": "common",
-            "type": "Artifact \u2014 Equipment",
+            "type": "Legendary Artifact \u2014 Equipment",
             "number": 29,
             "color_identity": "W",
-            "cost": "{1}{W}",
-            "rules_text": "Whenever you cast your second spell each turn, you may attach WC25\u2014Wings of Sacred Dawn to target creature you control.\nEquipped creature has flying and \u201cWhen this creature attacks, you gain 1 life.\u201d\nEquip {1}{W}",
+            "cost": "{W}{W}",
+            "rules_text": "Whenever you cast your second spell each turn, you may attach Wings of Sacred Dawn to target creature you control.\nEquipped creature has flying, \u201cWhen this creature attacks, you gain 1 life,\u201d and is legendary\nEquip {1}{W}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2651,17 +2651,17 @@
             "alias": "",
             "position": "248",
             "rotated": false,
-            "notes": ""
+            "notes": "WC25"
         },
         {
-            "card_name": "WC19\u2014Arcadia-Class Jumpship",
+            "card_name": "Arcadia-Class Jumpship",
             "color": "W",
             "rarity": "common",
             "type": "Artifact \u2014 Vehicle",
-            "number": 23,
+            "number": 5,
             "color_identity": "W",
             "cost": "{1}{W}",
-            "rules_text": "Flying\nWhen WC19\u2014Arcadia-Class Jumpship enters, search your library for a plains or Planet card, reveal it, and put it into your hand. Then shuffle.\nCrew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
+            "rules_text": "Flying\nWhen Arcadia-Class Jumpship enters, search your library for a plains or Planet card, reveal it, and put it into your hand. Then shuffle.\nCrew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2672,14 +2672,14 @@
             "alias": "",
             "position": "249",
             "rotated": false,
-            "notes": ""
+            "notes": "WC19"
         },
         {
-            "card_name": "WC20\u2014Rally Barricade",
+            "card_name": "Rally Barricade",
             "color": "W",
             "rarity": "common",
             "type": "Instant",
-            "number": 24,
+            "number": 20,
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Create a Barricade, a 1/4 white Wall creature token with Defender.\nUntap up to one target creature.",
@@ -2693,14 +2693,14 @@
             "alias": "",
             "position": "250",
             "rotated": false,
-            "notes": ""
+            "notes": "WC20"
         },
         {
-            "card_name": "WC22\u2014Lucent Fireteam",
+            "card_name": "Lucent Fireteam",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2014 Hive Cleric Knight Wizard",
-            "number": 26,
+            "number": 14,
             "color_identity": "W",
             "cost": "{3}{W}{W}",
             "rules_text": "Trample, lifelink, ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]",
@@ -2714,14 +2714,14 @@
             "alias": "",
             "position": "252",
             "rotated": false,
-            "notes": ""
+            "notes": "WC22"
         },
         {
-            "card_name": "WC23\u2014Imperial Conscription",
+            "card_name": "Imperial Conscription",
             "color": "W",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 27,
+            "number": 13,
             "color_identity": "W",
             "cost": "{3}{W}",
             "rules_text": "Create two Imperial Legionaries, 2/2 white Cabal Soldier creature tokens with Vigilance.",
@@ -2735,17 +2735,17 @@
             "alias": "",
             "position": "253",
             "rotated": false,
-            "notes": ""
+            "notes": "WC23"
         },
         {
-            "card_name": "WC24\u2014Caiatl's Chosen",
+            "card_name": "Caiatl's Chosen",
             "color": "W",
             "rarity": "common",
             "type": "Creature \u2014 Cabal Soldier",
-            "number": 28,
+            "number": 7,
             "color_identity": "W",
-            "cost": "{4}{W}",
-            "rules_text": "Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]\nSpells and abilities you control that target WC24\u2014Caiatl's Chosen cost {2} less.",
+            "cost": "{3}{W}{W}",
+            "rules_text": "Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]\nSpells and abilities you control that target Caiatl's Chosen cost {2} less.",
             "flavor_text": "[i]\u201cMy warriors do not die easily. They fight because I gave them their freedom.\u201d\n\u2014Caiatl, Cabal Empress[/i]",
             "pt": "5/6",
             "special_text": "",
@@ -2756,14 +2756,14 @@
             "alias": "",
             "position": "254",
             "rotated": false,
-            "notes": ""
+            "notes": "WC24"
         },
         {
-            "card_name": "CC15\u2014Sweeper Bot",
+            "card_name": "Sweeper Bot",
             "color": "",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Robot",
-            "number": 310,
+            "number": 330,
             "color_identity": "C",
             "cost": "{1}",
             "rules_text": "{1}, {T}: Exile a card from target graveyard.",
@@ -2777,14 +2777,14 @@
             "alias": "",
             "position": "261",
             "rotated": false,
-            "notes": ""
+            "notes": "CC15"
         },
         {
-            "card_name": "UC24\u2014Gensym Knight",
+            "card_name": "Gensym Knight",
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2014 Awoken Titan",
-            "number": 78,
+            "number": 62,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Whenever you draw your second card each turn, put a +1/+1 counter on Gensym Knight. It gains vigilance until end of turn.",
@@ -2798,17 +2798,17 @@
             "alias": "",
             "position": "262",
             "rotated": false,
-            "notes": ""
+            "notes": "UC24"
         },
         {
-            "card_name": "UC25\u2014Trapped in Time",
+            "card_name": "Trapped in Time",
             "color": "U",
             "rarity": "common",
             "type": "Enchantment \u2014 Aura",
-            "number": 79,
+            "number": 76,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Enchant creature\nEnchanted creature gets -2/-0. It gets -5/-0 instead if there are five or more cards in exile.",
+            "rules_text": "Enchant creature\nWhen Trapped in Time enters, each player mills two cards.\nEnchanted creature gets -2/-0.",
             "flavor_text": "[i]\u201cSomeone there? Listen, don't ask me how this happened\u2014I don't have time to explain what I don't have time to understand.\u201d\n\u2014Cayde-6, Hunter Vanguard[/i]",
             "pt": "",
             "special_text": "",
@@ -2819,17 +2819,17 @@
             "alias": "",
             "position": "263",
             "rotated": false,
-            "notes": ""
+            "notes": "UC25\n\nIt gets -5/-0 instead if there are five or more cards in exile."
         },
         {
-            "card_name": "WC18\u2014Racing Sparrow",
+            "card_name": "Racing Sparrow",
             "color": "W",
             "rarity": "common",
             "type": "Artifact \u2014 Vehicle",
-            "number": 22,
+            "number": 18,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "When a human or awoken enter under your control, WC18\u2014Racing Sparrow becomes a creature until end of turn.\nCrew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
+            "rules_text": "When a human or awoken enter under your control, Racing Sparrow becomes a creature until end of turn.\nCrew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
             "flavor_text": "[i]The shortest distance between two points is full throttle.[/i]",
             "pt": "2/1",
             "special_text": "",
@@ -2840,14 +2840,14 @@
             "alias": "",
             "position": "266",
             "rotated": false,
-            "notes": ""
+            "notes": "WC18"
         },
         {
-            "card_name": "UC11\u2014Bootstrap Simulation",
+            "card_name": "Bootstrap Simulation",
             "color": "U",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 65,
+            "number": 57,
             "color_identity": "U",
             "cost": "{3}{U}",
             "rules_text": "Simulate target creature. [i](Create a nonlegendary token copy of it.)[/i]",
@@ -2861,14 +2861,14 @@
             "alias": "",
             "position": "267",
             "rotated": false,
-            "notes": "Also draw a card?"
+            "notes": "UC11\n\nAlso draw a card?"
         },
         {
-            "card_name": "UC7\u2014Salvation Aspirants",
+            "card_name": "Salvation Aspirants",
             "color": "U",
             "rarity": "common",
             "type": "Creature \u2014 Eliksni",
-            "number": 61,
+            "number": 71,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "If there are any stun counters on creatures an opponent controls, you may cast Salvation Aspirants as though it had flash.\n{1}{U}, {T}, Sacrifice Salvation Aspirants: Tap target creature and put a stun counter on it.",
@@ -2882,17 +2882,17 @@
             "alias": "",
             "position": "268",
             "rotated": false,
-            "notes": ""
+            "notes": "UC7"
         },
         {
-            "card_name": "BC14\u2014Defiled Servitor",
+            "card_name": "Defiled Servitor",
             "color": "B",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Eliksni Robot",
-            "number": 118,
+            "number": 132,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Flying\nWhen BC14\u2014Defiled Servitor dies, each opponent discards a card.",
+            "rules_text": "Flying\nWhen Defiled Servitor dies, each opponent discards a card.",
             "flavor_text": "[i]\u201cWe have become pawns of Our own devices. No longer! Today, we begin breaking free from our chains!\u201d\n\u2014Eramis, Kell of House Salvation[/i]",
             "pt": "3/1",
             "special_text": "",
@@ -2903,17 +2903,17 @@
             "alias": "",
             "position": "274",
             "rotated": false,
-            "notes": ""
+            "notes": "BC14"
         },
         {
-            "card_name": "BC15\u2014Blade-bound to the Terrace",
+            "card_name": "Blade-bound to the Terrace",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Darkness",
-            "number": 119,
+            "number": 105,
             "color_identity": "B",
             "cost": "{4}{B}",
-            "rules_text": "When BC15\u2014Blade-bound to the Terrace enters, choose a battle. You may add or remove three defense counters from it. If you do, you gain 3 life.",
+            "rules_text": "When Blade-bound to the Terrace enters, choose a battle. You may add or remove three defense counters from it. If you do, you gain 3 life.",
             "flavor_text": "[i][/i]",
             "pt": "6/5",
             "special_text": "",
@@ -2924,17 +2924,17 @@
             "alias": "",
             "position": "275",
             "rotated": false,
-            "notes": ""
+            "notes": "BC15"
         },
         {
-            "card_name": "BC16\u2014Salvation Elite",
+            "card_name": "Salvation Elite",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Eliksni",
-            "number": 120,
+            "number": 145,
             "color_identity": "UB",
             "cost": "{2}{B}",
-            "rules_text": "When BC16\u2014Salvation Elite enters or attacks, you may pay {U}. If you do, tap target creature and put a stun counter on it.",
+            "rules_text": "When Salvation Elite enters or attacks, you may pay {U}. If you do, tap target creature and put a stun counter on it.",
             "flavor_text": "[i]\u201cRemember, Light only burns bright so long, but Darkness is forever.\u201d\n\u2014Eramis, Kell of House Salvation[/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2945,17 +2945,17 @@
             "alias": "",
             "position": "276",
             "rotated": false,
-            "notes": "\u201cWe are the future of our kind, and we will destroy all who threaten us. Remember, Light only burns bright so long, but Darkness is forever.\u201d\n\nBC16\u2014Salvation Elite gets +1/+1 if any creature your opponents control have a stun counter on them."
+            "notes": "BC16\n\n\u201cWe are the future of our kind, and we will destroy all who threaten us. Remember, Light only burns bright so long, but Darkness is forever.\u201d\n\nBC16\u2014Salvation Elite gets +1/+1 if any creature your opponents control have a stun counter on them."
         },
         {
-            "card_name": "BC17\u2014Vanquisher of Nokris",
+            "card_name": "Vanquisher of Nokris",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Hive Knight",
-            "number": 121,
+            "number": 152,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "BC17\u2014Vanquisher of Nokris enters with a +1/+1 counter on it if it was cast according to Sword Logic.\nSword Logic\u2014{4}{B}, Exile a creature card from your graveyard. [i](You may cast this spell from your graveyard for its Sword Logic cost if a creature you don't control died this turn.)[/i]",
+            "rules_text": "Vanquisher of Nokris enters with a +1/+1 counter on it if it was cast according to Sword Logic.\nSword Logic\u2014{4}{B}, Exile a creature card from your graveyard. [i](You may cast this spell from your graveyard for its Sword Logic cost if a creature you don't control died this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2966,17 +2966,17 @@
             "alias": "",
             "position": "277",
             "rotated": false,
-            "notes": "BC17\u2014Vanquisher of Nokris enters tapped with two stun counters on it.\nWhenever one or more creatures you don't control die, untap BC17\u2014Vanquisher of Nokris."
+            "notes": "BC17\n\n\nBC17\u2014Vanquisher of Nokris enters tapped with two stun counters on it.\nWhenever one or more creatures you don't control die, untap BC17\u2014Vanquisher of Nokris."
         },
         {
-            "card_name": "BC18\u2014Corrupted Ravager",
+            "card_name": "Corrupted Ravager",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Eliksni Zombie",
-            "number": 122,
+            "number": 131,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "When BC18\u2014Corrupted Ravager dies, it deals 1 damage to target creature. It deals 2 damage instead if that creature is tapped.",
+            "rules_text": "When Corrupted Ravager dies, it deals 1 damage to target creature. It deals 2 damage instead if that creature is tapped.",
             "flavor_text": "[i]\u201cThe defiant... subjugated. Not for pleasure, nor glory... but in service of an ailing, endless void. Where does your purpose lie?\u201d\n\u2014Rhulk, First Disciple of The Witness[/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2987,17 +2987,17 @@
             "alias": "",
             "position": "278",
             "rotated": false,
-            "notes": ""
+            "notes": "BC18"
         },
         {
-            "card_name": "BC20\u2014Xenophage",
+            "card_name": "Xenophage",
             "color": "B",
             "rarity": "common",
             "type": "Legendary Artifact \u2014 Equipment",
-            "number": 124,
+            "number": 153,
             "color_identity": "B",
             "cost": "{4}{B}",
-            "rules_text": "When BC20\u2014Xenophage enters, exile up to one target creature card from your graveyard.\nEquipped creature is legendary and gets +X/+0 and trample, where X is the mana value of the exiled card.\nEquip {3}",
+            "rules_text": "When Xenophage enters, exile up to one target creature card from your graveyard.\nEquipped creature is legendary and gets +X/+0 and trample, where X is the mana value of the exiled card.\nEquip {3}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3008,17 +3008,17 @@
             "alias": "",
             "position": "279",
             "rotated": false,
-            "notes": ""
+            "notes": "BC20"
         },
         {
-            "card_name": "BC21\u2014Dreadful Scythe",
+            "card_name": "Dreadful Scythe",
             "color": "B",
             "rarity": "common",
             "type": "Artifact \u2014 Equipment",
-            "number": 125,
+            "number": 133,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "When BC21\u2014Dreadful Scythe enters, target opponent sacrifices a creature unless they discard a card.\nEquipped creature has menace and \u201cWhen this creature attacks, defending player loses 2 life.\u201d\nEquip\u2014Pay 4 life.",
+            "rules_text": "When Dreadful Scythe enters, target opponent sacrifices a creature unless they discard a card.\nEquipped creature has menace and \u201cWhen this creature attacks, defending player loses 2 life.\u201d\nEquip\u2014Pay 4 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3029,17 +3029,17 @@
             "alias": "",
             "position": "280",
             "rotated": false,
-            "notes": ""
+            "notes": "BC21"
         },
         {
-            "card_name": "BC22\u2014Necrotic Grip",
+            "card_name": "Necrotic Grip",
             "color": "B",
             "rarity": "common",
             "type": "Artifact",
-            "number": 126,
+            "number": 142,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "The first time a creature you don't control dies each turn, untap BC22\u2014Necrotic Grip\n{3}, {T}: Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]",
+            "rules_text": "The first time a creature you don't control dies each turn, untap Necrotic Grip\n{3}, {T}: Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]",
             "flavor_text": "[i]\u201cVictory is not in the unmaking of an enemy, but in the re-making of an enemy into your blade.\u201d\n\u20149th Understanding, 7th Revision of Sorrow[/i]",
             "pt": "",
             "special_text": "",
@@ -3050,17 +3050,17 @@
             "alias": "",
             "position": "281",
             "rotated": false,
-            "notes": ""
+            "notes": "BC22"
         },
         {
-            "card_name": "BC23\u2014Graviton Forfeit",
+            "card_name": "Graviton Forfeit",
             "color": "B",
             "rarity": "common",
             "type": "Artifact \u2014 Equipment",
-            "number": 127,
+            "number": 137,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "When BC23\u2014Graviton Forfeit enters, attach it to target creature you control.\nEquipped creature can't be blocked except by legendary creatures.\nEquip {1}{B}",
+            "rules_text": "When Graviton Forfeit enters, attach it to target creature you control.\nEquipped creature can't be blocked except by legendary creatures.\nEquip {1}{B}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3071,17 +3071,17 @@
             "alias": "",
             "position": "282",
             "rotated": false,
-            "notes": ""
+            "notes": "BC23"
         },
         {
-            "card_name": "BC24\u2014Nightstalker",
+            "card_name": "Nightstalker",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Awoken Hunter",
-            "number": 128,
+            "number": 144,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "When BC24\u2014Nightstalker enters, surveil 1.\n[i]Vanishing step \u2014[/i] BC24\u2014Nightstalker can't be blocked as long as your devotion to black is five or greater. [i](Each {B} in the mana costs of permanents you control counts toward your devotion to black.)[/i]",
+            "rules_text": "When Nightstalker enters, surveil 1.\n[i]Vanishing step \u2014[/i] Nightstalker can't be blocked as long as your devotion to black is five or greater. [i](Each {B} in the mana costs of permanents you control counts toward your devotion to black.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -3092,17 +3092,17 @@
             "alias": "",
             "position": "283",
             "rotated": false,
-            "notes": ""
+            "notes": "BC24"
         },
         {
-            "card_name": "BC25\u2014Taken Goblin",
+            "card_name": "Taken Goblin",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Darkness",
-            "number": 129,
+            "number": 151,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "When BC25\u2014Taken Goblin enters, if it was cast according to Sword Logic, target legendary creature you control gains indestructible until end of turn.\nSword Logic\u2014{3}{B}, Exile a creature card from your graveyard. [i](You may cast this spell from your graveyard for its Sword Logic cost if a creature you don't control died this turn.)[/i]",
+            "rules_text": "When Taken Goblin enters, if it was cast according to Sword Logic, target legendary creature you control gains indestructible until end of turn.\nSword Logic\u2014{3}{B}, Exile a creature card from your graveyard. [i](You may cast this spell from your graveyard for its Sword Logic cost if a creature you don't control died this turn.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/2",
             "special_text": "",
@@ -3113,14 +3113,14 @@
             "alias": "",
             "position": "284",
             "rotated": false,
-            "notes": ""
+            "notes": "BC25"
         },
         {
-            "card_name": "RC24\u2014Ghaul's Bloodguard",
+            "card_name": "Ghaul's Bloodguard",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Cabal Warrior",
-            "number": 177,
+            "number": 159,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
             "rules_text": "When Ghaul's Bloodguard enters, create two Red Legionaries, 2/2 red Cabal Warrior creature tokens with Trample.",
@@ -3134,17 +3134,17 @@
             "alias": "",
             "position": "297",
             "rotated": false,
-            "notes": ""
+            "notes": "RC24"
         },
         {
-            "card_name": "GC9\u2014Boundless Consumption",
+            "card_name": "Boundless Consumption",
             "color": "G",
             "rarity": "common",
             "type": "Enchantment \u2014 Aura",
-            "number": 212,
+            "number": 205,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Enchant creature\nWhen GC9\u2014Boundless Consumption enters, create a Councilor, a 1/1 green Cabal Psion creature token with ward {1}. [i](Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]\nEnchanted creature gets +3/+0 as long as you control a creature token.",
+            "rules_text": "Enchant creature\nWhen Boundless Consumption enters, create a Councilor, a 1/1 green Cabal Psion creature token with ward {1}. [i](Whenever it becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]\nEnchanted creature gets +3/+0 as long as you control a creature token.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3155,14 +3155,14 @@
             "alias": "",
             "position": "298",
             "rotated": false,
-            "notes": ""
+            "notes": "GC9"
         },
         {
-            "card_name": "RC4\u2014Stolen Scrap-Walker",
+            "card_name": "Stolen Scrap-Walker",
             "color": "R",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Eliksni Robot",
-            "number": 157,
+            "number": 196,
             "color_identity": "R",
             "cost": "{4}{R}",
             "rules_text": "[i]Flamethrower \u2014[/i] Stolen Scrap-Walker can't be blocked by non-artifact creatures as long as it is modified. [i](Equipment, Auras you control, and counters are modifications.)[/i]\nActivated abilities of equipment you control that target Stolen Scrap-Walker cost {1} less to activate.",
@@ -3176,17 +3176,17 @@
             "alias": "",
             "position": "300",
             "rotated": false,
-            "notes": "3, Exile an artifact card from your graveyard: Choose one\u2014\n\u2022 Flamethrower \u2014 Put a +1/+1 counter on Stolen Scrap-Walker. It can't be blocked by non-artifact creatures this turn.\n\u2022 SIVA Modification \u2014 Attach any number of equipment with total mana value 3 or less you control to Stolen Scrap-Walker.\n\nExile an artifact card from your graveyard: Attach an equipment you control to Stolen Scrap-Walker. Activate only as a sorcery and only once each turn."
+            "notes": "RC4\n\n3, Exile an artifact card from your graveyard: Choose one\u2014\n\u2022 Flamethrower \u2014 Put a +1/+1 counter on Stolen Scrap-Walker. It can't be blocked by non-artifact creatures this turn.\n\u2022 SIVA Modification \u2014 Attach any number of equipment with total mana value 3 or less you control to Stolen Scrap-Walker.\n\nExile an artifact card from your graveyard: Attach an equipment you control to Stolen Scrap-Walker. Activate only as a sorcery and only once each turn."
         },
         {
-            "card_name": "GC6\u2014Loyalist Colossus",
+            "card_name": "Loyalist Colossus",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Cabal",
-            "number": 209,
+            "number": 240,
             "color_identity": "G",
             "cost": "{4}{G}",
-            "rules_text": "Whenever you gain life, put that many +1/+1 counters on GC6\u2014Loyalist Colossus.",
+            "rules_text": "Whenever you gain life, put that many +1/+1 counters on Loyalist Colossus.",
             "flavor_text": "[i]\u201cThe Leviathan is now home to the last of us true Cabal. We will remember the old ways, for I am the wellspring from which our great civilization flows.\u201d\n\u2014Calus, Exiled Emperor[/i]",
             "pt": "4/4",
             "special_text": "",
@@ -3197,17 +3197,17 @@
             "alias": "",
             "position": "303",
             "rotated": false,
-            "notes": ""
+            "notes": "GC6"
         },
         {
-            "card_name": "BC19\u2014Eye of the Swarm",
+            "card_name": "Eye of the Swarm",
             "color": "B",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Hive Construct",
-            "number": 123,
+            "number": 134,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "Defender, Flying\nWhen BC19\u2014Eye of the Swarm enters, mill four cards, then draw a card.",
+            "rules_text": "Defender, Flying\nWhen Eye of the Swarm enters, mill four cards, then draw a card.",
             "flavor_text": "[i]These ever-watchful sentinels are believed, in some circles, to serve as the eyes of the Hive's innermost covens, allowing powerful Wizards and Knights to watch over their domains.[/i]",
             "pt": "4/6",
             "special_text": "",
@@ -3218,14 +3218,14 @@
             "alias": "",
             "position": "304",
             "rotated": false,
-            "notes": ""
+            "notes": "BC19"
         },
         {
-            "card_name": "GC17\u2014First Contact",
+            "card_name": "First Contact",
             "color": "G",
             "rarity": "common",
             "type": "Instant",
-            "number": 220,
+            "number": 212,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Mill four cards. You may put a permanent card from among them into your hand. If this spell is the first spell you've cast this game, you gain 2 life.",
@@ -3239,14 +3239,14 @@
             "alias": "",
             "position": "306",
             "rotated": false,
-            "notes": ""
+            "notes": "GC17"
         },
         {
-            "card_name": "GC18\u2014Encroaching Darkness",
+            "card_name": "Encroaching Darkness",
             "color": "G",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 221,
+            "number": 209,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Create two Shadow Thralls, 1/1 green Darkness creature tokens with \u201cThis creature can't block.\u201d If this spell was cast according to Sword Logic, create three of those tokens instead.\nSword Logic\u2014{3}{G}, Exile a creature card from your graveyard. [i](You may cast this spell from your graveyard for its Sword Logic cost if a creature you don't control died this turn.)[/i]",
@@ -3260,17 +3260,17 @@
             "alias": "",
             "position": "307",
             "rotated": false,
-            "notes": ""
+            "notes": "GC18"
         },
         {
-            "card_name": "GC19\u2014Sol Inherent",
+            "card_name": "Sol Inherent",
             "color": "G",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Vex Robot",
-            "number": 222,
+            "number": 245,
             "color_identity": "G",
             "cost": "{4}{G}",
-            "rules_text": "When GC19\u2014Sol Inherent enters, exile a creature card with mana value 3 or less from your graveyard. Then simulate it. [i](Create a nonlegendary token copy of it.)[/i]",
+            "rules_text": "When Sol Inherent enters, exile a creature card with mana value 3 or less from your graveyard. Then simulate it. [i](Create a nonlegendary token copy of it.)[/i]",
             "flavor_text": "[i]\u201cA trillion timelines, and all at war. Like a thousand red flowers growing in a black garden.\u201d\n\u2014Lakshmi-2, Future War Cult Leader[/i]",
             "pt": "5/2",
             "special_text": "",
@@ -3281,14 +3281,14 @@
             "alias": "",
             "position": "308",
             "rotated": false,
-            "notes": ""
+            "notes": "GC19"
         },
         {
-            "card_name": "GC20\u2014Exorcism",
+            "card_name": "Exorcism",
             "color": "G",
             "rarity": "common",
             "type": "Sorcery",
-            "number": 223,
+            "number": 210,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Choose one\u2014\n\u2022 Destroy target artifact or enchantment\n\u2022 Destroy all auras attached to target creature.",
@@ -3302,17 +3302,17 @@
             "alias": "",
             "position": "309",
             "rotated": false,
-            "notes": ""
+            "notes": "GC20"
         },
         {
-            "card_name": "GC21\u2014Visage of the Emperor",
+            "card_name": "Visage of the Emperor",
             "color": "G",
             "rarity": "common",
             "type": "Artifact",
-            "number": 224,
+            "number": 250,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "When GC21\u2014Visage of the Emperor enters, create a Shadow Legionary, a 3/3 green Darkness Cabal creature token.\nCreature tokens you control get +1/+0.",
+            "rules_text": "When Visage of the Emperor enters, create a Shadow Legionary, a 3/3 green Darkness Cabal creature token.\nCreature tokens you control get +1/+0.",
             "flavor_text": "[i]\u201cMy semblance matches my inner beauty. And what beauty!\u201d\n\u2014Calus, Exiled Emperor[/i]",
             "pt": "",
             "special_text": "",
@@ -3323,14 +3323,14 @@
             "alias": "",
             "position": "310",
             "rotated": false,
-            "notes": ""
+            "notes": "GC21"
         },
         {
-            "card_name": "GC22\u2014Precursor Cyclops",
+            "card_name": "Precursor Cyclops",
             "color": "G",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Vex Robot",
-            "number": 225,
+            "number": 242,
             "color_identity": "G",
             "cost": "{1}{G}",
             "rules_text": "Defender, Reach\n{T}: Exile the top card of your library. If a land card is exiled this way, you may put it into your hand.",
@@ -3344,14 +3344,14 @@
             "alias": "",
             "position": "311",
             "rotated": false,
-            "notes": ""
+            "notes": "GC22"
         },
         {
-            "card_name": "GC23\u2014Shadow Goliath",
+            "card_name": "Shadow Goliath",
             "color": "G",
             "rarity": "common",
             "type": "Artifact \u2014 Vehicle",
-            "number": 226,
+            "number": 244,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
             "rules_text": "When Legion Thresher becomes crewed by a Cabal creature, it gains double strike until end of turn.\nCrew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]",
@@ -3365,17 +3365,17 @@
             "alias": "",
             "position": "312",
             "rotated": false,
-            "notes": ""
+            "notes": "GC23"
         },
         {
-            "card_name": "GC24\u2014Taken Essence",
+            "card_name": "Taken Essence",
             "color": "G",
             "rarity": "common",
             "type": "Enchantment \u2014 Aura",
-            "number": 227,
+            "number": 248,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Enchant creature\nWhen GC24\u2014Taken Essence enters, draw a card.\nEnchanted creature gets +2/+1.",
+            "rules_text": "Enchant creature\nWhen Taken Essence enters, draw a card.\nEnchanted creature gets +2/+1.",
             "flavor_text": "[i]\u201cThis is what the Taken feel. Revel in it!\u201d\n\u2014The Drifter[/i]",
             "pt": "",
             "special_text": "",
@@ -3386,14 +3386,14 @@
             "alias": "",
             "position": "313",
             "rotated": false,
-            "notes": ""
+            "notes": "GC24"
         },
         {
-            "card_name": "GC25\u2014Hive Boomer",
+            "card_name": "Hive Boomer",
             "color": "G",
             "rarity": "common",
             "type": "Artifact \u2014 Equipment",
-            "number": 228,
+            "number": 237,
             "color_identity": "G",
             "cost": "{G}",
             "rules_text": "Equipped creature has trample.\n[i]Enrage[/i] \u2014 Whenever equipped creature is dealt damage, put a +1/+1 counter on it. [i](It must survive the damage to get the counter.)[/i]\nEquip {1}",
@@ -3407,14 +3407,14 @@
             "alias": "",
             "position": "314",
             "rotated": false,
-            "notes": "When GC25\u2014Hive Boomer becomes attached, it deals 1 damage to the attached creature.\n\nWhenever equipped creature is dealt damage, put a +1/+1 counter on it."
+            "notes": "GC25\n\nWhen GC25\u2014Hive Boomer becomes attached, it deals 1 damage to the attached creature.\n\nWhenever equipped creature is dealt damage, put a +1/+1 counter on it."
         },
         {
-            "card_name": "CC18\u2014Pouka",
+            "card_name": "Pouka",
             "color": "",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Robot",
-            "number": 313,
+            "number": 323,
             "color_identity": "C",
             "cost": "{1}",
             "rules_text": "Flying\nWhen Pouka enters, you gain 2 life.",
@@ -3428,14 +3428,14 @@
             "alias": "",
             "position": "320",
             "rotated": false,
-            "notes": ""
+            "notes": "CC18"
         },
         {
-            "card_name": "CC17\u2014Vanguard Postmaster",
+            "card_name": "Vanguard Postmaster",
             "color": "",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Robot",
-            "number": 312,
+            "number": 333,
             "color_identity": "C",
             "cost": "{3}",
             "rules_text": "When Vanguard Postmaster enters, look at the top four cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on top of your library in any order.\n{T}: Add {C}. Spend this mana only to cast artifact spells or activate abilities of artifacts.",
@@ -3449,14 +3449,14 @@
             "alias": "",
             "position": "321",
             "rotated": false,
-            "notes": ""
+            "notes": "CC17"
         },
         {
-            "card_name": "CC19\u2014Siege Engine",
+            "card_name": "Siege Engine",
             "color": "",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Construct",
-            "number": 314,
+            "number": 327,
             "color_identity": "C",
             "cost": "{4}",
             "rules_text": "Siege Engine attacks each turn if able.\nSiege Engine can't be blocked by walls.\n{3}, Sacrifice Siege Engine: Destroy target artifact. Activate only if Siege Engine dealt combat damage to a player this turn.",
@@ -3470,14 +3470,14 @@
             "alias": "",
             "position": "322",
             "rotated": false,
-            "notes": ""
+            "notes": "CC19"
         },
         {
-            "card_name": "CC20\u2014Crest of Alpha Lupi",
+            "card_name": "Crest of Alpha Lupi",
             "color": "",
             "rarity": "common",
             "type": "Artifact \u2014 Equipment",
-            "number": 315,
+            "number": 306,
             "color_identity": "C",
             "cost": "{4}",
             "rules_text": "When Crest of Alpha Lupi enters, you gain 3 life.\nEquipped creature gets +0/+3 and has vigilance so long as it's enchanted.\nEquip {2}",
@@ -3491,17 +3491,17 @@
             "alias": "",
             "position": "323",
             "rotated": false,
-            "notes": ""
+            "notes": "CC20"
         },
         {
-            "card_name": "GC14\u2014Light-Eater Ogre",
+            "card_name": "Light-Eater Ogre",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Hive Ogre",
-            "number": 217,
+            "number": 239,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "When GC14\u2014Light-Eater Ogre enters or dies, exile target card from an opponent's graveyard. If it was a legendary card, you gain 3 life.",
+            "rules_text": "When Light-Eater Ogre enters or dies, exile target card from an opponent's graveyard. If it was a legendary card, you gain 3 life.",
             "flavor_text": "[i]\u201cIn the ever-expanding Blighted-place, even Light must obey the sword-logic.\u201d\n\u2014Toland, the Shattered[/i]",
             "pt": "4/4",
             "special_text": "",
@@ -3512,7 +3512,7 @@
             "alias": "",
             "position": "335",
             "rotated": false,
-            "notes": ""
+            "notes": "GC14"
         },
         {
             "card_name": "SIVA Nanite",
@@ -3666,7 +3666,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2014 Darkness",
-            "number": 16,
+            "number": 15,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -3687,7 +3687,7 @@
             "color": "B",
             "rarity": "common",
             "type": "Token Creature \u2014 Eliksni Zombie",
-            "number": 11,
+            "number": 10,
             "color_identity": "B",
             "cost": "",
             "rules_text": "",
@@ -3700,27 +3700,6 @@
             "artist": "Destiny 2",
             "alias": "",
             "position": "377",
-            "rotated": false,
-            "notes": ""
-        },
-        {
-            "card_name": "Thrall",
-            "color": "G",
-            "rarity": "common",
-            "type": "Token Creature \u2014 Hive",
-            "number": 18,
-            "color_identity": "G",
-            "cost": "",
-            "rules_text": "",
-            "flavor_text": "[i][/i]",
-            "pt": "1/1",
-            "special_text": "",
-            "shape": "token",
-            "set": "DSY",
-            "loyalty": "",
-            "artist": "Destiny 2",
-            "alias": "",
-            "position": "380",
             "rotated": false,
             "notes": ""
         },
@@ -3767,11 +3746,11 @@
             "notes": ""
         },
         {
-            "card_name": "CC21\u2014Scourge of the Past",
+            "card_name": "Scourge of the Past",
             "color": "",
             "rarity": "common",
             "type": "Battle \u2014 Raid",
-            "number": 1,
+            "number": 3,
             "color_identity": "C",
             "cost": "{4}",
             "rules_text": "[i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature attacks this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]\nWhen Scourge of the Past enters, surveil 4. [i](Look at the top four cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]",
@@ -3785,14 +3764,14 @@
             "alias": "",
             "position": "405",
             "rotated": true,
-            "notes": ""
+            "notes": "CC21"
         },
         {
             "card_name": "Anarchy",
             "color": "",
             "rarity": "common",
             "type": "Legendary Artifact \u2014 Equipment",
-            "number": 1,
+            "number": 3,
             "color_identity": "C",
             "cost": "",
             "rules_text": "Equipped creature is legendary.\nEquipped creature has \u201cWhenever equipped creature blocks or becomes blocked, it deals 2 damage to each creature it's blocking or blocked by.\u201d\nEquip {1}",
@@ -3813,7 +3792,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Cabal Warrior",
-            "number": 12,
+            "number": 11,
             "color_identity": "R",
             "cost": "",
             "rules_text": "Trample",
@@ -3825,7 +3804,7 @@
             "loyalty": "",
             "artist": "Destiny 2",
             "alias": "",
-            "position": "408",
+            "position": "407",
             "rotated": false,
             "notes": ""
         },
@@ -3834,7 +3813,7 @@
             "color": "R",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Eliksni Robot",
-            "number": 14,
+            "number": 13,
             "color_identity": "R",
             "cost": "",
             "rules_text": "Flying",
@@ -3846,16 +3825,16 @@
             "loyalty": "",
             "artist": "Destiny 2",
             "alias": "",
-            "position": "409",
+            "position": "408",
             "rotated": false,
             "notes": ""
         },
         {
-            "card_name": "UC8\u2014Worldline Zero",
+            "card_name": "Worldline Zero",
             "color": "U",
             "rarity": "common",
             "type": "Legendary Artifact \u2014 Equipment",
-            "number": 62,
+            "number": 103,
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Flash\nWhen Worldline Zero enters, you may exile target creature you control. Return it to the battlefield under its owner's control at the beginning of the next end step.\nEquipped creature gets +1/+1, can't be blocked by tokens, and is legendary.\nEquip {1}{U}",
@@ -3867,9 +3846,9 @@
             "loyalty": "",
             "artist": "Destiny 2",
             "alias": "",
-            "position": "410",
+            "position": "409",
             "rotated": false,
-            "notes": "This ability (equip ability) costs 1 less if there are at least five cards in exile.\n\nMaybe Praedyth's Revenge?"
+            "notes": "UC8\n\nThis ability (equip ability) costs 1 less if there are at least five cards in exile.\n\nMaybe Praedyth's Revenge?"
         },
         {
             "card_name": "Imperial Legionary",
@@ -3888,7 +3867,7 @@
             "loyalty": "",
             "artist": "Destiny 2",
             "alias": "",
-            "position": "412",
+            "position": "411",
             "rotated": false,
             "notes": ""
         },
@@ -3897,7 +3876,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Darkness Cabal",
-            "number": 17,
+            "number": 16,
             "color_identity": "G",
             "cost": "",
             "rules_text": "",
@@ -3909,7 +3888,7 @@
             "loyalty": "",
             "artist": "Destiny 2",
             "alias": "",
-            "position": "414",
+            "position": "413",
             "rotated": false,
             "notes": ""
         },
@@ -3930,7 +3909,7 @@
             "loyalty": "",
             "artist": "Pailin Chongchitnant",
             "alias": "",
-            "position": "415",
+            "position": "414",
             "rotated": false,
             "notes": ""
         },
@@ -3951,7 +3930,7 @@
             "loyalty": "",
             "artist": "Destiny 2",
             "alias": "",
-            "position": "416",
+            "position": "415",
             "rotated": false,
             "notes": ""
         },
@@ -3960,7 +3939,7 @@
             "color": "G",
             "rarity": "common",
             "type": "Token Creature \u2014 Cabal Psion",
-            "number": 15,
+            "number": 14,
             "color_identity": "G",
             "cost": "",
             "rules_text": "Ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]",
@@ -3972,10 +3951,31 @@
             "loyalty": "",
             "artist": "Destiny 2",
             "alias": "",
+            "position": "416",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Shadow Thrall",
+            "color": "G",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Darkness",
+            "number": 17,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "This creature can't block.",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "DSY",
+            "loyalty": "",
+            "artist": "destiny",
+            "alias": "",
             "position": "417",
             "rotated": false,
             "notes": ""
         }
     ],
-    "version": 2
+    "version": 3
 }
