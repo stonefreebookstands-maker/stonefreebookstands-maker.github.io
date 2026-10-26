@@ -1,4 +1,326 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Rasputin, Warmind added.
+SIVA Replication Complex added.
+The Sanctified Mind added.
+Oryx's Dreadnaught added.
+The Bladed Path added.
+Plaguelands added.
+Xur, Agent of The Nine added.
+Anointed Sorrowsmith added.
+Death Song added.
+Shadows on the March added.
+Overwhelming Assault added.
+Dominus Ghaul added.
+Saint-14, Legend Returned added.
+Ceremonial Bather added.
+Exotic Engram added.
+Nokris, Herald of Xol added.
+Zulmak, Instrument of Torment added.
+Quria, Blade Transform added.
+Gjallarhorn added.
+Light-Suppressor Cage added.
+Petra Venj, Queen's Wrath added.
+Taniks, the Scarred added.
+Warmind's Power added.
+The Almighty added.
+Iron Lord Saladin Forge added.
+Hiraks, the Mindbender added.
+Drop Pod added.
+Crota, Son of Oryx added.
+Oryx, the Taken King added.
+Atheon, Time's Conflux added.
+Riven of a Thousand Voices added.
+Rhulk, the First Disciple added.
+Heart of the Black Garden added.
+Savathun, the Witch Queen added.
+Eramis, Salvation's Kell added.
+Mithrax, Kell of Light added.
+Calus, Decadent Emperor added.
+Calus, Herald of The Witness added.
+Osiris, Exiled Vanguard added.
+Rose added.
+Sleeper Simulant added.
+Ace of Spades added.
+St0mp-EE5 added.
+Fists of Havoc added.
+Needlestorm added.
+Shadowshot added.
+Banner Shield added.
+Silkstrike added.
+Winter's Wrath added.
+Spectral Blades added.
+Elsie Bray, Exo Stranger added.
+Solstice of Heroes added.
+Cayde-6, Reborn in Light added.
+Aeon Safe added.
+Imprint of Nezarec added.
+Aksis, Archon Prime added.
+Eris Morn, Swarm's Bane added.
+Bracus Zahn, Arms Dealer added.
+Grasp of Avarice added.
+Rahool, Master Cryptarch added.
+Caiatl, Princess Imperial added.
+Nimbus, Cloudstrider added.
+Fikrul, Fanatical Baron added.
+Ergo Sum added.
+Ergo Sum added.
+Ergo Sum added.
+Ergo Sum added.
+Banshee-44, Tower Gunsmith added.
+Atraks-1, Fallen Exo added.
+Uldren Sov, Awoken Prince added.
+Drown in the Deep added.
+Deathtongue of the War God added.
+Midnight Coup added.
+Coyotes' Expedition added.
+Drake Tank added.
+Spicy Ramen Shop added.
+Shadow Lurker added.
+Mars added.
+Fireteam Alpha added.
+Typhon Imperator added.
+The Leviathan added.
+Venus added.
+Earth added.
+The Moon added.
+The Reef added.
+Seraph Station added.
+High Celebrant of War added.
+Orbital Bombardment added.
+Alak-Hul, the Dark Blade added.
+Taniks, the Abomination added.
+Ecthar, Blade of Oryx added.
+Kridis, Dark Priestess added.
+Brood Queen added.
+Hold the Line added.
+Corrupted Simulation added.
+Teachings of The Nine added.
+Conflux in Time added.
+Open the Black Terrace added.
+World's Grave added.
+Crown of Sorrows added.
+Praksis, Chief Technocrat added.
+Owl Sector Records added.
+Araskes, the Trickster added.
+Blind Well added.
+Pull Through Time added.
+Death Impulse added.
+Crow, Risen Prince added.
+Phylaks, Warrior of Salvation added.
+The Dreaming City added.
+Glass Oracle added.
+The Drifter added.
+Tithe to Strength added.
+Omnigul, Will of Crota added.
+Argos, Planetary Core added.
+Shadow Legion Centurion added.
+Armsday added.
+Efrideet, Iron Lady added.
+Ana Bray, Voice of Rasputin added.
+Hive Apotheosis added.
+Rogue Dredgen added.
+Panoptes, Infinite Mind added.
+Protocol: Siberian Entropy added.
+Become Legend added.
+The Collapse added.
+Lakshmi-2, Future War Cult added.
+Decorated Valus added.
+Luzaku, the Redeemed added.
+Queen's Deception added.
+Lumina added.
+The Last Word added.
+The Vanguard added.
+Zydron, Gate Lord added.
+Cast Through Time added.
+Unknown Space added.
+Gorgons of the Labyrinth added.
+The Lament added.
+The Templar added.
+Clarity added.
+Devouring Voidwalker added.
+Ada-1, Forge Curator added.
+Echo of Oryx added.
+Wrathborn Cryptolith added.
+Wish Bones added.
+Voice of Riven added.
+Mara Sov, Awoken Queen added.
+Warden of the Harvest added.
+The Derelict added.
+Broken Knight of Fikrul added.
+Sunshot added.
+Valus Ta'aurc added.
+Seraphim Bunker added.
+Sepiks Prime added.
+Last Stand of the Gunslinger added.
+Ruinous Effigy added.
+Royal Beast added.
+Corrupted Techeun added.
+Ascendant Ritual added.
+Bladefury added.
+Unveiling added.
+Ergo Sum added.
+Raid Banner added.
+Injection Rig added.
+Eva's Holiday Oven added.
+Cayde's Stash added.
+Black Armory Forge added.
+No Time To Explain added.
+Clovis Bray I added.
+Spider, The Shore's Only Law added.
+Radiant Sunbreaker added.
+Altars of Summoning added.
+Winterbite added.
+Aegis of Light added.
+Heavy Frame added.
+Skolas, the Rabid Kell added.
+Lord of Wolves added.
+Nezarec, Final God of Pain added.
+Tomb of Nezarec added.
+Dredgen Yor added.
+Thorn added.
+Gahlran, Sorrow-Bearer added.
+Tarrabah added.
+Gahlran's Deception added.
+Lubrae's Ruin added.
+The Witness added.
+The First Knife added.
+Locus of Communion added.
+Dead Man's Tale added.
+Sjur Eido added.
+Wishender added.
+Holliday, Shipwright added.
+The Chaperone added.
+Akardon, Pitiless Mind added.
+Wish-Keeper added.
+Omen of the Black Terrace added.
+Wicked Implement added.
+Asher Mir, Gensym Scribe added.
+Vexcalibur added.
+Toland, the Shattered added.
+Bad Juju added.
+Iron Wolf added.
+Xol, Will of the Thousands added.
+Whisper of the Worm added.
+Crux of Darkness added.
+Archie added.
+Thrall added.
+Royal Paladin added.
+Deep Stone Crypt added.
+Eyes of Tomorrow added.
+Leviathan added.
+Legend of Acrius added.
+Vault of Glass added.
+Vex Mythoclast added.
+Root of Nightmares added.
+Conditional Finality added.
+King's Fall added.
+Touch of Malice added.
+Wrath of the Machine added.
+Outbreak Perfected added.
+Last Wish added.
+One Thousand Voices added.
+Vow of the Disciple added.
+Collective Obligation added.
+Crota's End added.
+Necrochasm added.
+Garden of Salvation added.
+Divinity added.
+Clovis-1 added.
+Sepiks Perfected added.
+Shade added.
+Threadling added.
+
+Shadowed Lurker removed.
+
+Devil Splicers
+rules_text: When Devil Splicers enters, choose one—
+• Create a SIVA Nanite token and attach it to target creature. [i](It's an equipment artifact with “Equipped creature gets +1/+0” and Equip {1}.)[/i]
+• Create a Shank, a 1/1 red Eliksni Robot artifact creature token with flying. => When Devil Splicers enters, choose one—
+• Create a SIVA Nanite token and attach it to target creature you control. [i](It's an equipment artifact with “Equipped creature gets +1/+0” and Equip {1}.)[/i]
+• Create a Shank, a 1/1 red Eliksni Robot artifact creature token with flying.
+pt: 1/1 => 1/2
+
+Splicer Archpriest
+rules_text: Modified creatures you control have haste and are legendary. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+{T}, Sacrifice an artifact: Create a SIVA Nanite token and attach it to target creature. Activate only as a sorcery. [i](It's an equipment artifact with “Equipped creature gets +1/+0” and equip {1})[/i] => Modified creatures you control have haste. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+{T}, Sacrifice an artifact: Create a SIVA Nanite token and attach it to target creature. Activate only as a sorcery. [i](It's an equipment artifact with “Equipped creature gets +1/+0” and equip {1})[/i]
+
+Siege Dancer Phalanx
+
+Heat Rises
+rules_text: Enchant creature
+When Heat Rises enters, draw a card.
+Enchanted creature has flying. => Flash
+Enchant creature
+When Heat Rises enters, draw a card.
+Enchanted creature has flying.
+
+Scorpius Turret
+type: Artifact Creature — Construct => Artifact Creature — Cabal Construct
+
+New Light
+rules_text: {3}: Put two +1/+1 counters on New Light. They become legendary and gain a unique name of your choice. Activate only once. [i](They can't share a name with another legal magic card.)[/i] => {3}: Put two +1/+1 counters on New Light. They become legendary and gain a unique name of your choice. Activate only once. [i](They can't share a name with another legal magic card. This effect lasts indefinitely.)[/i]
+
+Legion Thresher
+artist: Destiny => Destiny 2
+
+Centurion of the Coalition
+rules_text: When Centurion of the Coalition enters, put a +1/+1 counter on each other creature you control. => When Centurion of the Coalition enters, create an Imperial Legionary, a 2/2 white Cabal Soldier token with Vigilance.
+
+Honored Gladiator
+pt: 2/2 => 2/4
+
+Old Crew's Ketch
+rules_text: When Old Crew's Ketch enters, create an Engram token and a treasure token. [i](Engrams are artifacts with “{1}, {T}, Sacrifice this token: Draw a card, then discard a card.”)[/i]
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)[/i]
+[level 8+] Flying
+When Old Crew's Ketch attacks, create an engram token and a treasure token. [4/4] => When Old Crew's Ketch enters, create an Engram token and a treasure token. [i](Engrams are artifacts with “{1}, {T}, Sacrifice this token: Draw a card, then discard a card.”)[/i]
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 8+] Flying
+When Old Crew's Ketch attacks, create an engram token and a treasure token. [4/4]
+special_text: When Old Crew's Ketch enters, create an Engram token and a treasure token. [i](Engrams are artifacts with “{1}, {T}, Sacrifice this token: Draw a card, then discard a card.”)[/i]
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery. It's an artifact creature at 8+.)[/i]
+[level 8+] Flying
+When Old Crew's Ketch attacks, create an engram token and a treasure token. [4/4] => When Old Crew's Ketch enters, create an Engram token and a treasure token. [i](Engrams are artifacts with “{1}, {T}, Sacrifice this token: Draw a card, then discard a card.”)[/i]
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 8+] Flying
+When Old Crew's Ketch attacks, create an engram token and a treasure token. [4/4]
+
+Pilgrim Guard Sentinel
+
+Soulfire Infusion
+artist:  => Destiny 2
+
+Daring Gunslinger
+rules_text: Haste
+When Daring Gunslinger enters, if an opponent lost life this turn, you may exile the top two cards of your library. You may play those cards until the end of your next turn. => Haste
+When Daring Gunslinger enters, if an opponent lost life this turn, you may exile the top three cards of your library. You may play those cards until the end of your next turn.
+
+Rally Barricade
+
+Caiatl's Chosen
+pt: 5/6 => 5/5
+
+Xenophage
+rules_text: When Xenophage enters, exile up to one target creature card from your graveyard.
+Equipped creature is legendary and gets +X/+0 and trample, where X is the mana value of the exiled card.
+Equip {3} => When Xenophage enters, exile up to one target creature card from your graveyard.
+Equipped creature is legendary and gets +X/+0 and trample, where X is the mana value of the exiled card.
+Equip {4}
+
+Crest of Alpha Lupi
+rules_text: When Crest of Alpha Lupi enters, you gain 3 life.
+Equipped creature gets +0/+3 and has vigilance so long as it's enchanted.
+Equip {2} => When Crest of Alpha Lupi enters, you gain 3 life.
+Equipped creature gets +0/+3. If it's legendary, it also has vigilance.
+Equip {2}
+
+Anarchy
+
+
+VERSION 5 CHANGELOG
 ====================
 
 No changes.
