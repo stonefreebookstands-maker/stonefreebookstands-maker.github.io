@@ -1,0 +1,5471 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Rasputin, Warmind",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Legendary Artifact",
+			"collector_number": "320",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/0.png"
+			}
+		},
+		{
+			"name": "SIVA Replication Complex",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "325",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/1.png"
+			}
+		},
+		{
+			"name": "The Sanctified Mind",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Legendary Artifact Creature — Vex Robot",
+			"collector_number": "237",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/2.png"
+			}
+		},
+		{
+			"name": "Oryx's Dreadnaught",
+			"rarity": "mythic",
+			"mana_cost": "{B}{B}{B}",
+			"type": "Legendary Artifact — Spacecraft",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/3.png"
+			}
+		},
+		{
+			"name": "Golden Gun",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/4.png"
+			}
+		},
+		{
+			"name": "Knight's Cleaver",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "227",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/5.png"
+			}
+		},
+		{
+			"name": "The Bladed Path",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "209",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/6.png"
+			}
+		},
+		{
+			"name": "Plaguelands",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/7.png"
+			}
+		},
+		{
+			"name": "Xur, Agent of The Nine",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Legendary Creature — Jovian",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/8.png"
+			}
+		},
+		{
+			"name": "Anointed Sorrowsmith",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Hive Cleric",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/9.png"
+			}
+		},
+		{
+			"name": "Death Song",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/10.png"
+			}
+		},
+		{
+			"name": "Shadows on the March",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "240",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/11.png"
+			}
+		},
+		{
+			"name": "Malfeasance",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/12.png"
+			}
+		},
+		{
+			"name": "Void Suppressor",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/13.png"
+			}
+		},
+		{
+			"name": "Devil Splicers",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Eliksni",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/14.png"
+			}
+		},
+		{
+			"name": "Overwhelming Assault",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "282",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/15.png"
+			}
+		},
+		{
+			"name": "Dominus Ghaul",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Cabal Warrior",
+			"collector_number": "261",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/16.png"
+			}
+		},
+		{
+			"name": "Saint-14, Legend Returned",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Artifact Creature — Human Robot Titan",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/17.png"
+			}
+		},
+		{
+			"name": "Splicer Archpriest",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Eliksni Cleric",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/18.png"
+			}
+		},
+		{
+			"name": "~Consume~",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "201",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/19.png"
+			}
+		},
+		{
+			"name": "Ceremonial Bather",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Cabal",
+			"collector_number": "259",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/20.png"
+			}
+		},
+		{
+			"name": "Exotic Engram",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Engram",
+			"collector_number": "306",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/21.png"
+			}
+		},
+		{
+			"name": "Nokris, Herald of Xol",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Hive Wizard",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/22.png"
+			}
+		},
+		{
+			"name": "Zulmak, Instrument of Torment",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Legendary Creature — Hive Knight",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/23.png"
+			}
+		},
+		{
+			"name": "Quria, Blade Transform",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Artifact Creature — Darkness Vex Robot",
+			"collector_number": "284",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/24.png"
+			}
+		},
+		{
+			"name": "Gjallarhorn",
+			"rarity": "mythic",
+			"mana_cost": "{7}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "309",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/25.png"
+			}
+		},
+		{
+			"name": "Light-Suppressor Cage",
+			"rarity": "rare",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "314",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/26.png"
+			}
+		},
+		{
+			"name": "Petra Venj, Queen's Wrath",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{W}",
+			"type": "Legendary Creature — Awoken",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/27.png"
+			}
+		},
+		{
+			"name": "Ghost",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "308",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/28.png"
+			}
+		},
+		{
+			"name": "Acolytes of the Hidden Swarm",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Hive Cleric",
+			"collector_number": "204",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/29.png"
+			}
+		},
+		{
+			"name": "Taniks, the Scarred",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Eliksni Mercenary",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/30.png"
+			}
+		},
+		{
+			"name": "Noble Winter Walker",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/31.png"
+			}
+		},
+		{
+			"name": "Warmind's Power",
+			"rarity": "rare",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/32.png"
+			}
+		},
+		{
+			"name": "Silent Fang Assassin",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Eliksni Assassin",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/33.png"
+			}
+		},
+		{
+			"name": "The Almighty",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Artifact — Spacecraft",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/34.png"
+			}
+		},
+		{
+			"name": "Final Death",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Instant",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/35.png"
+			}
+		},
+		{
+			"name": "Iron Lord Saladin Forge",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Legendary Creature — Human Titan",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/36.png"
+			}
+		},
+		{
+			"name": "Hiraks, the Mindbender",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Eliksni Zombie",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/37.png"
+			}
+		},
+		{
+			"name": "Drop Pod",
+			"rarity": "uncommon",
+			"mana_cost": "{7}",
+			"type": "Artifact",
+			"collector_number": "303",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/38.png"
+			}
+		},
+		{
+			"name": "Crota, Son of Oryx",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Hive Noble",
+			"collector_number": "214",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/39.png"
+			}
+		},
+		{
+			"name": "Oryx, the Taken King",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{G}",
+			"type": "Legendary Creature — Hive God",
+			"collector_number": "281",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/40.png"
+			}
+		},
+		{
+			"name": "Atheon, Time's Conflux",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Artifact Creature — Vex Robot",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/41.png"
+			}
+		},
+		{
+			"name": "Riven of a Thousand Voices",
+			"rarity": "mythic",
+			"mana_cost": "{4}{R}{R}{R}",
+			"type": "Legendary Creature — Darkness Dragon",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/42.png"
+			}
+		},
+		{
+			"name": "Rhulk, the First Disciple",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{B}{B}",
+			"type": "Legendary Creature — Darkness Lubraean",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/43.png"
+			}
+		},
+		{
+			"name": "Heart of the Black Garden",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}{G}",
+			"type": "Legendary Artifact",
+			"collector_number": "225",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/44.png"
+			}
+		},
+		{
+			"name": "Siege Dancer Phalanx",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Cabal Soldier",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/45.png"
+			}
+		},
+		{
+			"name": "Savathun, the Witch Queen",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Creature — Hive God",
+			"collector_number": "286",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/46.png"
+			}
+		},
+		{
+			"name": "Eramis, Salvation's Kell",
+			"rarity": "mythic",
+			"mana_cost": "{1}{U}{B}{B}",
+			"type": "Legendary Creature — Eliksni Rogue",
+			"collector_number": "265",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/47.png"
+			}
+		},
+		{
+			"name": "Mithrax, Kell of Light",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{R}",
+			"type": "Legendary Creature — Eliksni",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/48.png"
+			}
+		},
+		{
+			"name": "Calus, Decadent Emperor",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Creature — Cabal Noble",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/49.png"
+			}
+		},
+		{
+			"name": "Calus, Herald of The Witness",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Creature — Darkness Cabal",
+			"collector_number": "258",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/50.png"
+			}
+		},
+		{
+			"name": "Osiris, Exiled Vanguard",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Human Warlock",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/51.png"
+			}
+		},
+		{
+			"name": "Rose",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "322",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/52.png"
+			}
+		},
+		{
+			"name": "Sleeper Simulant",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "327",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/53.png"
+			}
+		},
+		{
+			"name": "Ace of Spades",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "294",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/54.png"
+			}
+		},
+		{
+			"name": "St0mp-EE5",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "328",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/55.png"
+			}
+		},
+		{
+			"name": "Heat Rises",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/56.png"
+			}
+		},
+		{
+			"name": "Fists of Havoc",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/57.png"
+			}
+		},
+		{
+			"name": "Needlestorm",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Instant",
+			"collector_number": "231",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/58.png"
+			}
+		},
+		{
+			"name": "Shadowshot",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Instant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/59.png"
+			}
+		},
+		{
+			"name": "Spider's Associates",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Eliksni Rogue",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/60.png"
+			}
+		},
+		{
+			"name": "Gambler's Dodge",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/61.png"
+			}
+		},
+		{
+			"name": "Banner Shield",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/62.png"
+			}
+		},
+		{
+			"name": "Radiant Resurrection",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/63.png"
+			}
+		},
+		{
+			"name": "Silkstrike",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "241",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/64.png"
+			}
+		},
+		{
+			"name": "Winter's Wrath",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/65.png"
+			}
+		},
+		{
+			"name": "Spectral Blades",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/66.png"
+			}
+		},
+		{
+			"name": "Elsie Bray, Exo Stranger",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Artifact Creature — Human",
+			"collector_number": "264",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/67.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "347",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/68.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "351",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/69.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "352",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/70.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "357",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/71.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "363",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/72.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "345",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/73.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "350",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/74.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "353",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/75.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "359",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/76.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "361",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/77.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "344",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/78.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "348",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/79.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "354",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/80.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "356",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/81.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "360",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/82.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "346",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/83.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "349",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/84.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "355",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/85.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "358",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/86.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "362",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/87.png"
+			}
+		},
+		{
+			"name": "Solstice of Heroes",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Enchantment",
+			"collector_number": "289",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/88.png"
+			}
+		},
+		{
+			"name": "Cayde-6, Reborn in Light",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Artifact Creature — Human Robot Hunter",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/89.png"
+			}
+		},
+		{
+			"name": "Taken Psion",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Darkness",
+			"collector_number": "246",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/90.png"
+			}
+		},
+		{
+			"name": "Shuro Chi's Teachings",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/91.png"
+			}
+		},
+		{
+			"name": "Aeon Safe",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/92.png"
+			}
+		},
+		{
+			"name": "Imprint of Nezarec",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Darkness",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/93.png"
+			}
+		},
+		{
+			"name": "Aksis, Archon Prime",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Legendary Artifact Creature — Eliksni Robot",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/94.png"
+			}
+		},
+		{
+			"name": "Eris Morn, Swarm's Bane",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Legendary Creature — Human Hive",
+			"collector_number": "266",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/95.png"
+			}
+		},
+		{
+			"name": "Scorch Cannon",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/96.png"
+			}
+		},
+		{
+			"name": "Cabal Stomp",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/97.png"
+			}
+		},
+		{
+			"name": "Landing Zone",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "337",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/98.png"
+			}
+		},
+		{
+			"name": "Bracus Zahn, Arms Dealer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Creature — Cabal Warrior",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/99.png"
+			}
+		},
+		{
+			"name": "Kell's Scourge Berserker",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Eliksni Warrior",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/100.png"
+			}
+		},
+		{
+			"name": "Scorpius Turret",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Cabal Construct",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/101.png"
+			}
+		},
+		{
+			"name": "Grasp of Avarice",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Enchantment",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/102.png"
+			}
+		},
+		{
+			"name": "Rahool, Master Cryptarch",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Creature — Awoken",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/103.png"
+			}
+		},
+		{
+			"name": "Data Preservation",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/104.png"
+			}
+		},
+		{
+			"name": "Caiatl, Princess Imperial",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Creature — Cabal Noble",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/105.png"
+			}
+		},
+		{
+			"name": "Nimbus, Cloudstrider",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Artifact Creature — Human Cyborg",
+			"collector_number": "279",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/106.png"
+			}
+		},
+		{
+			"name": "Fikrul, Fanatical Baron",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Legendary Creature — Eliksni Zombie",
+			"collector_number": "267",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/107.png"
+			}
+		},
+		{
+			"name": "Grim Flayer",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Darkness",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/108.png"
+			}
+		},
+		{
+			"name": "Tormenting Voice",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/109.png"
+			}
+		},
+		{
+			"name": "Ergo Sum",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "304",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/110.png"
+			}
+		},
+		{
+			"name": "Ergo Sum",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/111.png"
+			}
+		},
+		{
+			"name": "Ergo Sum",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Equipment",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/112.png"
+			}
+		},
+		{
+			"name": "Ergo Sum",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/113.png"
+			}
+		},
+		{
+			"name": "Scorned Crossbow",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/114.png"
+			}
+		},
+		{
+			"name": "Pyramid Splinter",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "318",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/115.png"
+			}
+		},
+		{
+			"name": "Bell of Conquests",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "298",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/116.png"
+			}
+		},
+		{
+			"name": "Chalice of Opulence",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "301",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/117.png"
+			}
+		},
+		{
+			"name": "Nightmare Harvester",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "315",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/118.png"
+			}
+		},
+		{
+			"name": "Gate Lord's Eye",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "307",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/119.png"
+			}
+		},
+		{
+			"name": "Tree of Silver Wings",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "332",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/120.png"
+			}
+		},
+		{
+			"name": "Tablet of Ruin",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "331",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/121.png"
+			}
+		},
+		{
+			"name": "Skeleton Key",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "326",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/122.png"
+			}
+		},
+		{
+			"name": "Warmind Khanjali",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "334",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/123.png"
+			}
+		},
+		{
+			"name": "Acolyte's Staff",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "295",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/124.png"
+			}
+		},
+		{
+			"name": "Banshee-44, Tower Gunsmith",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Legendary Artifact Creature — Human Robot",
+			"collector_number": "297",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/125.png"
+			}
+		},
+		{
+			"name": "Atraks-1, Fallen Exo",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Artifact Creature — Eliksni Robot",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/126.png"
+			}
+		},
+		{
+			"name": "Uldren Sov, Awoken Prince",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Awoken Noble",
+			"collector_number": "292",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/127.png"
+			}
+		},
+		{
+			"name": "Drown in the Deep",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Sorcery",
+			"collector_number": "263",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/128.png"
+			}
+		},
+		{
+			"name": "Deathtongue of the War God",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Hive Cleric",
+			"collector_number": "217",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/129.png"
+			}
+		},
+		{
+			"name": "Strange Coin",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Treasure",
+			"collector_number": "329",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/130.png"
+			}
+		},
+		{
+			"name": "Scorn Ravager",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Eliksni Zombie",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/131.png"
+			}
+		},
+		{
+			"name": "Tarnished Wraith",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Eliksni Zombie",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/132.png"
+			}
+		},
+		{
+			"name": "Valkyrie",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/133.png"
+			}
+		},
+		{
+			"name": "Midnight Coup",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/134.png"
+			}
+		},
+		{
+			"name": "Nightmarish Revival",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Sorcery",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/135.png"
+			}
+		},
+		{
+			"name": "Coyotes' Expedition",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/136.png"
+			}
+		},
+		{
+			"name": "Ritual of Negation",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/137.png"
+			}
+		},
+		{
+			"name": "Drake Tank",
+			"rarity": "rare",
+			"mana_cost": "{4}{W}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/138.png"
+			}
+		},
+		{
+			"name": "Heavy Pike",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/139.png"
+			}
+		},
+		{
+			"name": "Hive Tomb Ship",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/140.png"
+			}
+		},
+		{
+			"name": "Salvation's Grip",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/141.png"
+			}
+		},
+		{
+			"name": "Spicy Ramen Shop",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/142.png"
+			}
+		},
+		{
+			"name": "Goblins of the Hezen Protective",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Vex Robot",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/143.png"
+			}
+		},
+		{
+			"name": "Shadow Lurker",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Eliksni Zombie",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/144.png"
+			}
+		},
+		{
+			"name": "New Light",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Creature — Human",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/145.png"
+			}
+		},
+		{
+			"name": "Psion Operant",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Cabal Psion",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/146.png"
+			}
+		},
+		{
+			"name": "Woven Mail",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/147.png"
+			}
+		},
+		{
+			"name": "Mars",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Planet",
+			"collector_number": "339",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/148.png"
+			}
+		},
+		{
+			"name": "Fireteam Alpha",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{B}",
+			"type": "Creature — Human Titan Warlock Hunter",
+			"collector_number": "268",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/149.png"
+			}
+		},
+		{
+			"name": "Typhon Imperator",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Legendary Artifact — Spacecraft",
+			"collector_number": "248",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/150.png"
+			}
+		},
+		{
+			"name": "The Leviathan",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Legendary Artifact — Spacecraft",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/151.png"
+			}
+		},
+		{
+			"name": "Venus",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Planet",
+			"collector_number": "343",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/152.png"
+			}
+		},
+		{
+			"name": "Earth",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Planet",
+			"collector_number": "336",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/153.png"
+			}
+		},
+		{
+			"name": "The Moon",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Planet",
+			"collector_number": "340",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/154.png"
+			}
+		},
+		{
+			"name": "The Reef",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land — Planet",
+			"collector_number": "341",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/155.png"
+			}
+		},
+		{
+			"name": "Seraph Station",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}",
+			"type": "Legendary Artifact — Spacecraft",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/156.png"
+			}
+		},
+		{
+			"name": "Gluttonous Growth",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/157.png"
+			}
+		},
+		{
+			"name": "Drifter's Gambit",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "220",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/158.png"
+			}
+		},
+		{
+			"name": "High Celebrant of War",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{G}",
+			"type": "Creature — Hive Knight",
+			"collector_number": "271",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/159.png"
+			}
+		},
+		{
+			"name": "~Enhance~",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "202",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/160.png"
+			}
+		},
+		{
+			"name": "Orbital Bombardment",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/161.png"
+			}
+		},
+		{
+			"name": "Cloud Skimmer",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Equipment Vehicle",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/162.png"
+			}
+		},
+		{
+			"name": "Legion Thresher",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/163.png"
+			}
+		},
+		{
+			"name": "Sacred Splicer's Art",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/164.png"
+			}
+		},
+		{
+			"name": "Bound Ogre",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Hive Ogre",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/165.png"
+			}
+		},
+		{
+			"name": "Alak-Hul, the Dark Blade",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Legendary Creature — Hive Knight",
+			"collector_number": "205",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/166.png"
+			}
+		},
+		{
+			"name": "Slug Rifle",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/167.png"
+			}
+		},
+		{
+			"name": "Khvostov 7G-02",
+			"rarity": "common",
+			"mana_cost": "{0}",
+			"type": "Artifact — Equipment",
+			"collector_number": "312",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/168.png"
+			}
+		},
+		{
+			"name": "Queen's Corsairs",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Awoken Soldier",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/169.png"
+			}
+		},
+		{
+			"name": "Subjugator of Truth",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Darkness",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/170.png"
+			}
+		},
+		{
+			"name": "Subjugator of Gardens",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Darkness",
+			"collector_number": "243",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/171.png"
+			}
+		},
+		{
+			"name": "Time's Vengeance",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/172.png"
+			}
+		},
+		{
+			"name": "Taniks, the Abomination",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}{R}",
+			"type": "Legendary Artifact Creature — Eliksni Robot",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/173.png"
+			}
+		},
+		{
+			"name": "Centurion of the Coalition",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Cabal Soldier",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/174.png"
+			}
+		},
+		{
+			"name": "Music of the Spheres",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "230",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/175.png"
+			}
+		},
+		{
+			"name": "Swordbearer",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Hive Knight",
+			"collector_number": "244",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/176.png"
+			}
+		},
+		{
+			"name": "Archon of Wolves",
+			"rarity": "common",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Eliksni Archon",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/177.png"
+			}
+		},
+		{
+			"name": "Rat King",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "321",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/178.png"
+			}
+		},
+		{
+			"name": "Dregs of Dusk",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Eliksni",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/179.png"
+			}
+		},
+		{
+			"name": "~Replicate~",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/180.png"
+			}
+		},
+		{
+			"name": "Ecthar, Blade of Oryx",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Hive Knight",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/181.png"
+			}
+		},
+		{
+			"name": "Unstable Incendior",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Cabal Warrior",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/182.png"
+			}
+		},
+		{
+			"name": "Kridis, Dark Priestess",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Legendary Creature — Eliksni Cleric",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/183.png"
+			}
+		},
+		{
+			"name": "Fanatic's Summons",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/184.png"
+			}
+		},
+		{
+			"name": "Insurrection Prime",
+			"rarity": "common",
+			"mana_cost": "{5}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "311",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/185.png"
+			}
+		},
+		{
+			"name": "Brood Queen",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Hive Wizard",
+			"collector_number": "212",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/186.png"
+			}
+		},
+		{
+			"name": "Hold the Line",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Instant",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/187.png"
+			}
+		},
+		{
+			"name": "Corrupted Simulation",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/188.png"
+			}
+		},
+		{
+			"name": "Teachings of The Nine",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/189.png"
+			}
+		},
+		{
+			"name": "Shaxx's Redjacks",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/190.png"
+			}
+		},
+		{
+			"name": "Conflux in Time",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Artifact",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/191.png"
+			}
+		},
+		{
+			"name": "Open the Black Terrace",
+			"rarity": "mythic",
+			"mana_cost": "{5}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/192.png"
+			}
+		},
+		{
+			"name": "World's Grave",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Artifact",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/193.png"
+			}
+		},
+		{
+			"name": "Devouring Light",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Sorcery",
+			"collector_number": "218",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/194.png"
+			}
+		},
+		{
+			"name": "Wormgod Larva",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Worm",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/195.png"
+			}
+		},
+		{
+			"name": "Crown of Sorrows",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Artifact",
+			"collector_number": "216",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/196.png"
+			}
+		},
+		{
+			"name": "Praksis, Chief Technocrat",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Eliksni Artificer",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/197.png"
+			}
+		},
+		{
+			"name": "Explicator of Planets",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Darkness Cabal",
+			"collector_number": "223",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/198.png"
+			}
+		},
+		{
+			"name": "Owl Sector Records",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Sorcery",
+			"collector_number": "283",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/199.png"
+			}
+		},
+		{
+			"name": "Araskes, the Trickster",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Legendary Creature — Eliksni Zombie",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/200.png"
+			}
+		},
+		{
+			"name": "Blind Well",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Artifact",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/201.png"
+			}
+		},
+		{
+			"name": "Silence & Squall",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Instant",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/202.png"
+			}
+		},
+		{
+			"name": "Pull Through Time",
+			"rarity": "mythic",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/203.png"
+			}
+		},
+		{
+			"name": "Screeb",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Eliksni Zombie",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/204.png"
+			}
+		},
+		{
+			"name": "Honored Gladiator",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Cabal Warrior",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/205.png"
+			}
+		},
+		{
+			"name": "Axis Harpies",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Vex Robot",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/206.png"
+			}
+		},
+		{
+			"name": "Fell the Monstrous",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/207.png"
+			}
+		},
+		{
+			"name": "Death Impulse",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/208.png"
+			}
+		},
+		{
+			"name": "Invoke Deepsight",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/209.png"
+			}
+		},
+		{
+			"name": "Crow, Risen Prince",
+			"rarity": "mythic",
+			"mana_cost": "{W}",
+			"type": "Legendary Creature — Awoken Hunter",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/210.png"
+			}
+		},
+		{
+			"name": "Phylaks, Warrior of Salvation",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Eliksni Warrior",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/211.png"
+			}
+		},
+		{
+			"name": "Commodore Brig",
+			"rarity": "common",
+			"mana_cost": "{8}{U}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/212.png"
+			}
+		},
+		{
+			"name": "Old Crew's Ketch",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact — Spacecraft",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/213.png"
+			}
+		},
+		{
+			"name": "The Dreaming City",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "335",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/214.png"
+			}
+		},
+		{
+			"name": "Divisive Gate Lord",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Artifact Creature — Vex Robot",
+			"collector_number": "219",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/215.png"
+			}
+		},
+		{
+			"name": "Lost Sector",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "338",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/216.png"
+			}
+		},
+		{
+			"name": "Glass Oracle",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/217.png"
+			}
+		},
+		{
+			"name": "Surge of Light",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Instant",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/218.png"
+			}
+		},
+		{
+			"name": "Remnant of the Iron Lords",
+			"rarity": "common",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Artifact Creature — Human Horror",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/219.png"
+			}
+		},
+		{
+			"name": "The Drifter",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}",
+			"type": "Legendary Creature — Human Rogue",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/220.png"
+			}
+		},
+		{
+			"name": "Seven Seraphs",
+			"rarity": "common",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Creature — Human",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/221.png"
+			}
+		},
+		{
+			"name": "Neomuni Archivist",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/222.png"
+			}
+		},
+		{
+			"name": "Tithe to Strength",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/223.png"
+			}
+		},
+		{
+			"name": "Omnigul, Will of Crota",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Creature — Hive Wizard",
+			"collector_number": "232",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/224.png"
+			}
+		},
+		{
+			"name": "Prohibitive Hobgoblin",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Vex Robot",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/225.png"
+			}
+		},
+		{
+			"name": "Vex Assimilation",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Sorcery",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/226.png"
+			}
+		},
+		{
+			"name": "Argos, Planetary Core",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{G}",
+			"type": "Legendary Artifact Creature — Vex Robot",
+			"collector_number": "207",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/227.png"
+			}
+		},
+		{
+			"name": "Shadow Legion Centurion",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Darkness Cabal",
+			"collector_number": "239",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/228.png"
+			}
+		},
+		{
+			"name": "Armsday",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/229.png"
+			}
+		},
+		{
+			"name": "Efrideet, Iron Lady",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Legendary Creature — Human Hunter",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/230.png"
+			}
+		},
+		{
+			"name": "Ana Bray, Voice of Rasputin",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Creature — Human Hunter",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/231.png"
+			}
+		},
+		{
+			"name": "Hive Apotheosis",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "272",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/232.png"
+			}
+		},
+		{
+			"name": "Rogue Dredgen",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/233.png"
+			}
+		},
+		{
+			"name": "Pilgrim Guard Sentinel",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Human Robot Titan",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/234.png"
+			}
+		},
+		{
+			"name": "Soulfire Infusion",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/235.png"
+			}
+		},
+		{
+			"name": "Sunsinger",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/236.png"
+			}
+		},
+		{
+			"name": "Shattered Memories",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/237.png"
+			}
+		},
+		{
+			"name": "Panoptes, Infinite Mind",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Legendary Artifact Creature — Vex Robot",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/238.png"
+			}
+		},
+		{
+			"name": "Ether Servitor",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Eliksni Robot",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/239.png"
+			}
+		},
+		{
+			"name": "Protocol: Siberian Entropy",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/240.png"
+			}
+		},
+		{
+			"name": "Quantum Hydra",
+			"rarity": "common",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Artifact Creature — Vex Robot",
+			"collector_number": "234",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/241.png"
+			}
+		},
+		{
+			"name": "Daring Gunslinger",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Hunter",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/242.png"
+			}
+		},
+		{
+			"name": "Become Legend",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/243.png"
+			}
+		},
+		{
+			"name": "The Collapse",
+			"rarity": "rare",
+			"mana_cost": "{5}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/244.png"
+			}
+		},
+		{
+			"name": "Forces of the City",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Human",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/245.png"
+			}
+		},
+		{
+			"name": "Arcstrider",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Awoken Hunter",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/246.png"
+			}
+		},
+		{
+			"name": "Hidden Agents",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/247.png"
+			}
+		},
+		{
+			"name": "Wings of Sacred Dawn",
+			"rarity": "common",
+			"mana_cost": "{W}{W}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/248.png"
+			}
+		},
+		{
+			"name": "Arcadia-Class Jumpship",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/249.png"
+			}
+		},
+		{
+			"name": "Rally Barricade",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/250.png"
+			}
+		},
+		{
+			"name": "Lakshmi-2, Future War Cult",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Artifact Creature — Human Robot",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/251.png"
+			}
+		},
+		{
+			"name": "Lucent Fireteam",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Hive Cleric Knight Wizard",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/252.png"
+			}
+		},
+		{
+			"name": "Imperial Conscription",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/253.png"
+			}
+		},
+		{
+			"name": "Caiatl's Chosen",
+			"rarity": "common",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Cabal Soldier",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/254.png"
+			}
+		},
+		{
+			"name": "Decorated Valus",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Cabal Warrior",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/255.png"
+			}
+		},
+		{
+			"name": "Luzaku, the Redeemed",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Creature — Hive Wizard",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/256.png"
+			}
+		},
+		{
+			"name": "Queen's Deception",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/257.png"
+			}
+		},
+		{
+			"name": "Lumina",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/258.png"
+			}
+		},
+		{
+			"name": "The Last Word",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "313",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/259.png"
+			}
+		},
+		{
+			"name": "The Vanguard",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}{W}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/260.png"
+			}
+		},
+		{
+			"name": "Sweeper Bot",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "330",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/261.png"
+			}
+		},
+		{
+			"name": "Gensym Knight",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Awoken Titan",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/262.png"
+			}
+		},
+		{
+			"name": "Trapped in Time",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/263.png"
+			}
+		},
+		{
+			"name": "Zydron, Gate Lord",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Artifact Creature — Vex Robot",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/264.png"
+			}
+		},
+		{
+			"name": "Cast Through Time",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/265.png"
+			}
+		},
+		{
+			"name": "Racing Sparrow",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/266.png"
+			}
+		},
+		{
+			"name": "Bootstrap Simulation",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Sorcery",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/267.png"
+			}
+		},
+		{
+			"name": "Salvation Aspirants",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Eliksni",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/268.png"
+			}
+		},
+		{
+			"name": "Unknown Space",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "342",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/269.png"
+			}
+		},
+		{
+			"name": "Gorgons of the Labyrinth",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact Creature — Vex Robot",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/270.png"
+			}
+		},
+		{
+			"name": "The Lament",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/271.png"
+			}
+		},
+		{
+			"name": "The Templar",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Legendary Artifact Creature — Vex Robot",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/272.png"
+			}
+		},
+		{
+			"name": "Clarity",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Artifact",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/273.png"
+			}
+		},
+		{
+			"name": "Defiled Servitor",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Eliksni Robot",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/274.png"
+			}
+		},
+		{
+			"name": "Blade-bound to the Terrace",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Creature — Darkness",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/275.png"
+			}
+		},
+		{
+			"name": "Salvation Elite",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Eliksni",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/276.png"
+			}
+		},
+		{
+			"name": "Vanquisher of Nokris",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Hive Knight",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/277.png"
+			}
+		},
+		{
+			"name": "Corrupted Ravager",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Eliksni Zombie",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/278.png"
+			}
+		},
+		{
+			"name": "Xenophage",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/279.png"
+			}
+		},
+		{
+			"name": "Dreadful Scythe",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/280.png"
+			}
+		},
+		{
+			"name": "Necrotic Grip",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/281.png"
+			}
+		},
+		{
+			"name": "Graviton Forfeit",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact — Equipment",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/282.png"
+			}
+		},
+		{
+			"name": "Nightstalker",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Awoken Hunter",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/283.png"
+			}
+		},
+		{
+			"name": "Taken Goblin",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Darkness",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/284.png"
+			}
+		},
+		{
+			"name": "Devouring Voidwalker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Human Warlock",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/285.png"
+			}
+		},
+		{
+			"name": "Ada-1, Forge Curator",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Legendary Artifact Creature — Human Robot",
+			"collector_number": "296",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/286.png"
+			}
+		},
+		{
+			"name": "Echo of Oryx",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Darkness Illusion",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/287.png"
+			}
+		},
+		{
+			"name": "Wrathborn Cryptolith",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/288.png"
+			}
+		},
+		{
+			"name": "Wish Bones",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/289.png"
+			}
+		},
+		{
+			"name": "Voice of Riven",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}{B}",
+			"type": "Legendary Creature — Darkness Horror",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/290.png"
+			}
+		},
+		{
+			"name": "Mara Sov, Awoken Queen",
+			"rarity": "mythic",
+			"mana_cost": "{W}{W}{W}{B}{B}",
+			"type": "Legendary Creature — Awoken Noble",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/291.png"
+			}
+		},
+		{
+			"name": "Warden of the Harvest",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Eliksni Zombie",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/292.png"
+			}
+		},
+		{
+			"name": "The Derelict",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Artifact — Spacecraft",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/293.png"
+			}
+		},
+		{
+			"name": "Broken Knight of Fikrul",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Eliksni Zombie Knight",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/294.png"
+			}
+		},
+		{
+			"name": "Sunshot",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/295.png"
+			}
+		},
+		{
+			"name": "Valus Ta'aurc",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Legendary Creature — Cabal Soldier",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/296.png"
+			}
+		},
+		{
+			"name": "Ghaul's Bloodguard",
+			"rarity": "common",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Cabal Warrior",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/297.png"
+			}
+		},
+		{
+			"name": "Boundless Consumption",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "211",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/298.png"
+			}
+		},
+		{
+			"name": "Seraphim Bunker",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "323",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/299.png"
+			}
+		},
+		{
+			"name": "Stolen Scrap-Walker",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Artifact Creature — Eliksni Robot",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/300.png"
+			}
+		},
+		{
+			"name": "Sepiks Prime",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Artifact Creature — Eliksni Robot",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/301.png"
+			}
+		},
+		{
+			"name": "Last Stand of the Gunslinger",
+			"rarity": "mythic",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Legendary Instant",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/302.png"
+			}
+		},
+		{
+			"name": "Loyalist Colossus",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Cabal",
+			"collector_number": "229",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/303.png"
+			}
+		},
+		{
+			"name": "Eye of the Swarm",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact Creature — Hive Construct",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/304.png"
+			}
+		},
+		{
+			"name": "Ruinous Effigy",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/305.png"
+			}
+		},
+		{
+			"name": "First Contact",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "224",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/306.png"
+			}
+		},
+		{
+			"name": "Encroaching Darkness",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "221",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/307.png"
+			}
+		},
+		{
+			"name": "Sol Inherent",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Artifact Creature — Vex Robot",
+			"collector_number": "242",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/308.png"
+			}
+		},
+		{
+			"name": "Exorcism",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "222",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/309.png"
+			}
+		},
+		{
+			"name": "Visage of the Emperor",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact",
+			"collector_number": "250",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/310.png"
+			}
+		},
+		{
+			"name": "Precursor Cyclops",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Creature — Vex Robot",
+			"collector_number": "233",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/311.png"
+			}
+		},
+		{
+			"name": "Shadow Goliath",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "238",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/312.png"
+			}
+		},
+		{
+			"name": "Taken Essence",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "245",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/313.png"
+			}
+		},
+		{
+			"name": "Hive Boomer",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Artifact — Equipment",
+			"collector_number": "226",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/314.png"
+			}
+		},
+		{
+			"name": "Royal Beast",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Cabal Beast",
+			"collector_number": "285",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/315.png"
+			}
+		},
+		{
+			"name": "Corrupted Techeun",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Creature — Darkness Awoken",
+			"collector_number": "213",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/316.png"
+			}
+		},
+		{
+			"name": "Ascendant Ritual",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "208",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/317.png"
+			}
+		},
+		{
+			"name": "Bladefury",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Enchantment — Aura",
+			"collector_number": "210",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/318.png"
+			}
+		},
+		{
+			"name": "Unveiling",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "249",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/319.png"
+			}
+		},
+		{
+			"name": "Pouka",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "317",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/320.png"
+			}
+		},
+		{
+			"name": "Vanguard Postmaster",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Robot",
+			"collector_number": "333",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/321.png"
+			}
+		},
+		{
+			"name": "Siege Engine",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "324",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/322.png"
+			}
+		},
+		{
+			"name": "Crest of Alpha Lupi",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "302",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/323.png"
+			}
+		},
+		{
+			"name": "Ergo Sum",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/324.png"
+			}
+		},
+		{
+			"name": "Raid Banner",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "319",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/325.png"
+			}
+		},
+		{
+			"name": "Injection Rig",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "310",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/326.png"
+			}
+		},
+		{
+			"name": "Eva's Holiday Oven",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "305",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/327.png"
+			}
+		},
+		{
+			"name": "Cayde's Stash",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "300",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/328.png"
+			}
+		},
+		{
+			"name": "Black Armory Forge",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "299",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/329.png"
+			}
+		},
+		{
+			"name": "No Time To Explain",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "316",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/330.png"
+			}
+		},
+		{
+			"name": "Clovis Bray I",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Legendary Artifact Creature — Human Robot",
+			"collector_number": "260",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/331.png"
+			}
+		},
+		{
+			"name": "Spider, The Shore's Only Law",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Legendary Creature — Eliksni",
+			"collector_number": "290",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/332.png"
+			}
+		},
+		{
+			"name": "Radiant Sunbreaker",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Human Titan",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/333.png"
+			}
+		},
+		{
+			"name": "Light-Eater Ogre",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Hive Ogre",
+			"collector_number": "228",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/334.png"
+			}
+		},
+		{
+			"name": "Altars of Summoning",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "206",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/335.png"
+			}
+		},
+		{
+			"name": "Winterbite",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/336.png"
+			}
+		},
+		{
+			"name": "Aegis of Light",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Equipment",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/337.png"
+			}
+		},
+		{
+			"name": "SIVA Nanite",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Token — Equipment",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/338.png"
+			}
+		},
+		{
+			"name": "Heavy Frame",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Robot",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/339.png"
+			}
+		},
+		{
+			"name": "Skolas, the Rabid Kell",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Eliksni Warrior",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/340.png"
+			}
+		},
+		{
+			"name": "Lord of Wolves",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "288",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/341.png"
+			}
+		},
+		{
+			"name": "Engram",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Token — Engram",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/342.png"
+			}
+		},
+		{
+			"name": "Nezarec, Final God of Pain",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}{R}",
+			"type": "Legendary Creature — Darkness God",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/343.png"
+			}
+		},
+		{
+			"name": "Tomb of Nezarec",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Artifact",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/344.png"
+			}
+		},
+		{
+			"name": "Dredgen Yor",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Creature — Human Titan",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/345.png"
+			}
+		},
+		{
+			"name": "Thorn",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/346.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/347.png"
+			}
+		},
+		{
+			"name": "Gahlran, Sorrow-Bearer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Legendary Creature — Hive Cabal",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/348.png"
+			}
+		},
+		{
+			"name": "Tarrabah",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "269",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/349.png"
+			}
+		},
+		{
+			"name": "Gahlran's Deception",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Hive Cabal",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/350.png"
+			}
+		},
+		{
+			"name": "Lubrae's Ruin",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Legendary Artifact — Equipment",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/351.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/352.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/353.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/354.png"
+			}
+		},
+		{
+			"name": "Treasure",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Treasure",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/355.png"
+			}
+		},
+		{
+			"name": "The Witness",
+			"rarity": "mythic",
+			"mana_cost": "{4}{B}{G}{U}",
+			"type": "Legendary Creature — Darkness",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/356.png"
+			}
+		},
+		{
+			"name": "The First Knife",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Legendary Creature — Darkness",
+			"collector_number": "293",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/357.png"
+			}
+		},
+		{
+			"name": "Locus of Communion",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{B}{R}",
+			"type": "Creature — Eliksni Zombie",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/358.png"
+			}
+		},
+		{
+			"name": "Dead Man's Tale",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact — Equipment",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/359.png"
+			}
+		},
+		{
+			"name": "Sjur Eido",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Legendary Creature — Awoken",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/360.png"
+			}
+		},
+		{
+			"name": "Wishender",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "287",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/361.png"
+			}
+		},
+		{
+			"name": "Holliday, Shipwright",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Legendary Creature — Human Pilot",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/362.png"
+			}
+		},
+		{
+			"name": "The Chaperone",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "273",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/363.png"
+			}
+		},
+		{
+			"name": "Akardon, Pitiless Mind",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legerndary Artifact Creature — Vex Robot",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/364.png"
+			}
+		},
+		{
+			"name": "Wish-Keeper",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "254",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/365.png"
+			}
+		},
+		{
+			"name": "Omen of the Black Terrace",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Darkness",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/366.png"
+			}
+		},
+		{
+			"name": "Wicked Implement",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "280",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/367.png"
+			}
+		},
+		{
+			"name": "Asher Mir, Gensym Scribe",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Legendary Creature — Awoken Warlock",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/368.png"
+			}
+		},
+		{
+			"name": "Vexcalibur",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "255",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/369.png"
+			}
+		},
+		{
+			"name": "Toland, the Shattered",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Human",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/370.png"
+			}
+		},
+		{
+			"name": "Bad Juju",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "291",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/371.png"
+			}
+		},
+		{
+			"name": "Iron Wolf",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Wolf",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/372.png"
+			}
+		},
+		{
+			"name": "Xol, Will of the Thousands",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Legendary Creature — Worm God",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/373.png"
+			}
+		},
+		{
+			"name": "Whisper of the Worm",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/374.png"
+			}
+		},
+		{
+			"name": "Primeval",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Darkness",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/375.png"
+			}
+		},
+		{
+			"name": "Stalker",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Eliksni Zombie",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/376.png"
+			}
+		},
+		{
+			"name": "Crux of Darkness",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/377.png"
+			}
+		},
+		{
+			"name": "Archie",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Legendary Artifact Creature — Robot Dog",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/378.png"
+			}
+		},
+		{
+			"name": "Thrall",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Hive",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/379.png"
+			}
+		},
+		{
+			"name": "City Militia",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/380.png"
+			}
+		},
+		{
+			"name": "Royal Paladin",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Awoken Knight",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/381.png"
+			}
+		},
+		{
+			"name": "Barricade",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Wall",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/382.png"
+			}
+		},
+		{
+			"name": "Deep Stone Crypt",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Battle — Raid",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/383.png"
+			}
+		},
+		{
+			"name": "Eyes of Tomorrow",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/384.png"
+			}
+		},
+		{
+			"name": "Leviathan",
+			"rarity": "rare",
+			"mana_cost": "{W}{W}{W}",
+			"type": "Battle — Raid",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/385.png"
+			}
+		},
+		{
+			"name": "Legend of Acrius",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/386.png"
+			}
+		},
+		{
+			"name": "Vault of Glass",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Battle — Raid",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/387.png"
+			}
+		},
+		{
+			"name": "Vex Mythoclast",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/388.png"
+			}
+		},
+		{
+			"name": "Root of Nightmares",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Battle — Raid",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/389.png"
+			}
+		},
+		{
+			"name": "Conditional Finality",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/390.png"
+			}
+		},
+		{
+			"name": "King's Fall",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Battle — Raid",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/391.png"
+			}
+		},
+		{
+			"name": "Touch of Malice",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/392.png"
+			}
+		},
+		{
+			"name": "Wrath of the Machine",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{R}",
+			"type": "Battle — Raid",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/393.png"
+			}
+		},
+		{
+			"name": "Outbreak Perfected",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/394.png"
+			}
+		},
+		{
+			"name": "Last Wish",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Battle — Raid",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/395.png"
+			}
+		},
+		{
+			"name": "One Thousand Voices",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/396.png"
+			}
+		},
+		{
+			"name": "Vow of the Disciple",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}",
+			"type": "Battle — Raid",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/397.png"
+			}
+		},
+		{
+			"name": "Collective Obligation",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/398.png"
+			}
+		},
+		{
+			"name": "Crota's End",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Battle — Raid",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/399.png"
+			}
+		},
+		{
+			"name": "Necrochasm",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "215",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/400.png"
+			}
+		},
+		{
+			"name": "Garden of Salvation",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Battle — Raid",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/401.png"
+			}
+		},
+		{
+			"name": "Divinity",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "270",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/402.png"
+			}
+		},
+		{
+			"name": "Scourge of the Past",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Battle — Raid",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/403.png"
+			}
+		},
+		{
+			"name": "Anarchy",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/404.png"
+			}
+		},
+		{
+			"name": "Red Legionary",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature — Cabal Warrior",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/405.png"
+			}
+		},
+		{
+			"name": "Shank",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Artifact Creature — Eliksni Robot",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/406.png"
+			}
+		},
+		{
+			"name": "Worldline Zero",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/407.png"
+			}
+		},
+		{
+			"name": "Clovis-1",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Legendary Artifact Creature — Human Robot",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/408.png"
+			}
+		},
+		{
+			"name": "Imperial Legionary",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Cabal Soldier",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/409.png"
+			}
+		},
+		{
+			"name": "Sepiks Perfected",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Legendary Artifact Creature — Eliksni Robot",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/410.png"
+			}
+		},
+		{
+			"name": "Shadow Legionary",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature — Darkness Cabal",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/411.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/412.png"
+			}
+		},
+		{
+			"name": "Simulation",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/413.png"
+			}
+		},
+		{
+			"name": "Councilor",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Cabal Psion",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/414.png"
+			}
+		},
+		{
+			"name": "Shadow Thrall",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Darkness",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/415.png"
+			}
+		},
+		{
+			"name": "Glacier Wall",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Wall",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/416.png"
+			}
+		},
+		{
+			"name": "Shade",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Hive Wizard",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/417.png"
+			}
+		},
+		{
+			"name": "Threadling",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/418.png"
+			}
+		},
+		{
+			"name": "Insectoid Robot Grenade",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Robot",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/419.png"
+			}
+		},
+		{
+			"name": "War Beast",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Cabal Beast",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://stonefreebookstands-maker.github.io/sets/DSY-files/img/420.png"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Rasputin, Warmind
+	2 SIVA Replication Complex
+	1 Oryx's Dreadnaught
+	2 Xur, Agent of The Nine
+	2 Overwhelming Assault
+	1 Dominus Ghaul
+	2 Saint-14, Legend Returned
+	2 Exotic Engram
+	2 Quria, Blade Transform
+	1 Gjallarhorn
+	2 Light-Suppressor Cage
+	2 Warmind's Power
+	1 The Almighty
+	2 Iron Lord Saladin Forge
+	2 Crota, Son of Oryx
+	1 Oryx, the Taken King
+	2 Atheon, Time's Conflux
+	1 Riven of a Thousand Voices
+	1 Rhulk, the First Disciple
+	1 Heart of the Black Garden
+	1 Savathun, the Witch Queen
+	1 Eramis, Salvation's Kell
+	1 Mithrax, Kell of Light
+	2 Calus, Decadent Emperor
+	1 Calus, Herald of The Witness
+	2 Osiris, Exiled Vanguard
+	2 Sleeper Simulant
+	2 Ace of Spades
+	2 Solstice of Heroes
+	2 Cayde-6, Reborn in Light
+	2 Imprint of Nezarec
+	2 Eris Morn, Swarm's Bane
+	2 Nimbus, Cloudstrider
+	2 Uldren Sov, Awoken Prince
+	2 Drake Tank
+	1 Typhon Imperator
+	1 The Leviathan
+	1 Seraph Station
+	2 Taniks, the Abomination
+	2 Kridis, Dark Priestess
+	2 Brood Queen
+	2 Hold the Line
+	2 Teachings of The Nine
+	1 Open the Black Terrace
+	1 Pull Through Time
+	2 Death Impulse
+	1 Crow, Risen Prince
+	1 The Dreaming City
+	2 The Drifter
+	2 Become Legend
+	2 The Collapse
+	1 The Vanguard
+	2 Gorgons of the Labyrinth
+	2 The Lament
+	2 The Templar
+	1 Clarity
+	1 Mara Sov, Awoken Queen
+	2 Warden of the Harvest
+	2 The Derelict
+	2 Broken Knight of Fikrul
+	2 Sepiks Prime
+	1 Last Stand of the Gunslinger
+	2 Royal Beast
+	2 Corrupted Techeun
+	2 Ascendant Ritual
+	2 Bladefury
+	1 Unveiling
+	2 No Time To Explain
+	1 Clovis Bray I
+	2 Spider, The Shore's Only Law
+	2 Altars of Summoning
+	1 Nezarec, Final God of Pain
+	1 Tomb of Nezarec
+	2 Dredgen Yor
+	2 Thorn
+	1 The Witness
+	1 The First Knife
+	2 Xol, Will of the Thousands
+	2 Whisper of the Worm
+	2 Leviathan
+	2 Legend of Acrius
+	2 Vault of Glass
+	2 Vex Mythoclast
+	2 King's Fall
+	2 Touch of Malice
+	2 Last Wish
+	2 One Thousand Voices
+	2 Vow of the Disciple
+	2 Collective Obligation
+[uncommon(3)]
+	4 The Sanctified Mind
+	4 The Bladed Path
+	4 Plaguelands
+	4 Anointed Sorrowsmith
+	4 Death Song
+	4 Shadows on the March
+	4 Ceremonial Bather
+	4 Nokris, Herald of Xol
+	4 Zulmak, Instrument of Torment
+	4 Petra Venj, Queen's Wrath
+	4 Taniks, the Scarred
+	4 Hiraks, the Mindbender
+	4 Drop Pod
+	4 Rose
+	4 St0mp-EE5
+	4 Fists of Havoc
+	4 Needlestorm
+	4 Shadowshot
+	4 Banner Shield
+	4 Silkstrike
+	4 Winter's Wrath
+	4 Spectral Blades
+	4 Elsie Bray, Exo Stranger
+	4 Aeon Safe
+	4 Aksis, Archon Prime
+	4 Bracus Zahn, Arms Dealer
+	4 Grasp of Avarice
+	4 Rahool, Master Cryptarch
+	4 Caiatl, Princess Imperial
+	4 Fikrul, Fanatical Baron
+	4 Ergo Sum
+	4 Ergo Sum
+	4 Ergo Sum
+	4 Ergo Sum
+	4 Banshee-44, Tower Gunsmith
+	4 Atraks-1, Fallen Exo
+	4 Drown in the Deep
+	4 Deathtongue of the War God
+	4 Midnight Coup
+	4 Coyotes' Expedition
+	4 Spicy Ramen Shop
+	4 Mars
+	4 Fireteam Alpha
+	4 Venus
+	4 Earth
+	4 The Moon
+	4 The Reef
+	4 High Celebrant of War
+	4 Orbital Bombardment
+	4 Alak-Hul, the Dark Blade
+	4 Ecthar, Blade of Oryx
+	4 Corrupted Simulation
+	4 Conflux in Time
+	4 World's Grave
+	4 Crown of Sorrows
+	4 Praksis, Chief Technocrat
+	4 Owl Sector Records
+	4 Araskes, the Trickster
+	4 Blind Well
+	4 Phylaks, Warrior of Salvation
+	4 Glass Oracle
+	4 Tithe to Strength
+	4 Omnigul, Will of Crota
+	4 Argos, Planetary Core
+	4 Shadow Legion Centurion
+	4 Armsday
+	4 Efrideet, Iron Lady
+	4 Ana Bray, Voice of Rasputin
+	4 Hive Apotheosis
+	4 Rogue Dredgen
+	4 Panoptes, Infinite Mind
+	4 Protocol: Siberian Entropy
+	4 Lakshmi-2, Future War Cult
+	4 Decorated Valus
+	4 Luzaku, the Redeemed
+	4 Queen's Deception
+	4 Lumina
+	4 The Last Word
+	4 Zydron, Gate Lord
+	4 Cast Through Time
+	4 Unknown Space
+	4 Devouring Voidwalker
+	4 Ada-1, Forge Curator
+	4 Echo of Oryx
+	4 Wrathborn Cryptolith
+	4 Wish Bones
+	4 Voice of Riven
+	4 Sunshot
+	4 Valus Ta'aurc
+	4 Seraphim Bunker
+	4 Ruinous Effigy
+	4 Ergo Sum
+	4 Raid Banner
+	4 Injection Rig
+	4 Eva's Holiday Oven
+	4 Cayde's Stash
+	4 Black Armory Forge
+	4 Radiant Sunbreaker
+	4 Winterbite
+	4 Aegis of Light
+	4 Skolas, the Rabid Kell
+	4 Lord of Wolves
+	4 Gahlran, Sorrow-Bearer
+	4 Tarrabah
+	4 Locus of Communion
+	4 Dead Man's Tale
+	4 Sjur Eido
+	4 Wishender
+	4 Holliday, Shipwright
+	4 The Chaperone
+	4 Akardon, Pitiless Mind
+	4 Wish-Keeper
+	4 Omen of the Black Terrace
+	4 Wicked Implement
+	4 Asher Mir, Gensym Scribe
+	4 Vexcalibur
+	4 Toland, the Shattered
+	4 Bad Juju
+	4 Deep Stone Crypt
+	4 Eyes of Tomorrow
+	4 Root of Nightmares
+	4 Conditional Finality
+	4 Wrath of the Machine
+	4 Outbreak Perfected
+	4 Crota's End
+	4 Necrochasm
+	4 Garden of Salvation
+	4 Divinity
+[common(6)]
+	8 Golden Gun
+	8 Knight's Cleaver
+	8 Malfeasance
+	8 Void Suppressor
+	8 Devil Splicers
+	8 Splicer Archpriest
+	8 ~Consume~
+	8 Ghost
+	8 Acolytes of the Hidden Swarm
+	8 Noble Winter Walker
+	8 Silent Fang Assassin
+	8 Final Death
+	8 Siege Dancer Phalanx
+	8 Heat Rises
+	8 Spider's Associates
+	8 Gambler's Dodge
+	8 Radiant Resurrection
+	8 Taken Psion
+	8 Shuro Chi's Teachings
+	8 Scorch Cannon
+	8 Cabal Stomp
+	8 Landing Zone
+	8 Kell's Scourge Berserker
+	8 Scorpius Turret
+	8 Data Preservation
+	8 Grim Flayer
+	8 Tormenting Voice
+	8 Scorned Crossbow
+	8 Pyramid Splinter
+	8 Bell of Conquests
+	8 Chalice of Opulence
+	8 Nightmare Harvester
+	8 Gate Lord's Eye
+	8 Tree of Silver Wings
+	8 Tablet of Ruin
+	8 Skeleton Key
+	8 Warmind Khanjali
+	8 Acolyte's Staff
+	8 Strange Coin
+	8 Scorn Ravager
+	8 Tarnished Wraith
+	8 Valkyrie
+	8 Nightmarish Revival
+	8 Ritual of Negation
+	8 Heavy Pike
+	8 Hive Tomb Ship
+	8 Salvation's Grip
+	8 Goblins of the Hezen Protective
+	8 Shadow Lurker
+	8 New Light
+	8 Psion Operant
+	8 Woven Mail
+	8 Gluttonous Growth
+	8 Drifter's Gambit
+	8 ~Enhance~
+	8 Cloud Skimmer
+	8 Legion Thresher
+	8 Sacred Splicer's Art
+	8 Bound Ogre
+	8 Slug Rifle
+	8 Khvostov 7G-02
+	8 Queen's Corsairs
+	8 Subjugator of Truth
+	8 Subjugator of Gardens
+	8 Time's Vengeance
+	8 Centurion of the Coalition
+	8 Music of the Spheres
+	8 Swordbearer
+	8 Archon of Wolves
+	8 Rat King
+	8 Dregs of Dusk
+	8 ~Replicate~
+	8 Unstable Incendior
+	8 Fanatic's Summons
+	8 Insurrection Prime
+	8 Shaxx's Redjacks
+	8 Devouring Light
+	8 Wormgod Larva
+	8 Explicator of Planets
+	8 Silence & Squall
+	8 Screeb
+	8 Honored Gladiator
+	8 Axis Harpies
+	8 Fell the Monstrous
+	8 Invoke Deepsight
+	8 Commodore Brig
+	8 Old Crew's Ketch
+	8 Divisive Gate Lord
+	8 Lost Sector
+	8 Surge of Light
+	8 Remnant of the Iron Lords
+	8 Seven Seraphs
+	8 Neomuni Archivist
+	8 Prohibitive Hobgoblin
+	8 Vex Assimilation
+	8 Pilgrim Guard Sentinel
+	8 Soulfire Infusion
+	8 Sunsinger
+	8 Shattered Memories
+	8 Ether Servitor
+	8 Quantum Hydra
+	8 Daring Gunslinger
+	8 Forces of the City
+	8 Arcstrider
+	8 Hidden Agents
+	8 Wings of Sacred Dawn
+	8 Arcadia-Class Jumpship
+	8 Rally Barricade
+	8 Lucent Fireteam
+	8 Imperial Conscription
+	8 Caiatl's Chosen
+	8 Sweeper Bot
+	8 Gensym Knight
+	8 Trapped in Time
+	8 Racing Sparrow
+	8 Bootstrap Simulation
+	8 Salvation Aspirants
+	8 Defiled Servitor
+	8 Blade-bound to the Terrace
+	8 Salvation Elite
+	8 Vanquisher of Nokris
+	8 Corrupted Ravager
+	8 Xenophage
+	8 Dreadful Scythe
+	8 Necrotic Grip
+	8 Graviton Forfeit
+	8 Nightstalker
+	8 Taken Goblin
+	8 Ghaul's Bloodguard
+	8 Boundless Consumption
+	8 Stolen Scrap-Walker
+	8 Loyalist Colossus
+	8 Eye of the Swarm
+	8 First Contact
+	8 Encroaching Darkness
+	8 Sol Inherent
+	8 Exorcism
+	8 Visage of the Emperor
+	8 Precursor Cyclops
+	8 Shadow Goliath
+	8 Taken Essence
+	8 Hive Boomer
+	8 Pouka
+	8 Vanguard Postmaster
+	8 Siege Engine
+	8 Crest of Alpha Lupi
+	8 Light-Eater Ogre
+	8 Scourge of the Past
+	8 Anarchy
+	8 Worldline Zero
+[common | masterpiece(1)]
+	8 Golden Gun
+	8 Knight's Cleaver
+	8 Malfeasance
+	8 Void Suppressor
+	8 Devil Splicers
+	8 Splicer Archpriest
+	8 ~Consume~
+	8 Ghost
+	8 Acolytes of the Hidden Swarm
+	8 Noble Winter Walker
+	8 Silent Fang Assassin
+	8 Final Death
+	8 Siege Dancer Phalanx
+	8 Heat Rises
+	8 Spider's Associates
+	8 Gambler's Dodge
+	8 Radiant Resurrection
+	8 Taken Psion
+	8 Shuro Chi's Teachings
+	8 Scorch Cannon
+	8 Cabal Stomp
+	8 Landing Zone
+	8 Kell's Scourge Berserker
+	8 Scorpius Turret
+	8 Data Preservation
+	8 Grim Flayer
+	8 Tormenting Voice
+	8 Scorned Crossbow
+	8 Pyramid Splinter
+	8 Bell of Conquests
+	8 Chalice of Opulence
+	8 Nightmare Harvester
+	8 Gate Lord's Eye
+	8 Tree of Silver Wings
+	8 Tablet of Ruin
+	8 Skeleton Key
+	8 Warmind Khanjali
+	8 Acolyte's Staff
+	8 Strange Coin
+	8 Scorn Ravager
+	8 Tarnished Wraith
+	8 Valkyrie
+	8 Nightmarish Revival
+	8 Ritual of Negation
+	8 Heavy Pike
+	8 Hive Tomb Ship
+	8 Salvation's Grip
+	8 Goblins of the Hezen Protective
+	8 Shadow Lurker
+	8 New Light
+	8 Psion Operant
+	8 Woven Mail
+	8 Gluttonous Growth
+	8 Drifter's Gambit
+	8 ~Enhance~
+	8 Cloud Skimmer
+	8 Legion Thresher
+	8 Sacred Splicer's Art
+	8 Bound Ogre
+	8 Slug Rifle
+	8 Khvostov 7G-02
+	8 Queen's Corsairs
+	8 Subjugator of Truth
+	8 Subjugator of Gardens
+	8 Time's Vengeance
+	8 Centurion of the Coalition
+	8 Music of the Spheres
+	8 Swordbearer
+	8 Archon of Wolves
+	8 Rat King
+	8 Dregs of Dusk
+	8 ~Replicate~
+	8 Unstable Incendior
+	8 Fanatic's Summons
+	8 Insurrection Prime
+	8 Shaxx's Redjacks
+	8 Devouring Light
+	8 Wormgod Larva
+	8 Explicator of Planets
+	8 Silence & Squall
+	8 Screeb
+	8 Honored Gladiator
+	8 Axis Harpies
+	8 Fell the Monstrous
+	8 Invoke Deepsight
+	8 Commodore Brig
+	8 Old Crew's Ketch
+	8 Divisive Gate Lord
+	8 Lost Sector
+	8 Surge of Light
+	8 Remnant of the Iron Lords
+	8 Seven Seraphs
+	8 Neomuni Archivist
+	8 Prohibitive Hobgoblin
+	8 Vex Assimilation
+	8 Pilgrim Guard Sentinel
+	8 Soulfire Infusion
+	8 Sunsinger
+	8 Shattered Memories
+	8 Ether Servitor
+	8 Quantum Hydra
+	8 Daring Gunslinger
+	8 Forces of the City
+	8 Arcstrider
+	8 Hidden Agents
+	8 Wings of Sacred Dawn
+	8 Arcadia-Class Jumpship
+	8 Rally Barricade
+	8 Lucent Fireteam
+	8 Imperial Conscription
+	8 Caiatl's Chosen
+	8 Sweeper Bot
+	8 Gensym Knight
+	8 Trapped in Time
+	8 Racing Sparrow
+	8 Bootstrap Simulation
+	8 Salvation Aspirants
+	8 Defiled Servitor
+	8 Blade-bound to the Terrace
+	8 Salvation Elite
+	8 Vanquisher of Nokris
+	8 Corrupted Ravager
+	8 Xenophage
+	8 Dreadful Scythe
+	8 Necrotic Grip
+	8 Graviton Forfeit
+	8 Nightstalker
+	8 Taken Goblin
+	8 Ghaul's Bloodguard
+	8 Boundless Consumption
+	8 Stolen Scrap-Walker
+	8 Loyalist Colossus
+	8 Eye of the Swarm
+	8 First Contact
+	8 Encroaching Darkness
+	8 Sol Inherent
+	8 Exorcism
+	8 Visage of the Emperor
+	8 Precursor Cyclops
+	8 Shadow Goliath
+	8 Taken Essence
+	8 Hive Boomer
+	8 Pouka
+	8 Vanguard Postmaster
+	8 Siege Engine
+	8 Crest of Alpha Lupi
+	8 Light-Eater Ogre
+	8 Scourge of the Past
+	8 Anarchy
+	8 Worldline Zero
+[foil(1)]
+	1 Rasputin, Warmind
+	2 SIVA Replication Complex
+	6 The Sanctified Mind
+	1 Oryx's Dreadnaught
+	12 Golden Gun
+	12 Knight's Cleaver
+	6 The Bladed Path
+	6 Plaguelands
+	2 Xur, Agent of The Nine
+	6 Anointed Sorrowsmith
+	6 Death Song
+	6 Shadows on the March
+	12 Malfeasance
+	12 Void Suppressor
+	12 Devil Splicers
+	2 Overwhelming Assault
+	1 Dominus Ghaul
+	2 Saint-14, Legend Returned
+	12 Splicer Archpriest
+	12 ~Consume~
+	6 Ceremonial Bather
+	2 Exotic Engram
+	6 Nokris, Herald of Xol
+	6 Zulmak, Instrument of Torment
+	2 Quria, Blade Transform
+	1 Gjallarhorn
+	2 Light-Suppressor Cage
+	6 Petra Venj, Queen's Wrath
+	12 Ghost
+	12 Acolytes of the Hidden Swarm
+	6 Taniks, the Scarred
+	12 Noble Winter Walker
+	2 Warmind's Power
+	12 Silent Fang Assassin
+	1 The Almighty
+	12 Final Death
+	2 Iron Lord Saladin Forge
+	6 Hiraks, the Mindbender
+	6 Drop Pod
+	2 Crota, Son of Oryx
+	1 Oryx, the Taken King
+	2 Atheon, Time's Conflux
+	1 Riven of a Thousand Voices
+	1 Rhulk, the First Disciple
+	1 Heart of the Black Garden
+	12 Siege Dancer Phalanx
+	1 Savathun, the Witch Queen
+	1 Eramis, Salvation's Kell
+	1 Mithrax, Kell of Light
+	2 Calus, Decadent Emperor
+	1 Calus, Herald of The Witness
+	2 Osiris, Exiled Vanguard
+	6 Rose
+	2 Sleeper Simulant
+	2 Ace of Spades
+	6 St0mp-EE5
+	12 Heat Rises
+	6 Fists of Havoc
+	6 Needlestorm
+	6 Shadowshot
+	12 Spider's Associates
+	12 Gambler's Dodge
+	6 Banner Shield
+	12 Radiant Resurrection
+	6 Silkstrike
+	6 Winter's Wrath
+	6 Spectral Blades
+	6 Elsie Bray, Exo Stranger
+	2 Solstice of Heroes
+	2 Cayde-6, Reborn in Light
+	12 Taken Psion
+	12 Shuro Chi's Teachings
+	6 Aeon Safe
+	2 Imprint of Nezarec
+	6 Aksis, Archon Prime
+	2 Eris Morn, Swarm's Bane
+	12 Scorch Cannon
+	12 Cabal Stomp
+	12 Landing Zone
+	6 Bracus Zahn, Arms Dealer
+	12 Kell's Scourge Berserker
+	12 Scorpius Turret
+	6 Grasp of Avarice
+	6 Rahool, Master Cryptarch
+	12 Data Preservation
+	6 Caiatl, Princess Imperial
+	2 Nimbus, Cloudstrider
+	6 Fikrul, Fanatical Baron
+	12 Grim Flayer
+	12 Tormenting Voice
+	6 Ergo Sum
+	6 Ergo Sum
+	6 Ergo Sum
+	6 Ergo Sum
+	12 Scorned Crossbow
+	12 Pyramid Splinter
+	12 Bell of Conquests
+	12 Chalice of Opulence
+	12 Nightmare Harvester
+	12 Gate Lord's Eye
+	12 Tree of Silver Wings
+	12 Tablet of Ruin
+	12 Skeleton Key
+	12 Warmind Khanjali
+	12 Acolyte's Staff
+	6 Banshee-44, Tower Gunsmith
+	6 Atraks-1, Fallen Exo
+	2 Uldren Sov, Awoken Prince
+	6 Drown in the Deep
+	6 Deathtongue of the War God
+	12 Strange Coin
+	12 Scorn Ravager
+	12 Tarnished Wraith
+	12 Valkyrie
+	6 Midnight Coup
+	12 Nightmarish Revival
+	6 Coyotes' Expedition
+	12 Ritual of Negation
+	2 Drake Tank
+	12 Heavy Pike
+	12 Hive Tomb Ship
+	12 Salvation's Grip
+	6 Spicy Ramen Shop
+	12 Goblins of the Hezen Protective
+	12 Shadow Lurker
+	12 New Light
+	12 Psion Operant
+	12 Woven Mail
+	6 Mars
+	6 Fireteam Alpha
+	1 Typhon Imperator
+	1 The Leviathan
+	6 Venus
+	6 Earth
+	6 The Moon
+	6 The Reef
+	1 Seraph Station
+	12 Gluttonous Growth
+	12 Drifter's Gambit
+	6 High Celebrant of War
+	12 ~Enhance~
+	6 Orbital Bombardment
+	12 Cloud Skimmer
+	12 Legion Thresher
+	12 Sacred Splicer's Art
+	12 Bound Ogre
+	6 Alak-Hul, the Dark Blade
+	12 Slug Rifle
+	12 Khvostov 7G-02
+	12 Queen's Corsairs
+	12 Subjugator of Truth
+	12 Subjugator of Gardens
+	12 Time's Vengeance
+	2 Taniks, the Abomination
+	12 Centurion of the Coalition
+	12 Music of the Spheres
+	12 Swordbearer
+	12 Archon of Wolves
+	12 Rat King
+	12 Dregs of Dusk
+	12 ~Replicate~
+	6 Ecthar, Blade of Oryx
+	12 Unstable Incendior
+	2 Kridis, Dark Priestess
+	12 Fanatic's Summons
+	12 Insurrection Prime
+	2 Brood Queen
+	2 Hold the Line
+	6 Corrupted Simulation
+	2 Teachings of The Nine
+	12 Shaxx's Redjacks
+	6 Conflux in Time
+	1 Open the Black Terrace
+	6 World's Grave
+	12 Devouring Light
+	12 Wormgod Larva
+	6 Crown of Sorrows
+	6 Praksis, Chief Technocrat
+	12 Explicator of Planets
+	6 Owl Sector Records
+	6 Araskes, the Trickster
+	6 Blind Well
+	12 Silence & Squall
+	1 Pull Through Time
+	12 Screeb
+	12 Honored Gladiator
+	12 Axis Harpies
+	12 Fell the Monstrous
+	2 Death Impulse
+	12 Invoke Deepsight
+	1 Crow, Risen Prince
+	6 Phylaks, Warrior of Salvation
+	12 Commodore Brig
+	12 Old Crew's Ketch
+	1 The Dreaming City
+	12 Divisive Gate Lord
+	12 Lost Sector
+	6 Glass Oracle
+	12 Surge of Light
+	12 Remnant of the Iron Lords
+	2 The Drifter
+	12 Seven Seraphs
+	12 Neomuni Archivist
+	6 Tithe to Strength
+	6 Omnigul, Will of Crota
+	12 Prohibitive Hobgoblin
+	12 Vex Assimilation
+	6 Argos, Planetary Core
+	6 Shadow Legion Centurion
+	6 Armsday
+	6 Efrideet, Iron Lady
+	6 Ana Bray, Voice of Rasputin
+	6 Hive Apotheosis
+	6 Rogue Dredgen
+	12 Pilgrim Guard Sentinel
+	12 Soulfire Infusion
+	12 Sunsinger
+	12 Shattered Memories
+	6 Panoptes, Infinite Mind
+	12 Ether Servitor
+	6 Protocol: Siberian Entropy
+	12 Quantum Hydra
+	12 Daring Gunslinger
+	2 Become Legend
+	2 The Collapse
+	12 Forces of the City
+	12 Arcstrider
+	12 Hidden Agents
+	12 Wings of Sacred Dawn
+	12 Arcadia-Class Jumpship
+	12 Rally Barricade
+	6 Lakshmi-2, Future War Cult
+	12 Lucent Fireteam
+	12 Imperial Conscription
+	12 Caiatl's Chosen
+	6 Decorated Valus
+	6 Luzaku, the Redeemed
+	6 Queen's Deception
+	6 Lumina
+	6 The Last Word
+	1 The Vanguard
+	12 Sweeper Bot
+	12 Gensym Knight
+	12 Trapped in Time
+	6 Zydron, Gate Lord
+	6 Cast Through Time
+	12 Racing Sparrow
+	12 Bootstrap Simulation
+	12 Salvation Aspirants
+	6 Unknown Space
+	2 Gorgons of the Labyrinth
+	2 The Lament
+	2 The Templar
+	1 Clarity
+	12 Defiled Servitor
+	12 Blade-bound to the Terrace
+	12 Salvation Elite
+	12 Vanquisher of Nokris
+	12 Corrupted Ravager
+	12 Xenophage
+	12 Dreadful Scythe
+	12 Necrotic Grip
+	12 Graviton Forfeit
+	12 Nightstalker
+	12 Taken Goblin
+	6 Devouring Voidwalker
+	6 Ada-1, Forge Curator
+	6 Echo of Oryx
+	6 Wrathborn Cryptolith
+	6 Wish Bones
+	6 Voice of Riven
+	1 Mara Sov, Awoken Queen
+	2 Warden of the Harvest
+	2 The Derelict
+	2 Broken Knight of Fikrul
+	6 Sunshot
+	6 Valus Ta'aurc
+	12 Ghaul's Bloodguard
+	12 Boundless Consumption
+	6 Seraphim Bunker
+	12 Stolen Scrap-Walker
+	2 Sepiks Prime
+	1 Last Stand of the Gunslinger
+	12 Loyalist Colossus
+	12 Eye of the Swarm
+	6 Ruinous Effigy
+	12 First Contact
+	12 Encroaching Darkness
+	12 Sol Inherent
+	12 Exorcism
+	12 Visage of the Emperor
+	12 Precursor Cyclops
+	12 Shadow Goliath
+	12 Taken Essence
+	12 Hive Boomer
+	2 Royal Beast
+	2 Corrupted Techeun
+	2 Ascendant Ritual
+	2 Bladefury
+	1 Unveiling
+	12 Pouka
+	12 Vanguard Postmaster
+	12 Siege Engine
+	12 Crest of Alpha Lupi
+	6 Ergo Sum
+	6 Raid Banner
+	6 Injection Rig
+	6 Eva's Holiday Oven
+	6 Cayde's Stash
+	6 Black Armory Forge
+	2 No Time To Explain
+	1 Clovis Bray I
+	2 Spider, The Shore's Only Law
+	6 Radiant Sunbreaker
+	12 Light-Eater Ogre
+	2 Altars of Summoning
+	6 Winterbite
+	6 Aegis of Light
+	6 Skolas, the Rabid Kell
+	6 Lord of Wolves
+	1 Nezarec, Final God of Pain
+	1 Tomb of Nezarec
+	2 Dredgen Yor
+	2 Thorn
+	6 Gahlran, Sorrow-Bearer
+	6 Tarrabah
+	1 The Witness
+	1 The First Knife
+	6 Locus of Communion
+	6 Dead Man's Tale
+	6 Sjur Eido
+	6 Wishender
+	6 Holliday, Shipwright
+	6 The Chaperone
+	6 Akardon, Pitiless Mind
+	6 Wish-Keeper
+	6 Omen of the Black Terrace
+	6 Wicked Implement
+	6 Asher Mir, Gensym Scribe
+	6 Vexcalibur
+	6 Toland, the Shattered
+	6 Bad Juju
+	2 Xol, Will of the Thousands
+	2 Whisper of the Worm
+	6 Deep Stone Crypt
+	6 Eyes of Tomorrow
+	2 Leviathan
+	2 Legend of Acrius
+	2 Vault of Glass
+	2 Vex Mythoclast
+	6 Root of Nightmares
+	6 Conditional Finality
+	2 King's Fall
+	2 Touch of Malice
+	6 Wrath of the Machine
+	6 Outbreak Perfected
+	2 Last Wish
+	2 One Thousand Voices
+	2 Vow of the Disciple
+	2 Collective Obligation
+	6 Crota's End
+	6 Necrochasm
+	6 Garden of Salvation
+	6 Divinity
+	12 Scourge of the Past
+	12 Anarchy
+	12 Worldline Zero
+[wildcard(1)]
+	4 Rasputin, Warmind
+	7 SIVA Replication Complex
+	15 The Sanctified Mind
+	4 Oryx's Dreadnaught
+	6 Golden Gun
+	6 Knight's Cleaver
+	15 The Bladed Path
+	15 Plaguelands
+	7 Xur, Agent of The Nine
+	15 Anointed Sorrowsmith
+	15 Death Song
+	15 Shadows on the March
+	6 Malfeasance
+	6 Void Suppressor
+	6 Devil Splicers
+	7 Overwhelming Assault
+	4 Dominus Ghaul
+	7 Saint-14, Legend Returned
+	6 Splicer Archpriest
+	6 ~Consume~
+	15 Ceremonial Bather
+	7 Exotic Engram
+	15 Nokris, Herald of Xol
+	15 Zulmak, Instrument of Torment
+	7 Quria, Blade Transform
+	4 Gjallarhorn
+	7 Light-Suppressor Cage
+	15 Petra Venj, Queen's Wrath
+	6 Ghost
+	6 Acolytes of the Hidden Swarm
+	15 Taniks, the Scarred
+	6 Noble Winter Walker
+	7 Warmind's Power
+	6 Silent Fang Assassin
+	4 The Almighty
+	6 Final Death
+	7 Iron Lord Saladin Forge
+	15 Hiraks, the Mindbender
+	15 Drop Pod
+	7 Crota, Son of Oryx
+	4 Oryx, the Taken King
+	7 Atheon, Time's Conflux
+	4 Riven of a Thousand Voices
+	4 Rhulk, the First Disciple
+	4 Heart of the Black Garden
+	6 Siege Dancer Phalanx
+	4 Savathun, the Witch Queen
+	4 Eramis, Salvation's Kell
+	4 Mithrax, Kell of Light
+	7 Calus, Decadent Emperor
+	4 Calus, Herald of The Witness
+	7 Osiris, Exiled Vanguard
+	15 Rose
+	7 Sleeper Simulant
+	7 Ace of Spades
+	15 St0mp-EE5
+	6 Heat Rises
+	15 Fists of Havoc
+	15 Needlestorm
+	15 Shadowshot
+	6 Spider's Associates
+	6 Gambler's Dodge
+	15 Banner Shield
+	6 Radiant Resurrection
+	15 Silkstrike
+	15 Winter's Wrath
+	15 Spectral Blades
+	15 Elsie Bray, Exo Stranger
+	7 Solstice of Heroes
+	7 Cayde-6, Reborn in Light
+	6 Taken Psion
+	6 Shuro Chi's Teachings
+	15 Aeon Safe
+	7 Imprint of Nezarec
+	15 Aksis, Archon Prime
+	7 Eris Morn, Swarm's Bane
+	6 Scorch Cannon
+	6 Cabal Stomp
+	6 Landing Zone
+	15 Bracus Zahn, Arms Dealer
+	6 Kell's Scourge Berserker
+	6 Scorpius Turret
+	15 Grasp of Avarice
+	15 Rahool, Master Cryptarch
+	6 Data Preservation
+	15 Caiatl, Princess Imperial
+	7 Nimbus, Cloudstrider
+	15 Fikrul, Fanatical Baron
+	6 Grim Flayer
+	6 Tormenting Voice
+	15 Ergo Sum
+	15 Ergo Sum
+	15 Ergo Sum
+	15 Ergo Sum
+	6 Scorned Crossbow
+	6 Pyramid Splinter
+	6 Bell of Conquests
+	6 Chalice of Opulence
+	6 Nightmare Harvester
+	6 Gate Lord's Eye
+	6 Tree of Silver Wings
+	6 Tablet of Ruin
+	6 Skeleton Key
+	6 Warmind Khanjali
+	6 Acolyte's Staff
+	15 Banshee-44, Tower Gunsmith
+	15 Atraks-1, Fallen Exo
+	7 Uldren Sov, Awoken Prince
+	15 Drown in the Deep
+	15 Deathtongue of the War God
+	6 Strange Coin
+	6 Scorn Ravager
+	6 Tarnished Wraith
+	6 Valkyrie
+	15 Midnight Coup
+	6 Nightmarish Revival
+	15 Coyotes' Expedition
+	6 Ritual of Negation
+	7 Drake Tank
+	6 Heavy Pike
+	6 Hive Tomb Ship
+	6 Salvation's Grip
+	15 Spicy Ramen Shop
+	6 Goblins of the Hezen Protective
+	6 Shadow Lurker
+	6 New Light
+	6 Psion Operant
+	6 Woven Mail
+	15 Mars
+	15 Fireteam Alpha
+	4 Typhon Imperator
+	4 The Leviathan
+	15 Venus
+	15 Earth
+	15 The Moon
+	15 The Reef
+	4 Seraph Station
+	6 Gluttonous Growth
+	6 Drifter's Gambit
+	15 High Celebrant of War
+	6 ~Enhance~
+	15 Orbital Bombardment
+	6 Cloud Skimmer
+	6 Legion Thresher
+	6 Sacred Splicer's Art
+	6 Bound Ogre
+	15 Alak-Hul, the Dark Blade
+	6 Slug Rifle
+	6 Khvostov 7G-02
+	6 Queen's Corsairs
+	6 Subjugator of Truth
+	6 Subjugator of Gardens
+	6 Time's Vengeance
+	7 Taniks, the Abomination
+	6 Centurion of the Coalition
+	6 Music of the Spheres
+	6 Swordbearer
+	6 Archon of Wolves
+	6 Rat King
+	6 Dregs of Dusk
+	6 ~Replicate~
+	15 Ecthar, Blade of Oryx
+	6 Unstable Incendior
+	7 Kridis, Dark Priestess
+	6 Fanatic's Summons
+	6 Insurrection Prime
+	7 Brood Queen
+	7 Hold the Line
+	15 Corrupted Simulation
+	7 Teachings of The Nine
+	6 Shaxx's Redjacks
+	15 Conflux in Time
+	4 Open the Black Terrace
+	15 World's Grave
+	6 Devouring Light
+	6 Wormgod Larva
+	15 Crown of Sorrows
+	15 Praksis, Chief Technocrat
+	6 Explicator of Planets
+	15 Owl Sector Records
+	15 Araskes, the Trickster
+	15 Blind Well
+	6 Silence & Squall
+	4 Pull Through Time
+	6 Screeb
+	6 Honored Gladiator
+	6 Axis Harpies
+	6 Fell the Monstrous
+	7 Death Impulse
+	6 Invoke Deepsight
+	4 Crow, Risen Prince
+	15 Phylaks, Warrior of Salvation
+	6 Commodore Brig
+	6 Old Crew's Ketch
+	4 The Dreaming City
+	6 Divisive Gate Lord
+	6 Lost Sector
+	15 Glass Oracle
+	6 Surge of Light
+	6 Remnant of the Iron Lords
+	7 The Drifter
+	6 Seven Seraphs
+	6 Neomuni Archivist
+	15 Tithe to Strength
+	15 Omnigul, Will of Crota
+	6 Prohibitive Hobgoblin
+	6 Vex Assimilation
+	15 Argos, Planetary Core
+	15 Shadow Legion Centurion
+	15 Armsday
+	15 Efrideet, Iron Lady
+	15 Ana Bray, Voice of Rasputin
+	15 Hive Apotheosis
+	15 Rogue Dredgen
+	6 Pilgrim Guard Sentinel
+	6 Soulfire Infusion
+	6 Sunsinger
+	6 Shattered Memories
+	15 Panoptes, Infinite Mind
+	6 Ether Servitor
+	15 Protocol: Siberian Entropy
+	6 Quantum Hydra
+	6 Daring Gunslinger
+	7 Become Legend
+	7 The Collapse
+	6 Forces of the City
+	6 Arcstrider
+	6 Hidden Agents
+	6 Wings of Sacred Dawn
+	6 Arcadia-Class Jumpship
+	6 Rally Barricade
+	15 Lakshmi-2, Future War Cult
+	6 Lucent Fireteam
+	6 Imperial Conscription
+	6 Caiatl's Chosen
+	15 Decorated Valus
+	15 Luzaku, the Redeemed
+	15 Queen's Deception
+	15 Lumina
+	15 The Last Word
+	4 The Vanguard
+	6 Sweeper Bot
+	6 Gensym Knight
+	6 Trapped in Time
+	15 Zydron, Gate Lord
+	15 Cast Through Time
+	6 Racing Sparrow
+	6 Bootstrap Simulation
+	6 Salvation Aspirants
+	15 Unknown Space
+	7 Gorgons of the Labyrinth
+	7 The Lament
+	7 The Templar
+	4 Clarity
+	6 Defiled Servitor
+	6 Blade-bound to the Terrace
+	6 Salvation Elite
+	6 Vanquisher of Nokris
+	6 Corrupted Ravager
+	6 Xenophage
+	6 Dreadful Scythe
+	6 Necrotic Grip
+	6 Graviton Forfeit
+	6 Nightstalker
+	6 Taken Goblin
+	15 Devouring Voidwalker
+	15 Ada-1, Forge Curator
+	15 Echo of Oryx
+	15 Wrathborn Cryptolith
+	15 Wish Bones
+	15 Voice of Riven
+	4 Mara Sov, Awoken Queen
+	7 Warden of the Harvest
+	7 The Derelict
+	7 Broken Knight of Fikrul
+	15 Sunshot
+	15 Valus Ta'aurc
+	6 Ghaul's Bloodguard
+	6 Boundless Consumption
+	15 Seraphim Bunker
+	6 Stolen Scrap-Walker
+	7 Sepiks Prime
+	4 Last Stand of the Gunslinger
+	6 Loyalist Colossus
+	6 Eye of the Swarm
+	15 Ruinous Effigy
+	6 First Contact
+	6 Encroaching Darkness
+	6 Sol Inherent
+	6 Exorcism
+	6 Visage of the Emperor
+	6 Precursor Cyclops
+	6 Shadow Goliath
+	6 Taken Essence
+	6 Hive Boomer
+	7 Royal Beast
+	7 Corrupted Techeun
+	7 Ascendant Ritual
+	7 Bladefury
+	4 Unveiling
+	6 Pouka
+	6 Vanguard Postmaster
+	6 Siege Engine
+	6 Crest of Alpha Lupi
+	15 Ergo Sum
+	15 Raid Banner
+	15 Injection Rig
+	15 Eva's Holiday Oven
+	15 Cayde's Stash
+	15 Black Armory Forge
+	7 No Time To Explain
+	4 Clovis Bray I
+	7 Spider, The Shore's Only Law
+	15 Radiant Sunbreaker
+	6 Light-Eater Ogre
+	7 Altars of Summoning
+	15 Winterbite
+	15 Aegis of Light
+	15 Skolas, the Rabid Kell
+	15 Lord of Wolves
+	4 Nezarec, Final God of Pain
+	4 Tomb of Nezarec
+	7 Dredgen Yor
+	7 Thorn
+	15 Gahlran, Sorrow-Bearer
+	15 Tarrabah
+	4 The Witness
+	4 The First Knife
+	15 Locus of Communion
+	15 Dead Man's Tale
+	15 Sjur Eido
+	15 Wishender
+	15 Holliday, Shipwright
+	15 The Chaperone
+	15 Akardon, Pitiless Mind
+	15 Wish-Keeper
+	15 Omen of the Black Terrace
+	15 Wicked Implement
+	15 Asher Mir, Gensym Scribe
+	15 Vexcalibur
+	15 Toland, the Shattered
+	15 Bad Juju
+	7 Xol, Will of the Thousands
+	7 Whisper of the Worm
+	15 Deep Stone Crypt
+	15 Eyes of Tomorrow
+	7 Leviathan
+	7 Legend of Acrius
+	7 Vault of Glass
+	7 Vex Mythoclast
+	15 Root of Nightmares
+	15 Conditional Finality
+	7 King's Fall
+	7 Touch of Malice
+	15 Wrath of the Machine
+	15 Outbreak Perfected
+	7 Last Wish
+	7 One Thousand Voices
+	7 Vow of the Disciple
+	7 Collective Obligation
+	15 Crota's End
+	15 Necrochasm
+	15 Garden of Salvation
+	15 Divinity
+	6 Scourge of the Past
+	6 Anarchy
+	6 Worldline Zero

@@ -1,4 +1,163 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Insectoid Robot Grenade added.
+War Beast added.
+
+
+Devil Splicers
+artist: Destiny 2 => Destiny
+
+~Consume~
+rules_text: This spell costs {3} less if it targets an artifact creature.
+~Consume~ deals 5 damage to target creature. => This spell costs {2} less if it targets an artifact creature.
+~Consume~ deals 4 damage to target creature.
+
+Ceremonial Bather
+cost: {1}{R}{G} => {2}{R}{G}
+
+Oryx, the Taken King
+artist: Destiny => Destiny 2
+
+Rhulk, the First Disciple
+rules_text: When Rhulk enters, create Lubrae's Ruin, a Legendary black equipment artifact token with “Equipped creature gets +3/+3 and has deathtouch and vigilance” and equip {3}.
+When Rhulk attacks, attach target equipment you control to him. Then each opponent mills four cards and loses 2 life for each equipment attached to Rhulk. => When Rhulk enters, create Lubrae's Ruin, a Legendary black equipment artifact token with “Equipped creature gets +3/+3 and has deathtouch and vigilance” and equip {3}.
+When Rhulk attacks, attach target equipment you control to him. Then each opponent mills three cards and loses 1 life for each equipment attached to Rhulk.
+
+Bracus Zahn, Arms Dealer
+rules_text: Equipment spells you cast cost {1} less.
+Equipped creatures you control have trample. => Equipment spells you cast cost {1} less.
+Equipment you control have “Equipped creature gets +1/+1.”
+
+Caiatl, Princess Imperial
+flavor_text: [i]“I will sharpen my gilded knife and see you both on the battlefield.”[/i] => [i]“With my army and your Light, the Cabal will crush the Hive. Then… the Black Fleet.”[/i]
+
+Tree of Silver Wings
+rules_text: {T}: Add {W} or {B}.
+{1}{W}{B}, {T}, Sacrifice Tree of Silver Wings: Put a +1/+1 counter on target creature. Untap it. That creature becomes legendary. [i](This effect is permanent.)[/i] => {T}: Add {W} or {B}.
+{1}{W}{B}, {T}, Sacrifice Tree of Silver Wings: Put a +1/+1 counter on target creature. Untap it. That creature becomes legendary. [i](This effect lasts indefinitely.)[/i]
+
+Banshee-44, Tower Gunsmith
+
+Tarnished Wraith
+rules_text: Tarnished Wraith has double strike as long as it attacked a battle this turn. => Tarnished Wraith has double strike as long as it attacked a battle this turn.
+Tarnished Wraith gets +1/+0 if an opponent lost life this turn.
+
+Nightmarish Revival
+cost: {3}{B} => {4}{B}
+rules_text: Exile target creature card in a graveyard. If you do, create a token that's a copy of it, except it's a black Nightmare in addition to its other types.
+Sword Logic—{4}{B}, Exile a creature card from your graveyard. [i](You may cast this spell from your graveyard for its Sword Logic cost if a creature you don't control died this turn.)[/i] => Exile target creature card in a graveyard. If you do, create a token that's a copy of it, except it's a black Nightmare in addition to its other types.
+Sword Logic—{6}{B}, Exile a creature card from your graveyard. [i](You may cast this spell from your graveyard for its Sword Logic cost if a creature you don't control died this turn.)[/i]
+
+Orbital Bombardment
+artist: Destiny => Jesse van Dijk
+
+Slug Rifle
+rules_text: When Slug Rifle enters, create an Imperial Legionary, a 2/2 white Cabal Soldier with Vigilance, and attach this to it.
+Equipped creature gets +1/+1 as long as it's attacking.
+Equip {1} => When Slug Rifle enters, create an Imperial Legionary, a 2/2 white Cabal Soldier with Vigilance, and attach this to it.
+Equipped creature gets +1/+0.
+Equip {1}
+
+Music of the Spheres
+rules_text: Search your library for a basic land or Planet card, reveal it, and put it into your hand. Then shuffle. => Search your library for a basic land or Planet card, reveal it, and put it onto the battlefield tapped. Then shuffle.
+
+Brood Queen
+rules_text: At the beginning of your upkeep, create two Thralls, 1/1 green Hive creature tokens.
+When Brood Queen dies, create a Shade, a 2/2 green Hive Wizard creature token. => At the beginning of your end step, if Brood Queen is enchanted, create two Thralls, 1/1 green Hive creature tokens.
+When Brood Queen dies, create a Shade, a 2/2 green Hive Wizard creature token.
+
+Blind Well
+rules_text: Whenever you attack with a legendary creature, put a charge counter on Blind Well.
+{3}, {T}, Remove three charge counters from Blind Well: Exile target creature. If you controlled that creature, return it to the battlefield under its owner's control with three +1/+1 counters on it. => Whenever you attack with a legendary creature, put a charge counter on Blind Well.
+{3}, {T}, Remove three charge counters from Blind Well: Exile target creature you control, then return it to the battlefield under its owner's control with three +1/+1 counters on it.
+
+Arcstrider
+rules_text: [i]Flow State — [/i]Arcstrider has double strike as long as your devotion to white is five or greater. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i] => [i]Flow State — [/i]Arcstrider has double strike as long as your devotion to white is five or greater. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i]
+When Arcstrider dies, put a +1/+1 counter on target creature you control.
+
+Lakshmi-2, Future War Cult
+rules_text: [i]Open the gate —[/i] {5}{U}: Exile target non-human creature. This ability costs {1} less for each artifact you control. Activate only once. => [i]Throw open the gate —[/i] {5}{U}: Exile target non-human creature. This ability costs {1} less for each artifact you control. Activate only once.
+flavor_text: [i]“In a million other timelines, the city is destroyed by Vex, or Fallen, or Taken, or Hive. What's constant, is the struggle.”[/i] => [i]“We intend to return this city to its people. If the Vanguard won't protect you, then we will.”[/i]
+
+Decorated Valus
+cost: {2}{R} => {3}{R}
+rules_text: Other Cabal creatures you control get +1/+1. They also have haste as long as Decorated Valus is modified. [i](Equipment, Auras you control, and counters are modifications.)[/i] => Other Cabal creatures you control get +1/+1. They also have trample as long as Decorated Valus is modified. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+The Last Word
+rules_text: Flash
+When The Last Word enters, attach it to target creature you control.
+Equipped creature gets +2/+2 and is legendary. => Flash
+When The Last Word enters, attach it to target creature you control.
+Equipped creature gets +2/+2 and is legendary.
+Equip {3}
+flavor_text: [i]“Yours... not mine.”
+—Shin Malphur[/i] => [i]“Yours... not mine.”
+—Shin Malphur, The Man with the Golden Gun[/i]
+
+Unknown Space
+artist:  => Destiny
+
+Necrotic Grip
+rules_text: The first time a creature you don't control dies each turn, untap Necrotic Grip
+{3}, {T}: Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i] => The first time a creature you don't control dies each turn, untap Necrotic Grip.
+{3}, {T}: Proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+
+Precursor Cyclops
+artist:  => Destiny 2
+
+Deep Stone Crypt
+rules_text: [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature attacks this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When WU7—Deep Stone Crypt enters, target artifact you control becomes a legendary artifact creature with base power and toughness 4/4 until end of turn. => [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature attacks this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When Deep Stone Crypt enters, target artifact you control becomes a legendary artifact creature with base power and toughness 4/4 until end of turn.
+
+Eyes of Tomorrow
+
+Leviathan
+rules_text: [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature attacks this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When WR6—Leviathan enters, for as long as you control this battle, target creature becomes legendary and has “Whenever this creature attacks a battle, create a treasure token.” => [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature attacks this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When Leviathan enters, for as long as you control this battle, target creature becomes legendary and has “Whenever this creature attacks a battle, create a treasure token.”
+
+Legend of Acrius
+
+Vex Mythoclast
+
+Root of Nightmares
+rules_text: [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature attacks this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When BU7—Root of Nightmares enters, each player sacrifices a creature unless they discard two cards. => [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature attacks this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When Root of Nightmares enters, each player sacrifices a creature unless they discard two cards.
+
+Conditional Finality
+
+King's Fall
+rules_text: [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature attacks this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When BR2—King's Fall enters, target creature gets -5/-5 until end of turn. If it was a creature you controlled, you draw two cards. => [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature attacks this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When King's Fall enters, target creature gets -5/-5 until end of turn. If it was a creature you controlled, you draw two cards.
+
+Touch of Malice
+
+Outbreak Perfected
+
+One Thousand Voices
+
+Vow of the Disciple
+rules_text: [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature attacks this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When GR3—Vow of the Disciple enters, mill six cards. Then return up to three artifact or creature cards milled this way to your hand. => [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature attacks this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When Vow of the Disciple enters, mill six cards. Then return up to three artifact or creature cards milled this way to your hand.
+
+Collective Obligation
+
+Crota's End
+rules_text: [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature attacks this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When GU3—Crota's End enters, target creature you control gets +1/+1 and becomes legendary until end of turn. It fights another target creature you don't control. => [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature attacks this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When Crota's End enters, target creature you control gets +1/+1 and becomes legendary until end of turn. It fights another target creature you don't control.
+
+Necrochasm
+
+Divinity
+
+
+VERSION 7 CHANGELOG
 ====================
 
 No changes.
