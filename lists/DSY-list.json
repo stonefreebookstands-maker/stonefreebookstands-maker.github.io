@@ -266,7 +266,7 @@
     {
         "card_name": "Last Wish",
         "number": 176,
-        "shape": "battle split",
+        "shape": "transform double faced split",
         "set": "DSY",
         "rotated": true,
         "position": "395"
@@ -298,50 +298,10 @@
     {
         "card_name": "King's Fall",
         "number": 126,
-        "shape": "battle split",
+        "shape": "transform double faced split",
         "set": "DSY",
         "rotated": true,
         "position": "391"
-    },
-    {
-        "card_name": "One Thousand Voices",
-        "number": 176,
-        "shape": "normal",
-        "set": "DSY",
-        "rotated": false,
-        "position": "396"
-    },
-    {
-        "card_name": "Corrupted Techeun",
-        "number": 213,
-        "shape": "normal",
-        "set": "DSY",
-        "rotated": false,
-        "position": "316"
-    },
-    {
-        "card_name": "Legend of Acrius",
-        "number": 29,
-        "shape": "normal",
-        "set": "DSY",
-        "rotated": false,
-        "position": "386"
-    },
-    {
-        "card_name": "The Templar",
-        "number": 95,
-        "shape": "normal",
-        "set": "DSY",
-        "rotated": false,
-        "position": "272"
-    },
-    {
-        "card_name": "Touch of Malice",
-        "number": 126,
-        "shape": "normal",
-        "set": "DSY",
-        "rotated": false,
-        "position": "392"
     },
     {
         "card_name": "Sepiks Prime",
@@ -352,28 +312,28 @@
         "position": "301"
     },
     {
-        "card_name": "Crota, Son of Oryx",
-        "number": 214,
+        "card_name": "Corrupted Techeun",
+        "number": 213,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "39"
+        "position": "316"
     },
     {
         "card_name": "Leviathan",
         "number": 29,
-        "shape": "battle split",
+        "shape": "transform double faced split",
         "set": "DSY",
         "rotated": true,
         "position": "385"
     },
     {
-        "card_name": "Vault of Glass",
-        "number": 97,
-        "shape": "battle split",
+        "card_name": "The Templar",
+        "number": 95,
+        "shape": "normal",
         "set": "DSY",
-        "rotated": true,
-        "position": "387"
+        "rotated": false,
+        "position": "272"
     },
     {
         "card_name": "Warden of the Harvest",
@@ -392,12 +352,12 @@
         "position": "173"
     },
     {
-        "card_name": "Collective Obligation",
-        "number": 251,
+        "card_name": "Crota, Son of Oryx",
+        "number": 214,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "398"
+        "position": "39"
     },
     {
         "card_name": "Saint-14, Legend Returned",
@@ -408,20 +368,20 @@
         "position": "17"
     },
     {
-        "card_name": "Vex Mythoclast",
+        "card_name": "Vault of Glass",
         "number": 97,
-        "shape": "normal",
+        "shape": "transform double faced split",
         "set": "DSY",
-        "rotated": false,
-        "position": "388"
+        "rotated": true,
+        "position": "387"
     },
     {
-        "card_name": "Whisper of the Worm",
+        "card_name": "Xol, Will of the Thousands",
         "number": 152,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "DSY",
         "rotated": false,
-        "position": "374"
+        "position": "373"
     },
     {
         "card_name": "Warmind's Power",
@@ -434,7 +394,7 @@
     {
         "card_name": "Vow of the Disciple",
         "number": 251,
-        "shape": "battle split",
+        "shape": "transform double faced split",
         "set": "DSY",
         "rotated": true,
         "position": "397"
@@ -456,12 +416,12 @@
         "position": "231"
     },
     {
-        "card_name": "Xol, Will of the Thousands",
-        "number": 152,
+        "card_name": "Anointed Sorrowsmith",
+        "number": 104,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "373"
+        "position": "9"
     },
     {
         "card_name": "Aeon Safe",
@@ -496,12 +456,12 @@
         "position": "265"
     },
     {
-        "card_name": "Anointed Sorrowsmith",
-        "number": 104,
+        "card_name": "Death Song",
+        "number": 110,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "9"
+        "position": "10"
     },
     {
         "card_name": "Aksis, Archon Prime",
@@ -536,12 +496,12 @@
         "position": "191"
     },
     {
-        "card_name": "Death Song",
-        "number": 110,
+        "card_name": "Devouring Voidwalker",
+        "number": 113,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "10"
+        "position": "285"
     },
     {
         "card_name": "Araskes, the Trickster",
@@ -576,12 +536,12 @@
         "position": "188"
     },
     {
-        "card_name": "Devouring Voidwalker",
-        "number": 113,
+        "card_name": "Echo of Oryx",
+        "number": 116,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "285"
+        "position": "287"
     },
     {
         "card_name": "Bracus Zahn, Arms Dealer",
@@ -594,7 +554,7 @@
     {
         "card_name": "Crota's End",
         "number": 215,
-        "shape": "battle split",
+        "shape": "transform double faced split",
         "set": "DSY",
         "rotated": true,
         "position": "399"
@@ -616,12 +576,12 @@
         "position": "112"
     },
     {
-        "card_name": "Echo of Oryx",
-        "number": 116,
+        "card_name": "Ecthar, Blade of Oryx",
+        "number": 117,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "287"
+        "position": "181"
     },
     {
         "card_name": "Decorated Valus",
@@ -632,17 +592,17 @@
         "position": "255"
     },
     {
-        "card_name": "Necrochasm",
-        "number": 215,
+        "card_name": "Crown of Sorrows",
+        "number": 216,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "400"
+        "position": "196"
     },
     {
         "card_name": "Deep Stone Crypt",
         "number": 17,
-        "shape": "battle split",
+        "shape": "transform double faced split",
         "set": "DSY",
         "rotated": true,
         "position": "383"
@@ -656,46 +616,6 @@
         "position": "217"
     },
     {
-        "card_name": "Ecthar, Blade of Oryx",
-        "number": 117,
-        "shape": "normal",
-        "set": "DSY",
-        "rotated": false,
-        "position": "181"
-    },
-    {
-        "card_name": "Ergo Sum",
-        "number": 165,
-        "shape": "normal",
-        "set": "DSY",
-        "rotated": false,
-        "position": "113"
-    },
-    {
-        "card_name": "Crown of Sorrows",
-        "number": 216,
-        "shape": "normal",
-        "set": "DSY",
-        "rotated": false,
-        "position": "196"
-    },
-    {
-        "card_name": "Eyes of Tomorrow",
-        "number": 17,
-        "shape": "normal",
-        "set": "DSY",
-        "rotated": false,
-        "position": "384"
-    },
-    {
-        "card_name": "Grasp of Avarice",
-        "number": 72,
-        "shape": "normal",
-        "set": "DSY",
-        "rotated": false,
-        "position": "102"
-    },
-    {
         "card_name": "Ergo Sum",
         "number": 118,
         "shape": "normal",
@@ -704,12 +624,12 @@
         "position": "111"
     },
     {
-        "card_name": "Fists of Havoc",
-        "number": 166,
+        "card_name": "Ergo Sum",
+        "number": 165,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "57"
+        "position": "113"
     },
     {
         "card_name": "Deathtongue of the War God",
@@ -728,12 +648,12 @@
         "position": "230"
     },
     {
-        "card_name": "Panoptes, Infinite Mind",
-        "number": 79,
+        "card_name": "Grasp of Avarice",
+        "number": 72,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "238"
+        "position": "102"
     },
     {
         "card_name": "Nokris, Herald of Xol",
@@ -744,12 +664,12 @@
         "position": "22"
     },
     {
-        "card_name": "Hiraks, the Mindbender",
-        "number": 171,
+        "card_name": "Fists of Havoc",
+        "number": 166,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "37"
+        "position": "57"
     },
     {
         "card_name": "Needlestorm",
@@ -768,12 +688,12 @@
         "position": "324"
     },
     {
-        "card_name": "Praksis, Chief Technocrat",
-        "number": 80,
+        "card_name": "Panoptes, Infinite Mind",
+        "number": 79,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "197"
+        "position": "238"
     },
     {
         "card_name": "Phylaks, Warrior of Salvation",
@@ -784,12 +704,12 @@
         "position": "211"
     },
     {
-        "card_name": "Orbital Bombardment",
-        "number": 179,
+        "card_name": "Hiraks, the Mindbender",
+        "number": 171,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "161"
+        "position": "37"
     },
     {
         "card_name": "Omnigul, Will of Crota",
@@ -808,28 +728,28 @@
         "position": "251"
     },
     {
-        "card_name": "Protocol: Siberian Entropy",
-        "number": 82,
+        "card_name": "Praksis, Chief Technocrat",
+        "number": 80,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "240"
+        "position": "197"
     },
     {
-        "card_name": "Conditional Finality",
+        "card_name": "Root of Nightmares",
         "number": 136,
-        "shape": "normal",
+        "shape": "transform double faced split",
         "set": "DSY",
-        "rotated": false,
-        "position": "390"
+        "rotated": true,
+        "position": "389"
     },
     {
-        "card_name": "Radiant Sunbreaker",
-        "number": 181,
+        "card_name": "Orbital Bombardment",
+        "number": 179,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "333"
+        "position": "161"
     },
     {
         "card_name": "Rogue Dredgen",
@@ -848,28 +768,28 @@
         "position": "258"
     },
     {
-        "card_name": "Rahool, Master Cryptarch",
-        "number": 84,
+        "card_name": "Protocol: Siberian Entropy",
+        "number": 82,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "103"
+        "position": "240"
     },
     {
-        "card_name": "Root of Nightmares",
-        "number": 136,
-        "shape": "battle split",
-        "set": "DSY",
-        "rotated": true,
-        "position": "389"
-    },
-    {
-        "card_name": "Spicy Ramen Shop",
-        "number": 190,
+        "card_name": "Spectral Blades",
+        "number": 142,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "142"
+        "position": "66"
+    },
+    {
+        "card_name": "Radiant Sunbreaker",
+        "number": 181,
+        "shape": "normal",
+        "set": "DSY",
+        "rotated": false,
+        "position": "333"
     },
     {
         "card_name": "Ruinous Effigy",
@@ -888,28 +808,28 @@
         "position": "256"
     },
     {
-        "card_name": "Shadowshot",
-        "number": 91,
+        "card_name": "Rahool, Master Cryptarch",
+        "number": 84,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "59"
+        "position": "103"
     },
     {
-        "card_name": "Spectral Blades",
-        "number": 142,
+        "card_name": "Voice of Riven",
+        "number": 146,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "66"
+        "position": "290"
     },
     {
-        "card_name": "Sunshot",
-        "number": 193,
+        "card_name": "Spicy Ramen Shop",
+        "number": 190,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "295"
+        "position": "142"
     },
     {
         "card_name": "The Sanctified Mind",
@@ -928,28 +848,28 @@
         "position": "134"
     },
     {
-        "card_name": "Winterbite",
-        "number": 100,
+        "card_name": "Shadowshot",
+        "number": 91,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "336"
+        "position": "59"
     },
     {
-        "card_name": "Voice of Riven",
-        "number": 146,
+        "card_name": "Wish Bones",
+        "number": 148,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "290"
+        "position": "289"
     },
     {
-        "card_name": "Taniks, the Scarred",
-        "number": 195,
+        "card_name": "Sunshot",
+        "number": 193,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "30"
+        "position": "295"
     },
     {
         "card_name": "Shadow Legion Centurion",
@@ -968,28 +888,28 @@
         "position": "27"
     },
     {
-        "card_name": "Winter's Wrath",
-        "number": 101,
+        "card_name": "Winterbite",
+        "number": 100,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "65"
+        "position": "336"
     },
     {
-        "card_name": "Wish Bones",
-        "number": 148,
+        "card_name": "World's Grave",
+        "number": 149,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "289"
+        "position": "193"
     },
     {
-        "card_name": "Outbreak Perfected",
-        "number": 200,
+        "card_name": "Taniks, the Scarred",
+        "number": 195,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "394"
+        "position": "30"
     },
     {
         "card_name": "Shadows on the March",
@@ -1008,25 +928,25 @@
         "position": "257"
     },
     {
-        "card_name": "Zydron, Gate Lord",
-        "number": 103,
+        "card_name": "Winter's Wrath",
+        "number": 101,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "264"
+        "position": "65"
     },
     {
-        "card_name": "World's Grave",
-        "number": 149,
+        "card_name": "Wrathborn Cryptolith",
+        "number": 150,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "193"
+        "position": "288"
     },
     {
         "card_name": "Wrath of the Machine",
         "number": 200,
-        "shape": "battle split",
+        "shape": "transform double faced split",
         "set": "DSY",
         "rotated": true,
         "position": "393"
@@ -1048,20 +968,20 @@
         "position": "296"
     },
     {
-        "card_name": "Archon of Wolves",
-        "number": 55,
+        "card_name": "Zydron, Gate Lord",
+        "number": 103,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "177"
+        "position": "264"
     },
     {
-        "card_name": "Wrathborn Cryptolith",
-        "number": 150,
+        "card_name": "Zulmak, Instrument of Torment",
+        "number": 153,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "288"
+        "position": "23"
     },
     {
         "card_name": "Cabal Stomp",
@@ -1088,20 +1008,20 @@
         "position": "249"
     },
     {
-        "card_name": "Axis Harpies",
-        "number": 57,
+        "card_name": "Archon of Wolves",
+        "number": 55,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "206"
+        "position": "177"
     },
     {
-        "card_name": "Zulmak, Instrument of Torment",
-        "number": 153,
+        "card_name": "Blade-bound to the Terrace",
+        "number": 105,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "23"
+        "position": "275"
     },
     {
         "card_name": "Daring Gunslinger",
@@ -1128,20 +1048,20 @@
         "position": "246"
     },
     {
-        "card_name": "Bootstrap Simulation",
-        "number": 58,
+        "card_name": "Axis Harpies",
+        "number": 57,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "267"
+        "position": "206"
     },
     {
-        "card_name": "Blade-bound to the Terrace",
-        "number": 105,
+        "card_name": "Bound Ogre",
+        "number": 106,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "275"
+        "position": "165"
     },
     {
         "card_name": "Devil Splicers",
@@ -1168,20 +1088,20 @@
         "position": "254"
     },
     {
-        "card_name": "Cloud Skimmer",
-        "number": 61,
+        "card_name": "Bootstrap Simulation",
+        "number": 58,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "162"
+        "position": "267"
     },
     {
-        "card_name": "Bound Ogre",
-        "number": 106,
+        "card_name": "Corrupted Ravager",
+        "number": 108,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "165"
+        "position": "278"
     },
     {
         "card_name": "Dregs of Dusk",
@@ -1208,20 +1128,20 @@
         "position": "174"
     },
     {
-        "card_name": "Commodore Brig",
-        "number": 62,
+        "card_name": "Cloud Skimmer",
+        "number": 61,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "212"
+        "position": "162"
     },
     {
-        "card_name": "Corrupted Ravager",
-        "number": 108,
+        "card_name": "Defiled Servitor",
+        "number": 111,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "278"
+        "position": "274"
     },
     {
         "card_name": "Gambler's Dodge",
@@ -1248,20 +1168,20 @@
         "position": "207"
     },
     {
-        "card_name": "Data Preservation",
-        "number": 65,
+        "card_name": "Commodore Brig",
+        "number": 62,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "104"
+        "position": "212"
     },
     {
-        "card_name": "Defiled Servitor",
-        "number": 111,
+        "card_name": "Dreadful Scythe",
+        "number": 114,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "274"
+        "position": "280"
     },
     {
         "card_name": "Ghaul's Bloodguard",
@@ -1288,20 +1208,20 @@
         "position": "245"
     },
     {
-        "card_name": "Ether Servitor",
-        "number": 67,
+        "card_name": "Data Preservation",
+        "number": 65,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "239"
+        "position": "104"
     },
     {
-        "card_name": "Dreadful Scythe",
-        "number": 114,
+        "card_name": "Eye of the Swarm",
+        "number": 119,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "280"
+        "position": "304"
     },
     {
         "card_name": "Gluttonous Growth",
@@ -1328,20 +1248,20 @@
         "position": "56"
     },
     {
-        "card_name": "Gensym Knight",
-        "number": 68,
+        "card_name": "Ether Servitor",
+        "number": 67,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "262"
+        "position": "239"
     },
     {
-        "card_name": "Eye of the Swarm",
-        "number": 119,
+        "card_name": "Fanatic's Summons",
+        "number": 120,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "304"
+        "position": "184"
     },
     {
         "card_name": "Golden Gun",
@@ -1368,20 +1288,20 @@
         "position": "247"
     },
     {
-        "card_name": "Goblins of the Hezen Protective",
-        "number": 70,
+        "card_name": "Gensym Knight",
+        "number": 68,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "143"
+        "position": "262"
     },
     {
-        "card_name": "Fanatic's Summons",
-        "number": 120,
+        "card_name": "Final Death",
+        "number": 121,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "184"
+        "position": "35"
     },
     {
         "card_name": "Honored Gladiator",
@@ -1408,20 +1328,20 @@
         "position": "253"
     },
     {
-        "card_name": "Heavy Pike",
-        "number": 73,
+        "card_name": "Goblins of the Hezen Protective",
+        "number": 70,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "139"
+        "position": "143"
     },
     {
-        "card_name": "Final Death",
-        "number": 121,
+        "card_name": "Graviton Forfeit",
+        "number": 122,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "35"
+        "position": "282"
     },
     {
         "card_name": "Kell's Scourge Berserker",
@@ -1448,20 +1368,20 @@
         "position": "252"
     },
     {
-        "card_name": "Neomuni Archivist",
-        "number": 75,
+        "card_name": "Heavy Pike",
+        "number": 73,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "222"
+        "position": "139"
     },
     {
-        "card_name": "Graviton Forfeit",
-        "number": 122,
+        "card_name": "Grim Flayer",
+        "number": 123,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "282"
+        "position": "108"
     },
     {
         "card_name": "Legion Thresher",
@@ -1488,20 +1408,20 @@
         "position": "234"
     },
     {
-        "card_name": "Noble Winter Walker",
-        "number": 76,
+        "card_name": "Neomuni Archivist",
+        "number": 75,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "31"
+        "position": "222"
     },
     {
-        "card_name": "Grim Flayer",
-        "number": 123,
+        "card_name": "Hive Tomb Ship",
+        "number": 124,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "108"
+        "position": "140"
     },
     {
         "card_name": "Remnant of the Iron Lords",
@@ -1528,20 +1448,20 @@
         "position": "146"
     },
     {
-        "card_name": "Old Crew's Ketch",
-        "number": 77,
-        "shape": "leveler",
-        "set": "DSY",
-        "rotated": false,
-        "position": "213"
-    },
-    {
-        "card_name": "Hive Tomb Ship",
-        "number": 124,
+        "card_name": "Noble Winter Walker",
+        "number": 76,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "140"
+        "position": "31"
+    },
+    {
+        "card_name": "Invoke Deepsight",
+        "number": 125,
+        "shape": "normal",
+        "set": "DSY",
+        "rotated": false,
+        "position": "209"
     },
     {
         "card_name": "Scorch Cannon",
@@ -1568,20 +1488,20 @@
         "position": "169"
     },
     {
-        "card_name": "Prohibitive Hobgoblin",
-        "number": 81,
-        "shape": "normal",
+        "card_name": "Old Crew's Ketch",
+        "number": 77,
+        "shape": "leveler",
         "set": "DSY",
         "rotated": false,
-        "position": "225"
+        "position": "213"
     },
     {
-        "card_name": "Invoke Deepsight",
-        "number": 125,
+        "card_name": "Malfeasance",
+        "number": 127,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "209"
+        "position": "12"
     },
     {
         "card_name": "Scorn Ravager",
@@ -1608,20 +1528,20 @@
         "position": "266"
     },
     {
-        "card_name": "Ritual of Negation",
-        "number": 85,
+        "card_name": "Prohibitive Hobgoblin",
+        "number": 81,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "137"
+        "position": "225"
     },
     {
-        "card_name": "Malfeasance",
-        "number": 127,
+        "card_name": "Necrotic Grip",
+        "number": 128,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "12"
+        "position": "281"
     },
     {
         "card_name": "Scorpius Turret",
@@ -1648,20 +1568,20 @@
         "position": "63"
     },
     {
-        "card_name": "Sacred Splicer's Art",
-        "number": 86,
+        "card_name": "Ritual of Negation",
+        "number": 85,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "164"
+        "position": "137"
     },
     {
-        "card_name": "Necrotic Grip",
-        "number": 128,
+        "card_name": "Nightmarish Revival",
+        "number": 129,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "281"
+        "position": "135"
     },
     {
         "card_name": "Screeb",
@@ -1688,20 +1608,20 @@
         "position": "250"
     },
     {
-        "card_name": "Salvation Aspirants",
-        "number": 87,
+        "card_name": "Sacred Splicer's Art",
+        "number": 86,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "268"
+        "position": "164"
     },
     {
-        "card_name": "Nightmarish Revival",
-        "number": 129,
+        "card_name": "Nightstalker",
+        "number": 130,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "135"
+        "position": "283"
     },
     {
         "card_name": "Silent Fang Assassin",
@@ -1728,20 +1648,20 @@
         "position": "237"
     },
     {
-        "card_name": "Salvation's Grip",
-        "number": 88,
+        "card_name": "Salvation Aspirants",
+        "number": 87,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "141"
+        "position": "268"
     },
     {
-        "card_name": "Nightstalker",
-        "number": 130,
+        "card_name": "Salvation Elite",
+        "number": 137,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "283"
+        "position": "276"
     },
     {
         "card_name": "Splicer Archpriest",
@@ -1768,20 +1688,20 @@
         "position": "190"
     },
     {
-        "card_name": "Seven Seraphs",
-        "number": 90,
+        "card_name": "Salvation's Grip",
+        "number": 88,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "221"
+        "position": "141"
     },
     {
-        "card_name": "Salvation Elite",
-        "number": 137,
+        "card_name": "Scorned Crossbow",
+        "number": 138,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "276"
+        "position": "114"
     },
     {
         "card_name": "Stolen Scrap-Walker",
@@ -1808,20 +1728,20 @@
         "position": "45"
     },
     {
-        "card_name": "Shuro Chi's Teachings",
-        "number": 92,
+        "card_name": "Seven Seraphs",
+        "number": 90,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "91"
+        "position": "221"
     },
     {
-        "card_name": "Scorned Crossbow",
-        "number": 138,
+        "card_name": "Shadow Lurker",
+        "number": 139,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "114"
+        "position": "144"
     },
     {
         "card_name": "Tarnished Wraith",
@@ -1848,20 +1768,20 @@
         "position": "167"
     },
     {
-        "card_name": "Spider's Associates",
-        "number": 93,
+        "card_name": "Shuro Chi's Teachings",
+        "number": 92,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "60"
+        "position": "91"
     },
     {
-        "card_name": "Shadow Lurker",
-        "number": 139,
+        "card_name": "Silence & Squall",
+        "number": 140,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "144"
+        "position": "202"
     },
     {
         "card_name": "Tormenting Voice",
@@ -1888,20 +1808,20 @@
         "position": "236"
     },
     {
-        "card_name": "Trapped in Time",
-        "number": 96,
+        "card_name": "Spider's Associates",
+        "number": 93,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "263"
+        "position": "60"
     },
     {
-        "card_name": "Silence & Squall",
-        "number": 140,
+        "card_name": "Soulfire Infusion",
+        "number": 141,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "202"
+        "position": "235"
     },
     {
         "card_name": "Unstable Incendior",
@@ -1928,20 +1848,20 @@
         "position": "218"
     },
     {
-        "card_name": "Vex Assimilation",
-        "number": 98,
+        "card_name": "Trapped in Time",
+        "number": 96,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "226"
+        "position": "263"
     },
     {
-        "card_name": "Soulfire Infusion",
-        "number": 141,
+        "card_name": "Subjugator of Truth",
+        "number": 143,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "235"
+        "position": "170"
     },
     {
         "card_name": "~Consume~",
@@ -1968,20 +1888,20 @@
         "position": "172"
     },
     {
-        "card_name": "Void Suppressor",
-        "number": 99,
+        "card_name": "Vex Assimilation",
+        "number": 98,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "13"
+        "position": "226"
     },
     {
-        "card_name": "Subjugator of Truth",
-        "number": 143,
+        "card_name": "Taken Goblin",
+        "number": 144,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "170"
+        "position": "284"
     },
     {
         "card_name": "~Enhance~",
@@ -2008,20 +1928,20 @@
         "position": "133"
     },
     {
-        "card_name": "Worldline Zero",
-        "number": 102,
+        "card_name": "Void Suppressor",
+        "number": 99,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "407"
+        "position": "13"
     },
     {
-        "card_name": "Taken Goblin",
-        "number": 144,
+        "card_name": "Vanquisher of Nokris",
+        "number": 145,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "284"
+        "position": "277"
     },
     {
         "card_name": "~Replicate~",
@@ -2048,32 +1968,12 @@
         "position": "248"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Vanquisher of Nokris",
-        "number": 145,
+        "card_name": "Worldline Zero",
+        "number": 102,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "277"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Woven Mail",
-        "number": 253,
-        "shape": "normal",
-        "set": "DSY",
-        "rotated": false,
-        "position": "147"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
+        "position": "407"
     },
     {
         "card_name": "Xenophage",
@@ -2087,7 +1987,12 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "Woven Mail",
+        "number": 253,
+        "shape": "normal",
+        "set": "DSY",
+        "rotated": false,
+        "position": "147"
     },
     {
         "card_name": "er"
@@ -2121,7 +2026,7 @@
     {
         "card_name": "Nezarec, Final God of Pain",
         "number": 278,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "DSY",
         "rotated": false,
         "position": "343"
@@ -2159,12 +2064,12 @@
         "position": "183"
     },
     {
-        "card_name": "Tomb of Nezarec",
-        "number": 278,
+        "card_name": "Uldren Sov, Awoken Prince",
+        "number": 292,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "344"
+        "position": "127"
     },
     {
         "card_name": "Royal Beast",
@@ -2185,7 +2090,7 @@
     {
         "card_name": "Asher Mir, Gensym Scribe",
         "number": 255,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "DSY",
         "rotated": false,
         "position": "368"
@@ -2199,12 +2104,12 @@
         "position": "126"
     },
     {
-        "card_name": "Uldren Sov, Awoken Prince",
-        "number": 292,
+        "card_name": "Fikrul, Fanatical Baron",
+        "number": 267,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "127"
+        "position": "107"
     },
     {
         "card_name": "Ceremonial Bather",
@@ -2223,46 +2128,6 @@
         "position": "232"
     },
     {
-        "card_name": "Vexcalibur",
-        "number": 255,
-        "shape": "normal",
-        "set": "DSY",
-        "rotated": false,
-        "position": "369"
-    },
-    {
-        "card_name": "Omen of the Black Terrace",
-        "number": 280,
-        "shape": "normal",
-        "set": "DSY",
-        "rotated": false,
-        "position": "366"
-    },
-    {
-        "card_name": "Fikrul, Fanatical Baron",
-        "number": 267,
-        "shape": "normal",
-        "set": "DSY",
-        "rotated": false,
-        "position": "107"
-    },
-    {
-        "card_name": "Gahlran, Sorrow-Bearer",
-        "number": 269,
-        "shape": "normal",
-        "set": "DSY",
-        "rotated": false,
-        "position": "348"
-    },
-    {
-        "card_name": "Bad Juju",
-        "number": 291,
-        "shape": "normal",
-        "set": "DSY",
-        "rotated": false,
-        "position": "371"
-    },
-    {
         "card_name": "Elsie Bray, Exo Stranger",
         "number": 264,
         "shape": "normal",
@@ -2271,56 +2136,36 @@
         "position": "67"
     },
     {
-        "card_name": "Wicked Implement",
+        "card_name": "Omen of the Black Terrace",
         "number": 280,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "DSY",
         "rotated": false,
-        "position": "367"
-    },
-    {
-        "card_name": "Dead Man's Tale",
-        "number": 275,
-        "shape": "normal",
-        "set": "DSY",
-        "rotated": false,
-        "position": "359"
-    },
-    {
-        "card_name": "Tarrabah",
-        "number": 269,
-        "shape": "normal",
-        "set": "DSY",
-        "rotated": false,
-        "position": "349"
-    },
-    {
-        "card_name": "Toland, the Shattered",
-        "number": 291,
-        "shape": "normal",
-        "set": "DSY",
-        "rotated": false,
-        "position": "370"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
+        "position": "366"
     },
     {
         "card_name": "Locus of Communion",
         "number": 275,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "DSY",
         "rotated": false,
         "position": "358"
     },
     {
-        "card_name": "e"
+        "card_name": "Gahlran, Sorrow-Bearer",
+        "number": 269,
+        "shape": "transform double faced",
+        "set": "DSY",
+        "rotated": false,
+        "position": "348"
     },
     {
-        "card_name": "e"
+        "card_name": "Toland, the Shattered",
+        "number": 291,
+        "shape": "transform double faced",
+        "set": "DSY",
+        "rotated": false,
+        "position": "370"
     },
     {
         "card_name": "er"
@@ -2396,7 +2241,7 @@
     {
         "card_name": "Dredgen Yor",
         "number": 262,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "DSY",
         "rotated": false,
         "position": "345"
@@ -2412,7 +2257,7 @@
     {
         "card_name": "Akardon, Pitiless Mind",
         "number": 254,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "DSY",
         "rotated": false,
         "position": "364"
@@ -2434,12 +2279,12 @@
         "position": "199"
     },
     {
-        "card_name": "Thorn",
-        "number": 262,
+        "card_name": "Drown in the Deep",
+        "number": 263,
         "shape": "normal",
         "set": "DSY",
         "rotated": false,
-        "position": "346"
+        "position": "128"
     },
     {
         "card_name": "Caiatl, Princess Imperial",
@@ -2450,65 +2295,25 @@
         "position": "105"
     },
     {
-        "card_name": "Wish-Keeper",
-        "number": 254,
-        "shape": "normal",
+        "card_name": "Garden of Salvation",
+        "number": 270,
+        "shape": "transform double faced split",
         "set": "DSY",
-        "rotated": false,
-        "position": "365"
+        "rotated": true,
+        "position": "401"
     },
     {
         "card_name": "Sjur Eido",
         "number": 287,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "DSY",
         "rotated": false,
         "position": "360"
     },
     {
-        "card_name": "Lord of Wolves",
-        "number": 288,
-        "shape": "normal",
-        "set": "DSY",
-        "rotated": false,
-        "position": "341"
-    },
-    {
-        "card_name": "Drown in the Deep",
-        "number": 263,
-        "shape": "normal",
-        "set": "DSY",
-        "rotated": false,
-        "position": "128"
-    },
-    {
-        "card_name": "Holliday, Shipwright",
-        "number": 273,
-        "shape": "normal",
-        "set": "DSY",
-        "rotated": false,
-        "position": "362"
-    },
-    {
-        "card_name": "Divinity",
-        "number": 270,
-        "shape": "normal",
-        "set": "DSY",
-        "rotated": false,
-        "position": "402"
-    },
-    {
-        "card_name": "Wishender",
-        "number": 287,
-        "shape": "normal",
-        "set": "DSY",
-        "rotated": false,
-        "position": "361"
-    },
-    {
         "card_name": "Skolas, the Rabid Kell",
         "number": 288,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "DSY",
         "rotated": false,
         "position": "340"
@@ -2522,20 +2327,15 @@
         "position": "159"
     },
     {
-        "card_name": "The Chaperone",
+        "card_name": "Holliday, Shipwright",
         "number": 273,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "DSY",
         "rotated": false,
-        "position": "363"
+        "position": "362"
     },
     {
-        "card_name": "Garden of Salvation",
-        "number": 270,
-        "shape": "battle split",
-        "set": "DSY",
-        "rotated": true,
-        "position": "401"
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -2555,7 +2355,7 @@
     {
         "card_name": "The Witness",
         "number": 293,
-        "shape": "normal",
+        "shape": "transform double faced",
         "set": "DSY",
         "rotated": false,
         "position": "356"
@@ -2585,14 +2385,6 @@
         "card_name": "er"
     },
     "a->colorless",
-    {
-        "card_name": "The First Knife",
-        "number": 293,
-        "shape": "normal",
-        "set": "DSY",
-        "rotated": false,
-        "position": "357"
-    },
     {
         "card_name": "Gjallarhorn",
         "number": 309,
@@ -2778,17 +2570,9 @@
         "position": "145"
     },
     {
-        "card_name": "Anarchy",
-        "number": 2,
-        "shape": "normal",
-        "set": "DSY",
-        "rotated": false,
-        "position": "404"
-    },
-    {
         "card_name": "Scourge of the Past",
         "number": 2,
-        "shape": "battle split",
+        "shape": "transform double faced split",
         "set": "DSY",
         "rotated": true,
         "position": "403"
@@ -2952,15 +2736,6 @@
         "set": "DSY",
         "rotated": false,
         "position": "123"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"

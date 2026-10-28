@@ -1,4 +1,117 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+
+Lord of Wolves removed.
+Tomb of Nezarec removed.
+Thorn removed.
+Tarrabah removed.
+The First Knife removed.
+Dead Man's Tale removed.
+Wishender removed.
+The Chaperone removed.
+Wish-Keeper removed.
+Wicked Implement removed.
+Vexcalibur removed.
+Bad Juju removed.
+Whisper of the Worm removed.
+Eyes of Tomorrow removed.
+Legend of Acrius removed.
+Vex Mythoclast removed.
+Conditional Finality removed.
+Touch of Malice removed.
+Outbreak Perfected removed.
+One Thousand Voices removed.
+Collective Obligation removed.
+Necrochasm removed.
+Divinity removed.
+Anarchy removed.
+
+Saint-14, Legend Returned
+rules_text: Saint-14 is indestructible as long as your devotion to white is five or greater.
+[i]Ward of Dawn — [/i]Other legendary creatures you control have ward {2}. => Saint-14 is indestructible as long as your devotion to white is five or greater.
+[i]Ward of Dawn — [/i]Other legendary creatures you control have ward {1}.
+
+~Consume~
+cost: {3}{R} => {1}{R}
+rules_text: This spell costs {2} less if it targets an artifact creature.
+~Consume~ deals 4 damage to target creature. => ~Consume~ deals 4 damage to target creature. If that creature would die this turn, exile it instead.
+
+Bracus Zahn, Arms Dealer
+cost: {1}{R}{R} => {2}{R}{R}
+rules_text: Equipment spells you cast cost {1} less.
+Equipment you control have “Equipped creature gets +1/+1.” => Equipment spells you cast cost {1} less.
+Equipment you control have “Equipped creature gets +1/+0.”
+
+Remnant of the Iron Lords
+rules_text: Remnant of the Iron Lords attacks each turn if able.
+When Remnant of the Iron Lords enters, create three SIVA Nanite tokens. => Remnant of the Iron Lords attacks each turn if able.
+When Remnant of the Iron Lords enters, create three SIVA Nanite tokens. [i](They're equipment artifacts with “Equipped creature gets +1/+0” and equip {1})[/i]
+
+Shadow Legion Centurion
+rules_text: Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+When Shadow Legion Centurion becomes the target of a spell for the first time each turn, create a treasure token. => Ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+When Shadow Legion Centurion becomes the target of a spell for the first time each turn, create a treasure token.
+
+Quantum Hydra
+rules_text: Ward {2}
+Quantum Hydra enters with X +1/+1 counters on it. => Ward {1}
+Quantum Hydra enters with X +1/+1 counters on it.
+
+Decorated Valus
+cost: {3}{R} => {2}{R}
+pt: 4/4 => 3/3
+
+Skolas, the Rabid Kell
+
+Nezarec, Final God of Pain
+
+Dredgen Yor
+
+Gahlran, Sorrow-Bearer
+
+The Witness
+
+Locus of Communion
+
+Sjur Eido
+
+Holliday, Shipwright
+
+Akardon, Pitiless Mind
+
+Omen of the Black Terrace
+
+Asher Mir, Gensym Scribe
+
+Toland, the Shattered
+
+Xol, Will of the Thousands
+
+Deep Stone Crypt
+
+Leviathan
+
+Vault of Glass
+
+Root of Nightmares
+
+King's Fall
+
+Wrath of the Machine
+
+Last Wish
+
+Vow of the Disciple
+
+Crota's End
+
+Garden of Salvation
+
+Scourge of the Past
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Insectoid Robot Grenade added.
