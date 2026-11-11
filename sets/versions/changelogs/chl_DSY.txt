@@ -1,4 +1,824 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+Penumbral Blast added.
+Pouka Pond added.
+Zen Meteor added.
+Super Good Advice added.
+Radiant Accipiter added.
+Network Partition added.
+Pit of Heresy added.
+Imperial Land Tank added.
+Blazing Interceptor added.
+The Black Garden added.
+The Crown of Sorrow added.
+Light's Rebuke added.
+Old Crews' Ketch added.
+The Lure added.
+Ceres Galliot added.
+Witch Queen's Deception added.
+Frozen in Time added.
+Corridors of Time added.
+The Fifteenth Wish added.
+Crown of Sorrow added.
+Shattered Throne added.
+Warlord's Ruin added.
+Spire of the Watcher added.
+Ghosts of the Deep added.
+Lucent Moth added.
+Duality added.
+Willbreaker, Sword of Oryx added.
+The Undying Mind added.
+Raiders' Skiff added.
+Triple Vac Cleaner added.
+
+Void Suppressor removed.
+Cayde-6, Reborn in Light removed.
+Grasp of Avarice removed.
+Pyramid Splinter removed.
+Bell of Conquests removed.
+Chalice of Opulence removed.
+Nightmare Harvester removed.
+Gate Lord's Eye removed.
+Tree of Silver Wings removed.
+Tablet of Ruin removed.
+Skeleton Key removed.
+Warmind Khanjali removed.
+Acolyte's Staff removed.
+Deathtongue of the War God removed.
+Scorn Ravager removed.
+Spicy Ramen Shop removed.
+Gluttonous Growth removed.
+Centurion of the Coalition removed.
+Unstable Incendior removed.
+Brood Queen removed.
+Hold the Line removed.
+Corrupted Simulation removed.
+Crown of Sorrows removed.
+Axis Harpies removed.
+Fell the Monstrous removed.
+Old Crew's Ketch removed.
+Argos, Planetary Core removed.
+Shadow Legion Centurion removed.
+Wings of Sacred Dawn removed.
+Rally Barricade removed.
+Lakshmi-2, Future War Cult removed.
+Decorated Valus removed.
+Queen's Deception removed.
+Gensym Knight removed.
+Trapped in Time removed.
+Cast Through Time removed.
+Unknown Space removed.
+Corrupted Ravager removed.
+Xenophage removed.
+Necrotic Grip removed.
+Wish Bones removed.
+Voice of Riven removed.
+The Derelict removed.
+Boundless Consumption removed.
+Shadow Goliath removed.
+Aegis of Light removed.
+Gahlran, Sorrow-Bearer removed.
+Sjur Eido removed.
+Barricade removed.
+Worldline Zero removed.
+Councilor removed.
+Shade removed.
+
+Rasputin, Warmind
+rules_text: Whenever a legendary creature you control enters, create a Heavy Frame, a 4/4 colorless Construct artifact creature token.
+{7}, Sacrifice an artifact: Rasputin deals 13 damage to target creature or battle. => Whenever another legendary artifact you control enters, create a Heavy Frame, a 4/4 colorless Construct artifact creature token.
+{7}, Sacrifice an artifact: Rasputin deals 13 damage to target creature or battle.
+
+Oryx's Dreadnaught
+rules_text: {T}: Add {B}. If this mana is spent to cast an instant, sorcery, or Aura spell according to Sword Logic, copy that spell. You may choose new targets for the copy.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 20+] Flying, Deathtouch
+You can't lose the game and your opponents can't win the game. [8/8] => {T}: Add {B}. If this mana is spent to cast a spell according to Sword Logic, that spell can't be countered, and it enters with an additional +1/+1 counter if it's a creature.
+Station
+
+[level 20+] Flying, Deathtouch
+You can't lose the game and your opponents can't win the game. [8/8]
+special_text: {T}: Add {B}. If this mana is spent to cast an instant, sorcery, or Aura spell according to Sword Logic, copy that spell. You may choose new targets for the copy.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 20+] Flying, Deathtouch
+You can't lose the game and your opponents can't win the game. [8/8] => {T}: Add {B}. If this mana is spent to cast a spell according to Sword Logic, that spell can't be countered, and it enters with an additional +1/+1 counter if it's a creature.
+Station
+
+[level 20+] Flying, Deathtouch
+You can't lose the game and your opponents can't win the game. [8/8]
+
+Golden Gun
+cost: {1}{R} => {2}{R}
+
+The Bladed Path
+rules_text: When The Bladed Path enters, put a +1/+1counter on target creature.
+If you control the creature with the greatest power or tied for the greatest power, Sword Logic costs you pay cost {3} less. => When The Bladed Path enters, mill three cards.
+If you control the creature with the greatest power or tied for the greatest power, Sword Logic costs you pay cost {3} less.
+
+Xur, Agent of The Nine
+cost: {5} => {3}
+rules_text: When Xur enters, you may search your library for three Equipment cards with different names and reveal them. Target opponent chooses one. Put that card into your hand and the rest into your graveyard. => When Xur enters, you may search your library for three Equipment cards with different names and reveal them. Target opponent chooses one. Put that card onto the battlefield and the rest into your hand.
+
+Shadows on the March
+rules_text: At the beginning of your end step, if you gained life this turn, create a Shadow Legionary, a 3/3 green Darkness Cabal creature token.
+Creature tokens you control get +1/+1 as long as you control five or more tokens. => At the beginning of your end step, if you gained life this turn, create a Shadow Legionary, a 3/3 green Darkness Cabal creature token.
+Creature tokens you control get +1/+1 as long as you control three or more tokens.
+
+Malfeasance
+cost: {B}{B} => {B}
+rules_text: When Malfeasance enters, search your library for up to three cards named Malfeasance, reveal them, put them into your hand, then shuffle.
+Equipped creature gets +1/+1. As long as your devotion to black is five or more, it also has deathtouch. [i](Each {B} in the mana costs of permanents you control counts toward your devotion to black.)[/i]
+Equip {2} => When Malfeasance enters, search your library for up to three cards named Malfeasance, reveal them, put them into your hand, then shuffle.
+Equipped creature gets +1/+1. As long as your devotion to black is three or greater, it also has deathtouch. [i](Each {B} in the mana costs of permanents you control counts toward your devotion to black.)[/i]
+Equip {1}
+
+Devil Splicers
+cost: {1}{R} => {2}{R}
+
+Saint-14, Legend Returned
+rules_text: Saint-14 is indestructible as long as your devotion to white is five or greater.
+[i]Ward of Dawn — [/i]Other legendary creatures you control have ward {1}. => Saint-14 is indestructible as long as your devotion to white is five or greater.
+[i]Ward of Dawn — [/i]Other legendary creatures you control have ward {1}. They also get +2/+2 if you are legendary. [i](If you have defeated a battle, you become legend for the rest of the game.)[/i]
+
+~Consume~
+rules_text: ~Consume~ deals 4 damage to target creature. If that creature would die this turn, exile it instead. => ~Consume~ deals 3 damage to target creature. If that creature would die this turn, exile it instead and create a SIVA Nanite token. [i](It's an artifact with “Equipped creature gets +1/+0” and equip {1}.)[/i]
+
+Ceremonial Bather
+type: Creature — Cabal => Creature — Cabal Warrior
+rules_text: Whenever Ceremonial Bather deals excess damage, add that much {R} or {G} in any combination. Until end of turn, you don't lose this mana as steps and phases end.
+Whenever you create a token, Ceremonial Bather gets +1/+0 until end of turn. => Whenever you create one or more tokens, you gain 2 life and Ceremonial Bather gets +2/+0 until end of turn.
+flavor_text: [i][/i] => [i]“You're tense. Why don't you relax in the baths? Join my soldiers in their revelry. They won't mind.”
+—Calus, Cabal Emperor in exile[/i]
+
+Exotic Engram
+rules_text: When Exotic Engram enters, search your library for an Equipment card, then shuffle and put that card on top.
+{1}, {T}, Sacrifice this artifact: Draw a card, then discard a card. => When Exotic Engram enters, search your library for an Equipment card, put it into your hand, then shuffle.
+{1}, {T}, Sacrifice this artifact: Draw a card, then discard a card.
+
+Quria, Blade Transform
+rules_text: Players play with the top card of their library revealed.
+Once per turn, you may simulate a creature card from the top of any player's library by paying its mana cost. Mana of any type may be spent to simulate a card this way.
+{T}: Exile the top card of each player's library. => Players play with the top card of their library revealed.
+Once per turn, you may simulate a creature card from the top of any player's library by paying its mana cost. Mana of any type may be spent to simulate a card this way.
+pt: 3/4 => 3/3
+
+Ghost
+cost: {3} => {4}
+rules_text: At the beginning of your upkeep, if Ghost isn't attached to a creature, you may pay {3}. If you do, return target Human, Awoken, or Hive creature card from your graveyard to the battlefield and attach Ghost to it.
+Equipped creature is legendary. => At the beginning of your upkeep, if Ghost isn't attached to a creature, choose an Awoken, Human, or Hive creature card in your graveyard. You may pay that creature's mana cost plus {2}. If you do, return it to the battlefield tapped and attach Ghost to it.
+Equipped creature is legendary.
+
+Acolytes of the Hidden Swarm
+pt: 1/2 => 2/2
+
+Taniks, the Scarred
+type: Legendary Creature — Eliksni Mercenary => Legendary Artifact Creature — Eliksni Robot Mercenary
+artist: Piotr Jabłoński => Destiny
+
+Drop Pod
+cost: {7} => {5}
+rules_text: When Drop Pod enters, destroy target nonland permanent an opponent controls.
+{T}, Sacrifice Drop Pod: Put a creature card with mana value 3 or less from your hand onto the battlefield. => When Drop Pod enters, it deals 4 damage to target creature.
+{T}, Sacrifice Drop Pod: Add {C}{C}. Spend this mana only to cast a creature spell.
+
+Crota, Son of Oryx
+rules_text: Crota, Son of Oryx has deathtouch and indestructible as long as there are five or more creature cards in exile.
+Sword Logic—{3}{G}{G}, Exile a creature card from your graveyard. => Crota, Son of Oryx has deathtouch and indestructible as long as there are five or more cards in exile.
+Sword Logic—{3}{G}{G}, Exile a creature card from your graveyard.
+
+Oryx, the Taken King
+rules_text: Flying, Deathtouch
+Whenever Oryx, the Taken King enters or attacks, each player mills seven cards, then you exile up to one creature card from each player's graveyard. Create a token copy of each creature card exiled this way, except they're green Darkness creatures and they're not legendary. => Flying, deathtouch
+Whenever Oryx, the Taken King enters or attacks, each player mills seven cards, then you exile up to one creature card from each player's graveyard. Create a token copy of each creature card exiled this way, except they're green Darkness creatures and they're not legendary.
+pt: 7/6 => 7/7
+
+Atheon, Time's Conflux
+rules_text: Cards your opponents control can't phase in.
+At the beginning of each opponent's end step, if they control more creatures than you, target creature they control phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i] => The first time you exile a card each turn, draw a card.
+At the beginning of each opponent's end step, if they control more creatures than you, exile target creature they control.
+
+Riven of a Thousand Voices
+rules_text: When Riven of a Thousand Voices enters or dies, each player exiles a random card they own from outside the game. Each player may play cards they own put in exile this way without paying their mana cost. If any player does, they lose 3 life. => When Riven of a Thousand Voices enters or dies, each player shuffles their library, then exiles cards from the top of their library until they exile a nonland card. They may play that card by paying life equal to its mana value rather than paying its mana cost, or they may exile it. Then they put the rest on the bottom in a random order.
+
+Rhulk, the First Disciple
+flavor_text: [i]“Not kings. Not gods. Prophets. Disciples. Saviors serving existence.”[/i] => [i]“Not kings. Not gods. Disciples. Prophets. Saviors serving existence.”[/i]
+
+Savathun, the Witch Queen
+cost: {3}{G}{W} => {4}{G}{W}
+rules_text: Flying, Lifelink
+Whenever a permanent you control becomes the target of a spell an opponent controls, copy that spell. You may cast the copy without paying its mana cost. This ability triggers only once each turn.
+Whenever you cast your second spell each turn, gain 2 life and draw two cards. => Flying, lifelink
+Whenever you cast a spell from anywhere other than your hand or during an opponent's turn, put a +1/+1 counter on each creature you control and draw a card.
+Discard a card: Savathun becomes a 2/1 blue Human creature with hexproof until end of turn. Activate only once per turn.
+pt: 6/7 => 5/5
+
+Calus, Herald of The Witness
+rules_text: [i]Grow Fat From Strength — [/i]At the beginning of combat on your turn, if you control the creature with the greatest power or tied for the greatest, Calus gains indestructible, trample, and “Whenever you attack with one or more creatures, create a Food token, a Treasure token, and an Engram token” until end of turn. => [i]Grow Fat From Strength — [/i]At the beginning of combat on your turn, if you control the creature with the greatest power or tied for the greatest, Calus gains indestructible, trample, and “Whenever you attack with one or more creatures, create a food token, a treasure token, and an engram token” until end of turn.
+
+Rose
+type: Legendary Artifact — Equipment => Artifact — Equipment
+cost: {3} => {2}
+rules_text: Equipped creature is legendary.
+As long as equipped creature is black, it gets +1/+0 and wither. [i](This deals damage to creatures in the form of -1/-1 counters.)[/i]
+As long as equipped creature is white, it gets +1/+0 and lifelink.
+Equip {3} => Equipped creature gets +1/+1. If it's legendary, it also has “This creature can't be blocked except by legendary creatures or two or more creatures.”
+Equip {2}
+Equip white or black creature {1}
+
+Sleeper Simulant
+rules_text: [i]Dornröschen — [/i]Equipped creature gets +5/+0, is legendary, and may assign combat damage as though it weren't blocked.
+Equip {5} => [i]Dornröschen — [/i]Equipped creature gets +7/+0, is legendary, and may assign combat damage as though it weren't blocked.
+Equip {5}
+
+Ace of Spades
+rules_text: [i]Memento Mori — [/i]When equipped creature dies, you may attach Ace of Spades to target creature you control.
+Equipped creature gets +3/+2 and is legendary.
+Equip {2} => [i]Memento Mori — [/i]When equipped creature dies, you may attach Ace of Spades to target creature you control.
+Equipped creature gets +3/+0 and is legendary.
+Equip {2}
+
+St0mp-EE5
+
+Radiant Resurrection
+cost: {4}{W} => {3}{W}
+rules_text: Return target creature card in your graveyard to the battlefield. Put a +1/+1 counter on it. It becomes legendary. [i](This effect lasts indefinitely.)[/i] => Return target creature card from your graveyard to the battlefield. Put a +1/+1 counter on it. It becomes legendary. [i](This effect lasts indefinitely.)[/i]
+
+Silkstrike
+rules_text: Flash
+Enchant creature
+Enchanted creature is legendary.
+When Silkstrike enters and when enchanted creature attacks, untap target creature. That creature gets +2/+0 until end of turn. => Flash
+Enchant creature
+Enchanted creature is legendary.
+When Silkstrike enters and when enchanted creature attacks, untap another target creature. That creature gets +2/+0 until end of turn.
+
+Bracus Zahn, Arms Dealer
+rules_text: Equipment spells you cast cost {1} less.
+Equipment you control have “Equipped creature gets +1/+0.” => Equipment spells you cast cost {1} less to cast.
+Equipment you control have “Equipped creature gets +1/+0.”
+
+Rahool, Master Cryptarch
+cost: {1}{U} => {U}{U}
+rules_text: When a creature you don't control dies for the first time each turn, create an Engram token. [i](It's an artifact with “{1}, {T}, Sacrifice this token: Draw a card, then discard a card.”)[/i]
+{T}: Add {C}{U}. Spend this mana only to cast artifact spells or activate abilities of artifacts. => At the beginning of your end step, if you attacked with one or more legendary creatures this turn, create an Engram token. [i](It's an artifact with “{1}, {T}, Sacrifice this token: Draw a card, then discard a card.”)[/i]
+{T}: Add {C}{U}. Spend this mana only to cast artifact spells or activate abilities of artifacts.
+
+Data Preservation
+cost: {3}{U} => {2}{U}
+
+Ergo Sum
+
+Ergo Sum
+rules_text: Equipped creature gets +0/+2
+[i]Serve the Colony — [/i]Whenever equipped creature attacks, create two Insectoid Robot Grenades, 1/1 colorless Insect Robot artifact creature tokens that are tapped and attacking. Sacrifice those tokens at the end of combat.
+Equip {2} => Equipped creature gets +1/+1.
+[i]Serve the Colony — [/i]Whenever equipped creature attacks, create two Insectoid Robot Grenades, 1/1 colorless Insect Robot artifact creature tokens that are tapped and attacking. Sacrifice those tokens at the end of combat.
+Equip {2}
+
+Racing Sparrow
+cost: {W} => {2}
+rules_text: When a human or awoken enter under your control, Racing Sparrow becomes a creature until end of turn.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Haste
+When Racing Sparrow enters, target creature gains haste until end of turn.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+flavor_text: [i]The shortest distance between two points is full throttle.[/i] => [i][/i]
+pt: 2/1 => 3/1
+
+Uldren Sov, Awoken Prince
+rules_text: When Uldren Sov enters, destroy up to one target creature and gain control of all equipment attached to it.
+At the beginning of your end step, if an opponent lost four or more life this turn, that player discards a card. => When Uldren Sov enters, gain control of all equipment attached to target creature and attach them to him. Then destroy that creature.
+At the beginning of combat on your turn, target opponent loses life equal to the number of equipment attached to Uldren Sov.
+
+Drown in the Deep
+flavor_text: [i]“Resilient, but credulous. You came to conquer. Moved pieces. Turned gears. To us, you sought harm, but performed aid.”
+—Rhulk, First Disciple of The Witness[/i] => [i]“You are not fit to serve the deserving. You will not rise from the Deep, but drown in it.”
+—Rhulk, First Disciple of The Witness[/i]
+
+Strange Coin
+rules_text: {T}, Sacrifice Strange Coin: Add one mana of any color.
+{2}, Exile Strange Coin from your graveyard: Return target equipment card from your graveyard to your hand. => {2}, {T}, Sacrifice Strange Coin: Add two mana of any color.
+{2}, Exile Strange Coin from your graveyard: Return target equipment card from your graveyard to your hand.
+
+Valkyrie
+cost: {1}{W} => {2}{W}
+rules_text: When Valkyrie enters, attach it to target creature you control.
+Equipped creature has Vigilance and “{4}{W}, {T}, Sacrifice Valkyrie: Destroy target artifact or creature with mana value 5 or greater.”
+Equip {2} => Flash
+When Valkyrie enters, destroy target artifact or target creature with mana value 5 or greater.
+Equipped creature has vigilance.
+Equip {2}
+
+Midnight Coup
+type: Enchantment — Aura => Enchantment
+rules_text: Flash
+Enchant Vehicle or Spacecraft
+When Midnight Coup enters, exile target creature an opponent controls until this Aura leaves the battlefield. => Flash
+When Midnight Coup enters, exile target creature an opponent controls until this Aura leaves the battlefield.
+flavor_text: [i]“Exile! Is the mighty Ghaul too great a coward to kneel down and take my head from my shoulders?”
+—Calus, Exiled Emperor[/i] => [i]“Exile! Is the mighty Ghaul too great a coward to kneel down and take my head from my shoulders?”
+—Calus, Cabal Emperor in exile[/i]
+
+Coyotes' Expedition
+rules_text: Look at the top five cards of your library. Then reveal up to an artifact, battle, or basic Plains card from among them. Put it into your hand, then put the rest on the bottom of your library in a random order. You gain life equal to your devotion to white. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i] => Look at the top five cards of your library. Then reveal an artifact, battle, or basic Plains card from among them. Put it into your hand, then put the rest on the bottom of your library in a random order. You gain life equal to your devotion to white. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i]
+
+Heavy Pike
+rules_text: [i]Shock Mines [/i]— Whenever Heavy Pike attacks, you may discard a card. If you do, target creature gets -X/-0 until end of turn, where X is that card's mana value.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => [i]Shock Mines [/i]— Whenever Heavy Pike attacks, target creature you don't control gets -X/-0 until end of turn, where X is the number of artifacts you control.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+pt: 4/3 => 3/3
+
+Goblins of the Hezen Protective
+pt: 1/3 => 2/1
+
+Typhon Imperator
+rules_text: Whenever a creature you control deals combat damage to a player, create a Shadow Legionary, a 3/3 green Darkness Cabal creature token.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 20+] Flying, Trample [6/6] => Whenever a creature you control deals combat damage to a player, create a Shadow Legionary, a 3/3 green Darkness Cabal creature token.
+Station
+
+[level 20+] Flying, Trample [6/6]
+special_text: Whenever a creature you control deals combat damage to a player, create a Shadow Legionary, a 3/3 green Darkness Cabal creature token.
+Station [i](Tap another creature you control: Put charge counters equal to its power on this Spacecraft. Station only as a sorcery.)[/i]
+[level 20+] Flying, Trample [6/6] => Whenever a creature you control deals combat damage to a player, create a Shadow Legionary, a 3/3 green Darkness Cabal creature token.
+Station
+
+[level 20+] Flying, Trample [6/6]
+
+The Leviathan
+rules_text: Whenever a legendary creature you control attacks, create a treasure token.
+{3}, Discard a land: Create three food tokens, put three charge counters on The Leviathan, and it deals 3 damage to any target.
+[level 20+] Flying [10/10] => Whenever a legendary creature you control attacks, create a treasure token.
+{3}, Discard a land: Create three food tokens, put three charge counters on The Leviathan, and it deals 3 damage to any target.
+
+[level 20+] Flying [10/10]
+special_text: Whenever a legendary creature you control attacks, create a treasure token.
+{3}, Discard a land: Create three food tokens, put three charge counters on The Leviathan, and it deals 3 damage to any target.
+[level 20+] Flying [10/10] => Whenever a legendary creature you control attacks, create a treasure token.
+{3}, Discard a land: Create three food tokens, put three charge counters on The Leviathan, and it deals 3 damage to any target.
+
+[level 20+] Flying [10/10]
+
+Sacred Splicer's Art
+rules_text: Target creature can't be blocked this turn.
+Surveil 2. [i](Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i] => Target creature can't be blocked this turn. If there are five or more cards in exile, surveil 2, then draw a card. [i](To surveil 2, look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+
+Alak-Hul, the Dark Blade
+rules_text: When you cast an instant, sorcery, or Aura spell, Alak-Hul can't be blocked this turn. => At the beginning of combat on your turn, you may return up to one creature you control to its owner's hand. If you do, Alak-Hul gets +1/+0 and trample until end of turn.
+artist: Destiny => Corinne Scrivens
+
+Teachings of The Nine
+rules_text: At the beginning of your end step, choose Light or Dark at random.
+• [i]Light — [/i]Place two +1/+1 counters divided as you choose on up to two target creatures. Untap those creatures.
+• [i]Dark — [/i]Place two stun counters divided as you choose on up to two target creatures. Tap those creatures. => At the beginning of your end step, choose Light or Dark at random. Choose both instead if you are legendary. [i](If you have defeated a battle, you become legend for the rest of the game.)[/i]
+• [i]Light — [/i]Untap target creature you control and put a +1/+1 counter on it.
+• [i]Dark — [/i]Tap target creature you don't control and put a stun counter on it.
+
+Conflux in Time
+cost: {4}{U} => {3}{U}
+rules_text: When Conflux in Time enters or leaves the battlefield, draw two cards, then exile a card from your hand.
+{4}{U}, {T}, Sacrifice Conflux in Time: Simulate target permanent card on the battlefield or in exile. Activate only if there are five or more cards in exile. [i](Create a nonlegendary token copy of that card.)[/i] => When Conflux in Time enters or leaves the battlefield, draw two cards, then exile a card from your hand.
+{3}{U}, {T}, Exile Conflux in Time: Simulate target permanent card on the battlefield or in exile. [i](To simulate a permanent, create a nonlegendary token copy of it.)[/i]
+
+Devouring Light
+
+Praksis, Chief Technocrat
+rules_text: When Praksis enters, create a Crux of Darkness, a blue and black artifact token with “{U}, {T}: Put a +1/+1 counter on target creature. Until end of turn, it becomes legendary and gains ‘Whenever this creature deals damage to another creature, put a stun counter on that creature.'” => When Praksis enters, attach up to one equipment you control to target creature you control.
+Equipment you control have “When equipped creature deals combat damage to a creature, tap that creature and put a stun counter on it.”
+pt: 2/2 => 3/3
+
+Pull Through Time
+flavor_text: [i]“We say that the Black Garden is the birthplace of the Vex. But it is not the beginning: it is the reason.”
+—Ikora Rey[/i] => [i]“We say that the Black Garden is the birthplace of the Vex. But it is not the beginning: it is the reason.”
+—Ikora Rey, Warlock Vanguard[/i]
+
+Invoke Deepsight
+
+Commodore Brig
+cost: {8}{U} => {5}{U}
+rules_text: Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]
+Crew 4 [i](Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]
+Other artifact creatures you control get +1/+1
+Crew 4 [i](Tap any number of creatures you control with total power 4 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Lost Sector
+
+Glass Oracle
+rules_text: {T}: Add {U}.
+When Glass Oracle is put into the graveyard from the battlefield, exile it instead. Then return an artifact card from your graveyard to your hand. => {T}: Add {U}.
+{2}{U}, Exile Glass Oracle: Return an artifact card from your graveyard to your hand.
+
+Surge of Light
+rules_text: Target creature gets +3/+0 and becomes legendary until end of turn. Prevent all combat damage that would be dealt to it this turn. => Target creature gets +2/+0 and becomes legendary until end of turn. Prevent all combat damage that would be dealt to it this turn.
+
+The Drifter
+
+Seven Seraphs
+rules_text: Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]
+When Seven Seraphs enters, attach target equipment you control to it. => Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]
+[i]Carrhae White —[/i] When Seven Seraphs enters, choose one—
+• Target vehicle you control becomes an artifact creature until end of turn.
+• Put four charge counters on target spacecraft.
+
+Tithe to Strength
+rules_text: Enchant creature
+Whenever a creature dies, put a +1/+1 counter on enchanted creature.
+Sword Logic—{2}{G}, Exile a creature card from your graveyard. [i](You may cast this spell from your graveyard for its Sword Logic cost if a creature you don't control died this turn.)[/i] => Enchant creature
+Enchanted creature is legendary and has “Whenever a creature dies, put a +1/+1 counter on this creature.”
+Sword Logic—{2}{G}, Exile a creature card from your graveyard. [i](You may cast this spell from your graveyard for its Sword Logic cost if a creature you don't control died this turn.)[/i]
+
+Omnigul, Will of Crota
+rules_text: Whenever you cast an instant, sorcery, or Aura spell, Omnigul gets +2/+0 until end of turn.
+Whenever you cast a spell according to Sword Logic, create two Thralls, 1/1 green Hive creature tokens. => Whenever you cast a spell according to Sword Logic, create two Thralls, 1/1 green Hive creature tokens.
+flavor_text: [i][/i] => [i]“Omnigul. The monster Crota's sycophantic zealot. Mother to Crota's hell spawn. Murderer of my friend Sai. […] Now her whetted shriek pierces my ears once again.”
+—Eris Morn, Swarm's Bane[/i]
+pt: 1/3 => 2/2
+
+Prohibitive Hobgoblin
+pt: 2/4 => 4/2
+
+Vex Assimilation
+type: Sorcery => Enchantment — Aura
+rules_text: Until end of turn, target creature becomes a blue Vex Robot artifact creature with base power 2/2, loses all abilities, and gains flying. => Enchant artifact or creature
+Enchanted permanent is a blue Vex Robot artifact creature with base power 2/2 with flying and loses all other types and abilities.
+
+Armsday
+cost: {1}{W} => {2}{W}
+rules_text: Equipment spells you cast and equip abilities you activate cost {1} less. This effect can't reduce the mana in those costs to less than one mana.
+{3}{W}, Sacrifice WC23—Armsday: Create two Engram tokens. [i](They're artifacts with “{1}, {T}, Sacrifice this token: Draw a card, then discard a card.”)[/i] => You may cast Equipment spells as though they had flash and they cost {1} less to cast.
+{3}{W}, Sacrifice WC23—Armsday: Create two Engram tokens. [i](They're artifacts with “{1}, {T}, Sacrifice this token: Draw a card, then discard a card.”)[/i]
+
+Ana Bray, Voice of Rasputin
+pt: 2/4 => 3/4
+
+Hive Apotheosis
+type: Enchantment — Aura => Legendary Enchantment — Aura
+rules_text: Enchant creature
+Enchanted creature is legendary.
+Enchanted creature gets +1/+1 for each Aura you control and each instant, sorcery, and Aura card in your graveyard. => Enchant creature
+Enchanted creature is legendary.
+Enchanted creature gets +1/+1 for each enchantment you control and each instant, sorcery, and enchantment card in your graveyard.
+
+Pilgrim Guard Sentinel
+rules_text: Defender
+Pilgrim Guard Sentinel can attack as though it didn't have defender as long as your devotion to white is five or greater. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i] => Defender
+Pilgrim Guard Sentinel can attack as though it didn't have defender as long as your devotion to white is three or greater. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i]
+pt: 2/4 => 3/4
+
+Sunsinger
+rules_text: Whenever you cast an instant, sorcery, or Aura spell, you gain 2 life and Sunsinger gets +1/+1 until end of turn. => When you cast an instant, sorcery, or enchantment spell, Sunsinger gains lifelink until end of turn.
+flavor_text: [i][/i] => [i]“As a Sunsinger, you are a child of the sun, gifted with the ability to restore and take life.”
+—Ikora Rey, Warlock Vanguard[/i]
+
+Shattered Memories
+rules_text: Destroy target noncreature artifact or enchantment. You gain life equal to your devotion to white. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i] => Destroy target artifact or enchantment. You gain life equal to your devotion to white. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i]
+
+Panoptes, Infinite Mind
+cost: {4}{U}{U} => {2}{U}{U}
+rules_text: Panoptes' power is equal to the number of cards in exile.
+{4}{U}{U}: Simulate target permanent or permanent card in exile with mana value less than Panoptes' power. Activate only as a sorcery and only once each turn. [i](Create a nonlegendary token copy of that card.)[/i] => Panoptes' power is equal to the number of cards in exile.
+{4}{U}{U}: Simulate target artifact or creature card on the battlefield or in exile. Activate only if there are five or more cards in exile, only as a sorcery, and only once each turn. [i](Create a nonlegendary token copy of that card.)[/i]
+
+Ether Servitor
+pt: 0/4 => 2/4
+
+Become Legend
+type: Enchantment — Aura => Legendary Enchantment — Aura
+cost: {3}{W}{W} => {4}{W}{W}
+rules_text: Enchant creature
+Enchanted creature gets +3/+3, double strike, flying, lifelink, and ward {2}, and is legendary. => Enchant creature
+Enchanted creature gets +3/+3, has flying, lifelink, and ward {2}, and is legendary.
+
+Forces of the City
+cost: {1}{W}{W} => {2}{W}
+rules_text: {W}, {T}: Create a City Militia, a 1/1 white human creature token. Activate only if your devotion to white is five or greater. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i] => {1}{W}, {T}: Create a City Militia, a 1/1 white human creature token. Activate only if your devotion to white is three or greater. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i]
+
+Arcstrider
+cost: {1}{W}{W} => {2}{W}
+rules_text: [i]Flow State — [/i]Arcstrider has double strike as long as your devotion to white is five or greater. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i]
+When Arcstrider dies, put a +1/+1 counter on target creature you control. => [i]Flow State — [/i]Arcstrider has double strike as long as your devotion to white is three or greater. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i]
+When Arcstrider dies, put a +1/+1 counter on target creature you control.
+
+Arcadia-Class Jumpship
+pt: 3/3 => 3/1
+
+Luzaku, the Redeemed
+rules_text: This one's toughness is equal to your devotion to white. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i]
+Whenever you cast an instant, sorcery, or Aura spell for the first time each turn, draw a card. => Flash
+This one's toughness is equal to your devotion to white. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i]
+When this one enters, return a card from your graveyard to your hand.
+
+The Last Word
+cost: {5} => {4}
+rules_text: Flash
+When The Last Word enters, attach it to target creature you control.
+Equipped creature gets +2/+2 and is legendary.
+Equip {3} => Flash
+[i]Fan the Hammer —[/i] When The Last Word enters, it deals 2 damage divided as you choose among up to two target attacking or blocking creatures.
+Equipped creature gets +2/+1 and is legendary.
+Equip {2}
+
+The Vanguard
+rules_text: Whenever a legendary creature you control enters or dies, choose one that hasn't been chosen this turn—
+• You gain 3 life.
+• Put a +1/+1 counter on up to one target creature.
+• Create an Engram token. => At the beginning of your end step, choose one. Choose all three instead if you are legendary. [i](If you have defeated a battle, you become legend for the rest of the game.)[/i]—
+• You gain 3 life.
+• Put a +1/+1 counter on up to one target creature.
+• Create an Engram token.
+
+Sweeper Bot
+rules_text: {1}, {T}: Exile a card from target graveyard. => When Sweeper Bot enters, exile up to one target card from a graveyard.
+
+Salvation Aspirants
+rules_text: If there are any stun counters on creatures an opponent controls, you may cast Salvation Aspirants as though it had flash.
+{1}{U}, {T}, Sacrifice Salvation Aspirants: Tap target creature and put a stun counter on it. => Whenever you put a stun counter on a creature an opponent controls, Salvation Aspirants gets +1/+1 until end of turn.
+pt: 1/2 => 2/1
+
+Gorgons of the Labyrinth
+rules_text: Defender, Ward {2}
+Whenever Gorgons of the Labyrinth blocks a creature, that creature phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i] => Defender, Ward {2}
+Whenever Gorgons of the Labyrinth blocks a creature, exile that creature at the end of combat.
+
+The Templar
+cost: {3}{U}{U} => {4}{U}{U}
+pt: 6/5 => 4/4
+
+Clarity
+type: Artifact => Legendary Artifact
+
+Salvation Elite
+rules_text: When Salvation Elite enters or attacks, you may pay {U}. If you do, tap target creature and put a stun counter on it. => When Salvation Elite enters, you may pay {U} or sacrifice another creature. If you do, tap target creature and put a stun counter on it.
+
+Vanquisher of Nokris
+rules_text: Vanquisher of Nokris enters with a +1/+1 counter on it if it was cast according to Sword Logic.
+Sword Logic—{4}{B}, Exile a creature card from your graveyard. [i](You may cast this spell from your graveyard for its Sword Logic cost if a creature you don't control died this turn.)[/i] => Vanquisher of Nokris enters with two +1/+1 counters on it if it was cast according to Sword Logic.
+Sword Logic—{4}{B}, Exile a creature card from your graveyard. [i](You may cast this spell from your graveyard for its Sword Logic cost if a creature you don't control died this turn.)[/i]
+
+Crux of Darkness
+type: Token Artifact => Artifact
+cost:  => {3}{B}
+rules_text: {U}, {T}: Put a +1/+1 counter on target creature. Until end of turn, it becomes legendary and gains “Whenever this creature deals damage to another creature, put a stun counter on it.” => When Crux of Darkness enters, put a +1/+1 counter on target creature you control. It becomes legendary. [i](This effect lasts indefinitely.)[/i]
+The first time you modify a creature each turn, target opponent loses 1 life and you gain 1 life. [i](You modify a creature by attaching an Equipment or Aura you control to it or placing a counter on it.)[/i]
+
+Dreadful Scythe
+rules_text: When Dreadful Scythe enters, target opponent sacrifices a creature unless they discard a card.
+Equipped creature has menace and “When this creature attacks, defending player loses 2 life.”
+Equip—Pay 4 life. => When Dreadful Scythe enters, target opponent sacrifices a creature unless they discard a card.
+Equipped creature has deathtouch and “When this creature attacks, defending player loses 2 life.”
+Equip—Pay 4 life.
+
+Nightstalker
+rules_text: When Nightstalker enters, surveil 1.
+[i]Vanishing step —[/i] Nightstalker can't be blocked as long as your devotion to black is five or greater. [i](Each {B} in the mana costs of permanents you control counts toward your devotion to black.)[/i] => When Nightstalker enters, surveil 1.
+[i]Vanishing step —[/i] Nightstalker can't be blocked as long as your devotion to black is three or greater. [i](Each {B} in the mana costs of permanents you control counts toward your devotion to black.)[/i]
+
+Broken Knight of Fikrul
+
+Valus Ta'aurc
+rules_text: Other legendary creatures you control get +1/+1.
+Other Cabal creatures you control get +2/+0. => Other Cabal creatures you control get +1/+1, and an additional +2/+0 for each equipment attached to Valus Ta'aurc.
+flavor_text: [i]“Whether we wanted it or not, we've stepped into a war with the Cabal on Mars.”
+—Commander Zavala[/i] => [i]“Whether we wanted it or not, we've stepped into a war with the Cabal on Mars.”
+—Zavala, Commander and Titan Vanguard[/i]
+
+Ghaul's Bloodguard
+cost: {3}{R}{R} => {5}{R}{R}
+
+Loyalist Colossus
+flavor_text: [i]“The Leviathan is now home to the last of us true Cabal. We will remember the old ways, for I am the wellspring from which our great civilization flows.”
+—Calus, Exiled Emperor[/i] => [i]“The Leviathan is now home to the last of us true Cabal. We will remember the old ways, for I am the wellspring from which our great civilization flows.”
+—Calus, Cabal Emperor in exile[/i]
+
+Eye of the Swarm
+rules_text: Defender, Flying
+When Eye of the Swarm enters, mill four cards, then draw a card. => Defender, flying
+When Eye of the Swarm enters, mill four cards, then draw a card.
+
+Exorcism
+type: Sorcery => Instant
+rules_text: Choose one—
+• Destroy target artifact or enchantment
+• Destroy all auras attached to target creature. => Choose one—
+• Exile target artifact or enchantment
+• Exile all auras attached to target creature.
+
+Visage of the Emperor
+rules_text: When Visage of the Emperor enters, create a Shadow Legionary, a 3/3 green Darkness Cabal creature token.
+Creature tokens you control get +1/+0. => When Visage of the Emperor enters, create a Shadow Legionary, a 3/3 green Darkness Cabal creature token.
+{T}: Add {G}.
+flavor_text: [i]“My semblance matches my inner beauty. And what beauty!”
+—Calus, Exiled Emperor[/i] => [i]“My semblance matches my inner beauty. And what beauty!”
+—Calus, Cabal Emperor in exile[/i]
+
+Precursor Cyclops
+rules_text: Defender, Reach
+{T}: Exile the top card of your library. If a land card is exiled this way, you may put it into your hand. => Defender, Reach
+{1}, {T}: Exile the top card of your library. If a land card is exiled this way, you may simulate it. [i](Create a nonlegendary token copy of it.)[/i]
+
+Taken Essence
+rules_text: Enchant creature
+When Taken Essence enters, draw a card.
+Enchanted creature gets +2/+1. => Enchant creature
+When Taken Essence enters, draw a card.
+Enchanted creature gets +2/+1 and is legendary.
+
+Corrupted Techeun
+rules_text: Whenever you cast an instant, sorcery, or Aura spell, creatures you control get +1/+1 until end of turn. Then if this is the second time this ability has triggered this turn, draw two cards. If it's the third time, put Corrupted Techeun on top of its owner's library and add {G}{G}{G}{G}{G}. => Whenever you cast an instant, sorcery, or enchantment spell, creatures you control get +1/+1 until end of turn. Then if this is the second time this ability has triggered this turn, draw two cards. If it's the third time, put Corrupted Techeun on top of its owner's library and add {G}{G}{G}{G}{G}.
+
+Bladefury
+rules_text: Enchant creature
+Enchanted creature has “When this creature attacks, double its power and toughness until end of turn,” and is legendary.
+[i]Into the Fray —[/i] When enchanted creature is dealt damage for the first time each turn, put a +1/+1 counter on it. => Flash
+Enchant creature
+Enchanted creature has “When this creature attacks, double its power and toughness until end of turn,” and is legendary.
+[i]Into the Fray —[/i] When enchanted creature is dealt damage for the first time each turn, put a +1/+1 counter on it.
+
+Vanguard Postmaster
+rules_text: When Vanguard Postmaster enters, look at the top four cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest on top of your library in any order.
+{T}: Add {C}. Spend this mana only to cast artifact spells or activate abilities of artifacts. => When Vanguard Postmaster enters, look at the top four cards of your library. You may reveal an artifact card from among them and put it into your hand. Put the rest into your graveyard.
+{T}: Add {C}. Spend this mana only to cast artifact spells or activate abilities of artifacts.
+
+Crest of Alpha Lupi
+cost: {4} => {2}
+
+Ergo Sum
+cost: {1}{W} => {2}{W}
+rules_text: Whenever you cast an instant, sorcery or Aura spell, equipped creature gets +2/+0 until end of turn.
+[i]Arc Conductor —[/i] Equipped creature has ward {1} [i](Whenever this artifact becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+Equip {2} => [i]Arc Conductor —[/i] Equipped creature gets +2/+0 and has “The first time you cast a spell during an opponent's turn, put a +1/+1 counter on this creature.”
+Equip {2}
+
+Raid Banner
+rules_text: {2}, {T}, Sacrifice Raid Banner: Choose one—
+• Choose a battle. Add or remove two defense counters from it.
+• Untap target creature. => {2}, {T}, Sacrifice Raid Banner: Choose one—
+• Choose a battle. Add or remove two defense counters from it.
+• Put a +1/+1 counter on target creature.
+
+Injection Rig
+
+Eva's Holiday Oven
+
+No Time To Explain
+type: Artifact => Legendary Artifact
+
+Light-Eater Ogre
+rules_text: When Light-Eater Ogre enters or dies, exile target card from an opponent's graveyard. If it was a legendary card, you gain 3 life. => When Light-Eater Ogre enters or dies, exile target card from an opponent's graveyard. If it was legendary, you gain 3 life.
+
+Winterbite
+cost: {1}{U}{U} => {2}{U}
+rules_text: Equipped creature is legendary and gets +1/+4.
+[i]Big Frigid Glaive — [/i]Equipped creature has “{2}{U}, {T}: Tap up to X target creatures and put a stun counter on each of them, where X is your devotion to blue.” [i](Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)[/i]
+Equip {1}{U} => Equipped creature is legendary and gets +1/+3.
+[i]Big Frigid Glaive — [/i]Equipped creature has “{2}{U}, {T}: Tap target creature and put a stun counter on it. Activate only if your devotion to blue is three or greater.” [i](Each {U} in the mana costs of permanents you control counts toward your devotion to blue.)[/i]
+Equip {1}{U}
+
+Skolas, the Rabid Kell
+rules_text: When Skolas, the Rabid Kell enters, gain control of target artifact or creature with power 3 or less until end of turn. Untap that permanent. It gains haste until end of turn.
+When Skolas dies, return him to the battlefield transformed under his owner's control. => When Skolas enters, gain control of target noncreature artifact until end of turn. Untap that permanent. If it's an equipment card, attach it to Skolas. When you lose control of that artifact this turn, if it's attached to a creature you control, unattach it.
+When Skolas dies, return him to the battlefield transformed under his owner's control.
+pt: 2/3 => 3/3
+
+Nezarec, Final God of Pain
+pt: 8/4 => 8/5
+
+Food
+flavor_text: [i]“The soil of Nessus makes a fine wine. One with a slightly metallic nose and the afterbite of Vex radiolaria...”
+—Calus, Exiled Emperor[/i] => [i]“The soil of Nessus makes a fine wine. One with a slightly metallic nose and the afterbite of Vex radiolaria...”
+—Calus, Cabal Emperor in exile[/i]
+
+Gahlran's Deception
+pt: 1/2 => 2/2
+
+Locus of Communion
+type: Creature — Eliksni Zombie => Legendary Creature — Eliksni Zombie
+
+Holliday, Shipwright
+
+Akardon, Pitiless Mind
+rules_text: When Akardon, Pitiless Mind enters, exile target creature an opponent controls until Akardon leaves the battlefield.
+When Akardon, Pitiless Mind dies, return it to the battlefield transformed under its owner's control. => When Akardon enters, exile target creature an opponent controls until Akardon leaves the battlefield.
+When Akardon dies, return it to the battlefield transformed under its owner's control.
+
+Omen of the Black Terrace
+pt: 3/7 => 3/6
+
+Asher Mir, Gensym Scribe
+rules_text: Ward {1}
+Whenever you cast an artifact spell, surveil 2.
+When Asher Mir dies, return him to the battlefield transformed under his owner's control. => Ward {1}
+Whenever you cast an artifact spell, surveil 2. Then draw a card if that spell was legendary.
+When Asher Mir dies, return him to the battlefield transformed under his owner's control.
+
+Deep Stone Crypt
+rules_text: [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature attacks this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When Deep Stone Crypt enters, target artifact you control becomes a legendary artifact creature with base power and toughness 4/4 until end of turn. => [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature deals combat damage to this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When Deep Stone Crypt enters, target artifact you control becomes a legendary artifact creature with base power and toughness 4/4 until end of turn.
+
+Leviathan
+cost: {W}{W}{W} => {1}{W}{W}
+rules_text: [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature attacks this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When Leviathan enters, for as long as you control this battle, target creature becomes legendary and has “Whenever this creature attacks a battle, create a treasure token.” => [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature deals combat damage to this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When Leviathan enters, for as long as you control this battle, target creature becomes legendary and has “Whenever this creature attacks, create a treasure token.”
+loyalty:  => 4
+
+Vault of Glass
+rules_text: [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature attacks this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When Vault of Glass enters, target nonland permanent phases out. [i](Treat it and anything attached to it as though they don't exist until its controller's next turn.)[/i] => [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature deals combat damage to this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+Flash
+When Vault of Glass enters, exile target creature or artifact spell.
+
+Root of Nightmares
+rules_text: [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature attacks this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When Root of Nightmares enters, each player sacrifices a creature unless they discard two cards. => [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature deals combat damage to this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When Root of Nightmares enters, each player discards a card and loses 2 life.
+
+King's Fall
+rules_text: [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature attacks this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When King's Fall enters, target creature gets -5/-5 until end of turn. If it was a creature you controlled, you draw two cards. => [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature deals combat damage to this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When King's Fall enters, target creature gets -5/-5 until end of turn. If it was a creature you controlled, you draw two cards.
+
+Wrath of the Machine
+rules_text: [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature attacks this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When Wrath of the Machine enters, create two SIVA Nanite tokens. [i](They're equipment artifacts with “Equipped creature gets +1/+0” and equip {1}.)[/i] => [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature deals combat damage to this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When Wrath of the Machine enters, create two SIVA Nanite tokens. [i](They're equipment artifacts with “Equipped creature gets +1/+0” and equip {1}.)[/i]
+loyalty: 3 => 4
+
+Last Wish
+rules_text: [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature attacks this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When Last Wish enters, each player may choose a card they own from outside the game and put it into their hand. If any player does, they lose 2 life. => [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature deals combat damage to this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When Last Wish enters, each player may choose a card they own from outside the game and put it into their hand. If any player does, they lose 2 life.
+
+Vow of the Disciple
+rules_text: [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature attacks this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When Vow of the Disciple enters, mill six cards. Then return up to three artifact or creature cards milled this way to your hand. => [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature deals combat damage to this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When Vow of the Disciple enters, mill six cards. Then return up to three artifact or creature cards milled this way to your hand.
+
+Crota's End
+rules_text: [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature attacks this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When Crota's End enters, target creature you control gets +1/+1 and becomes legendary until end of turn. It fights another target creature you don't control. => [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature deals combat damage to this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When Crota's End enters, target creature you control gets +1/+1 and becomes legendary until end of turn. It fights another target creature you don't control.
+
+Garden of Salvation
+rules_text: [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature attacks this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When Garden of Salvation enters, exile the top two cards of your library. Then simulate a permanent card you own in exile with mana value 5 or less. [i](Create a nonlegendary token copy of it.)[/i] => [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature deals combat damage to this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When Garden of Salvation enters, exile the top two cards of your library. Then simulate a permanent card you own in exile with mana value 5 or less. [i](Create a nonlegendary token copy of it.)[/i]
+
+Scourge of the Past
+cost: {4} => {3}
+rules_text: [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature attacks this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When Scourge of the Past enters, surveil 4. [i](Look at the top four cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i] => [i](As a [i]Raid[/i] enters, choose an opponent to protect it. You and others can attack it. Whenever a creature deals combat damage to this [i]Raid[/i], its controller creates an Engram token. When it's defeated, exile it, then cast it transformed.)[/i]
+When Scourge of the Past enters, surveil 4. [i](Look at the top four cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)[/i]
+
+Imperial Legionary
+flavor_text: [i][/i] => [i]“We are Cabal. We eat the mountains. We drink the seas.”
+—Caiatl, Cabal Empress[/i]
+
+Hiraks, the Mindbender
+rules_text: When Hiraks enters, gain control of target creature an opponent controls with lesser power until the end of your next turn. Untap it. It gains haste until end of turn.
+Sword Logic—{4}{R}{R}, Exile two creature cards from your graveyard. [i](You may cast this spell from your graveyard for its Sword Logic cost if a creature you don't control died this turn.)[/i] => When Hiraks enters, gain control of target creature an opponent controls with lesser power until end of turn. Untap it. It gains haste until end of turn.
+Sword Logic—{4}{R}{R}, Exile two creature cards from your graveyard. [i](You may cast this spell from your graveyard for its Sword Logic cost if a creature you don't control died this turn.)[/i]
+
+Ada-1, Forge Curator
+rules_text: When Ada-1, Forge Curator enters, choose one—
+• [i]Forge —[/i] Add {C}{C}. Spend this mana only to cast equipment spells.
+• [i]Loom —[/i] Attach target equipment you control to target creature you control. => When Ada-1, Forge Curator enters, choose one—
+• [i]Forge —[/i] Add {C}{C}{C}. Spend this mana only to cast equipment spells.
+• [i]Loom —[/i] Attach target equipment you control to target creature you control.
+
+Black Armory Forge
+rules_text: {T}: Add {C}.
+{T}: Add {R}. Spend this mana only to cast artifact spells.
+{6}: Put a +1/+1 counter on target modified creature. That creature gains menace and becomes legendary as long as it's modified. [i](Equipment, Auras you control, and counters are modifications.)[/i] => {T}: Add {C}.
+{T}: Add one mana of any color. Spend this mana only to cast equipment spells or activate abilities of equipment.
+[i]Obsidian Accelerator —[/i] {5}, {T}: Put a +1/+1 counter on target creature. That creature gains menace and becomes legendary. [i](This effect lasts indefinitely.)[/i]
+
+Insurrection Prime
+cost: {5} => {4}
+
+Siege Engine
+type: Artifact Creature — Construct => Artifact — Vehicle
+cost: {4} => {3}
+rules_text: Siege Engine attacks each turn if able.
+Siege Engine can't be blocked by walls.
+{3}, Sacrifice Siege Engine: Destroy target artifact. Activate only if Siege Engine dealt combat damage to a player this turn. => Siege Engine can't be blocked by creatures with defender.
+Sacrifice Siege Engine: Destroy target artifact. Activate only as a sorcery and only if Siege Engine attacked this turn.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Last Stand of the Gunslinger
+type: Legendary Instant => Instant
+rules_text: [i](You may cast a legendary instant only if you control a legendary creature or planeswalker.)[/i]
+Attach X equipment you control to target creature you control. That creature gets +X/+0 and gains haste until end of turn. At the beginning of your next end step, sacrifice that creature. => Attach any number of equipment you control to target creature you control. That creature gets +X/+0, gains trample and haste, and is legendary until end of turn. At the beginning of your next end step, sacrifice that creature.
+
+Pouka
+type: Artifact Creature — Robot => Token Artifact Creature — Robot
+cost: {1} => 
+rules_text: Flying
+When Pouka enters, you gain 2 life. => Flying
+
+
+VERSION 9 CHANGELOG
 ====================
 
 
