@@ -1,4 +1,33 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Frozen in Stasis added.
+
+Frozen in Time removed.
+
+Strange Coin
+rules_text: {2}, {T}, Sacrifice Strange Coin: Add two mana of any color.
+{2}, Exile Strange Coin from your graveyard: Return target equipment card from your graveyard to your hand. => {1}, {T}, Sacrifice Strange Coin: Add two mana of any color.
+{2}, Exile Strange Coin from your graveyard: Return target artifact card from your graveyard to your hand.
+
+The Vanguard
+rules_text: At the beginning of your end step, choose one. Choose all three instead if you are legendary. [i](If you have defeated a battle, you become legend for the rest of the game.)[/i]—
+• You gain 3 life.
+• Put a +1/+1 counter on up to one target creature.
+• Create an Engram token. => Whenever The Vanguard or another legendary creature you control attacks, choose one that hasn't been chosen this turn—
+• You gain 3 life.
+• Put a +1/+1 counter on up to one target creature.
+• Create an Engram token.
+
+Raiders' Skiff
+rules_text: Flying
+[i]Glimmer Drill [/i]— When one or more artifacts enter under your control, target creature you control gets +2/+0 until end of turn.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Flying
+When Raiders' Skiff attacks, target creature you control gains flying until end of turn.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+
+VERSION 10 CHANGELOG
 ====================
 
 Penumbral Blast added.
