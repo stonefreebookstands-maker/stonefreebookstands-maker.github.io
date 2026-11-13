@@ -1,4 +1,143 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+Shadow Goliath added.
+Calus' Loyalists added.
+
+Shadows on the March removed.
+Loyalist Colossus removed.
+
+The Sanctified Mind
+rules_text: When The Sanctified Mind enters, simulate another target creature or land you control. [i](Create a nonlegendary token copy of it.)[/i]
+The Sanctified Mind gets +1/+1 for each token you control. => When The Sanctified Mind enters, simulate another target creature or target creature card in your graveyard. [i](Create a nonlegendary token copy of it.)[/i]
+The Sanctified Mind gets +1/+1 for each token you control.
+
+Penumbral Blast
+
+Heat Rises
+rules_text: Flash
+Enchant creature
+When Heat Rises enters, draw a card.
+Enchanted creature has flying. => Flash
+Enchant creature
+When Heat Rises enters, draw a card.
+Enchanted creature has flying and is legendary.
+
+Ergo Sum
+rules_text: [i]Wolfpack Rounds [/i]— As long as Ergo Sum is attached to a creature, equipped creatures you control have double strike.
+Equip {4} => [i]Wolfpack Rounds [/i]— As long as Ergo Sum is attached to a creature, equipped creatures you control have double strike.
+Equipped creature is legendary.
+Equip {4}
+
+Ergo Sum
+rules_text: Equipped creature gets +1/+1
+[i]Harbinger's Pulse — [/i]Whenever a creature dies, if that creature was dealt combat damage by equipped creature this turn, draw a card. Untap equipped creature.
+Equip {1} => Equipped creature gets +1/+1 and is legendary.
+[i]Harbinger's Pulse — [/i]Whenever a creature dies, if that creature was dealt combat damage by equipped creature this turn, draw a card. Untap equipped creature.
+Equip {1}
+
+Ergo Sum
+rules_text: Equipped creature gets +1/+1.
+[i]Serve the Colony — [/i]Whenever equipped creature attacks, create two Insectoid Robot Grenades, 1/1 colorless Insect Robot artifact creature tokens that are tapped and attacking. Sacrifice those tokens at the end of combat.
+Equip {2} => Equipped creature gets +1/+1 and is legendary.
+[i]Serve the Colony — [/i]Whenever equipped creature attacks, create two Insectoid Robot Grenades, 1/1 colorless Insect Robot artifact creature tokens that are tapped and attacking. Sacrifice those tokens at the end of combat.
+Equip {2}
+
+Ergo Sum
+rules_text: [i]Gathering Light — [/i]Whenever equipped creature attacks, put a charge counter on Ergo Sum. Then add {R} for each charge counter on Ergo Sum. Spend this mana only on abilities.
+{1}{R}: Equipped creature gets +1/+1 until end of turn.
+Equip {2} => [i]Gathering Light — [/i]Equipped creature is legendary and has “At the beginning of combat on your turn, add {R} equal to your devotion to red. Spend this mana only on abilities.” [i](Each {R} in the mana costs of permanents you control counts toward your devotion to red.)[/i]
+{1}{R}: Equipped creature gets +1/+1 until end of turn.
+Equip {2}
+
+Ritual of Negation
+flavor_text: [i]“The Vex have no hope. No imagination, no drive, no fear. All they have is the pattern. Everything must fit. If it can be made to fit, good. If it can't, it gets cut away.”
+—Praedyth[/i] => [i]“The Vex have no hope. No imagination, no drive, no fear. All they have is the pattern. Everything must fit. If it can be made to fit, good. If it can't, it gets cut away.”
+—Praedyth, the lost[/i]
+
+Salvation's Grip
+rules_text: When Salvation's Grip enters, tap target creature and put a stun counter on it. Then create a Glacier Wall, a 0/2 blue Wall creature token with defender.
+Equipped creature gets +2/+0 and is legendary.
+Equip {2} => [i]Cryocannon —[/i] When Salvation's Grip enters, tap target creature and put a stun counter on it. Then create a Glacier Wall, a 0/2 blue Wall creature token with defender.
+Equipped creature gets +2/+0 and is legendary.
+Equip {2}
+
+Typhon Imperator
+rules_text: Whenever a creature you control deals combat damage to a player, create a Shadow Legionary, a 3/3 green Darkness Cabal creature token.
+Station
+
+[level 20+] Flying, Trample [6/6] => Whenever a creature you control deals combat damage to a player, create a Shadow Legionary, a 3/2 green Darkness Cabal creature token.
+Station
+
+[level 20+] Flying, Trample [6/6]
+special_text: Whenever a creature you control deals combat damage to a player, create a Shadow Legionary, a 3/3 green Darkness Cabal creature token.
+Station
+
+[level 20+] Flying, Trample [6/6] => Whenever a creature you control deals combat damage to a player, create a Shadow Legionary, a 3/2 green Darkness Cabal creature token.
+Station
+
+[level 20+] Flying, Trample [6/6]
+
+Khvostov 7G-02
+rules_text: Equipped creature gets +1/+0
+Equip {1} => Equipped creature gets +1/+0.
+Equip {1}
+
+Armsday
+rules_text: You may cast Equipment spells as though they had flash and they cost {1} less to cast.
+{3}{W}, Sacrifice WC23—Armsday: Create two Engram tokens. [i](They're artifacts with “{1}, {T}, Sacrifice this token: Draw a card, then discard a card.”)[/i] => You may cast Equipment spells as though they had flash and they cost {1} less to cast.
+{3}{W}, Sacrifice Armsday: Create two Engram tokens. [i](They're artifacts with “{1}, {T}, Sacrifice this token: Draw a card, then discard a card.”)[/i]
+
+Arcadia-Class Jumpship
+rules_text: Flying
+When Arcadia-Class Jumpship enters, search your library for a plains or Planet card, reveal it, and put it into your hand. Then shuffle.
+Crew 2 [i](Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Flying
+When Arcadia-Class Jumpship enters, search your library for a plains or Planet card, reveal it, and put it into your hand. Then shuffle.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+pt: 3/1 => 2/1
+
+Imperial Conscription
+
+The Vanguard
+rules_text: Whenever The Vanguard or another legendary creature you control attacks, choose one that hasn't been chosen this turn—
+• You gain 3 life.
+• Put a +1/+1 counter on up to one target creature.
+• Create an Engram token. => Whenever The Vanguard or another legendary creature you control attacks or dies, choose one that hasn't been chosen this turn—
+• You gain 3 life.
+• Put a +1/+1 counter on up to one target creature.
+• Create an Engram token.
+
+Corridors of Time
+rules_text: When Corridors of Time enters, each player exiles the top card of their library.
+Whenever you simulate a card, put a +1/+1 counter on up to one target creature. => When Corridors of Time enters and whenever you simulate a card, target player exiles the top two cards of their library.
+flavor_text: [i][/i] => [i]“You think of time as a constant companion. Right up until you are drowning in it.”
+—Praedyth, the lost[/i]
+
+Sol Inherent
+
+Visage of the Emperor
+cost: {2}{G} => {3}{G}
+rules_text: When Visage of the Emperor enters, create a Shadow Legionary, a 3/3 green Darkness Cabal creature token.
+{T}: Add {G}. => Whenever you create one or more tokens, instead create that many tokens plus a Shadow Legionary, a 3/2 green Darkness Cabal creature token.
+{T}: Add {G}{G}.
+
+Ergo Sum
+rules_text: [i]Arc Conductor —[/i] Equipped creature gets +2/+0 and has “The first time you cast a spell during an opponent's turn, put a +1/+1 counter on this creature.”
+Equip {2} => [i]Arc Conductor —[/i] Equipped creature gets +2/+0, is legendary, and has “When you cast a spell during an opponent's turn, put a +1/+1 counter on this creature. This ability triggers only once each turn.”
+Equip {2}
+
+Shadow Legionary
+pt: 3/3 => 3/2
+
+Ghosts of the Deep
+
+The Undying Mind
+rules_text: Once per turn, you may simulate The Undying Mind from exile by paying its mana cost. Do this only as a sorcery. [i](Create a nonlegendary token copy of it.)[/i]
+When The Undying Mind dies, exile it instead. => Once per turn, you may simulate The Undying Mind from exile by paying its mana cost. Do this only as a sorcery. [i](To simulate a card, create a nonlegendary token copy of it.)[/i]
+When The Undying Mind dies, exile it instead.
+
+
+VERSION 11 CHANGELOG
 ====================
 
 Frozen in Stasis added.
